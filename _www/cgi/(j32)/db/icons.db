@@ -1,0 +1,2 @@
+Id|Level|Form Name|Icon|Caption|Url|Tooltip
+mobile|1|frmtitle|media/icons/app.gif|frmtitle (Launch Dialog)|JS.Launch(1,'mobile','js/mobile.js','js');|

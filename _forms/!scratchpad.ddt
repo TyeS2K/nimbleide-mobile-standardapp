@@ -1,0 +1,2352 @@
+!scratchpad,,SURFACE,|50|155|1067|773|268435476|65568
+    !scratchpad,,version,5.0
+    !scratchpad,,loadlibs,
+    !scratchpad,,groupid,9999999999
+    !scratchpad,,groupby,0
+    !scratchpad,,runpos,0|0
+    !scratchpad,,DOCK,FFFF
+    !scratchpad,,PARENT,
+    !scratchpad,,MARGINS,
+    !scratchpad,,AUTOSIZE,false
+    !scratchpad,,JSON,{}
+    !scratchpad,,TEXT,
+    !scratchpad,,TOOLTIP,
+    !scratchpad,,ENABLED,true
+    !scratchpad,,VISIBLE,true
+    !scratchpad,,FORECOLOR,&heeeeee
+    !scratchpad,,BACKCOLOR,&hf0f0f0
+    !scratchpad,,ICON,
+    !scratchpad,,FONTNAME,arial<COMMA> helvetica<COMMA> sans-serif
+    !scratchpad,,FONTSIZE,14px
+    !scratchpad,,FONTBOLD,false
+    !scratchpad,,FONTITALIC,false
+    !scratchpad,,FONTUNDERLINE,false
+    !scratchpad,,FONTSTRIKETHRU,false
+    !scratchpad,,MENUBAR,
+    !scratchpad,,TOOLBAR,
+    !scratchpad,,STATUSBAR,
+    !scratchpad,,SAVESTATE,false
+    !scratchpad,,drag.x,
+    !scratchpad,,drag.y,
+    !scratchpad,,xdragrange,
+    !scratchpad,,ydragrange,
+    !scratchpad,,size.x,
+    !scratchpad,,size.y,
+    !scratchpad,,negadj,
+    !scratchpad,,posadj,
+    !scratchpad,,TAG,~bind<COLN> false<LF>category<COLN> <LF>class<COLN> <LF>clipmenu<COLN> true<LF>donottheme<COLN> false<LF>dragable<COLN> true<LF>flattenonpull<COLN> true<LF>ignorezorder<COLN> false<LF>output<COLN> normal<LF>record<COLN> <LF>shadow<COLN> true<LF>sizeable<COLN> true<LF>tag<COLN> <LF>theme<COLN> nimble-form<LF>toggleonflip<COLN> true<LF>useastheme<COLN> false<LF>watch<COLN> false<LF>lock-height<COLN> <LF>lock-width<COLN> <LF>body.version<COLN> v5.0~color<COLN> #eeeeee<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>background-color<COLN> #f0f0f0<LF>font-family<COLN> arial<COMMA> helvetica<COMMA> sans-serif<LF>font-size<COLN> 14px<LF>font-style<COLN> normal<LF>font-weight<COLN> normal<LF>pointer-events<COLN> initial<LF>text-align<COLN> <LF>text-decoration<COLN> <LF>vertical-align<COLN> <LF>z-index<COLN> 2<LF>body.overflow-x<COLN> auto
+    !scratchpad,,events,activate<COLN> <CR>adjustlayout<COLN> <CR>afterpull<COLN> <CR>afterpush<COLN> <CR>beforeunload<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>disabled<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>enabled<COLN> <CR>enterkey<COLN> <CR>fullscreen<COLN> <CR>gotfocus<COLN> <CR>hide<COLN> <CR>keydown<COLN> <CR>keypress<COLN> <CR>keyup<COLN> <CR>load<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>maximize<COLN> <CR>menu<COLN> <CR>minimize<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>move<COLN> <CR>move<COLN> <CR>onpull<COLN> <CR>onpush<COLN> <CR>refresh<COLN> <CR>resize<COLN> <CR>restore<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN> <CR>unload<COLN> <CR>viewchange<COLN> <CR>widgetloaded<COLN> <CR>widgetunloading<COLN>
+    !scratchpad,,extend,{"react":"<LF>"}
+    !scratchpad,,GROUPIDS,[0200][0100][0300][0400]
+    !scratchpad,,WSTYLES,268435476
+    !scratchpad,,WSTYLESEX,65568
+    !scratchpad,,WIDTH,1067
+    !scratchpad,,HEIGHT,773
+    !scratchpad,,EDITPOS,50|155
+!scratchpad,!scratchmsg,TARGET,~
+!scratchpad,!scratchmsg,PARENTGROUP,~
+!scratchpad,!scratchmsg,load,label|Use this dialog as a scratchpad to create widgets.|2|749|1061|21|1342374157|32
+    !scratchpad,!scratchmsg,group,false
+    !scratchpad,!scratchmsg,groupid,0
+    !scratchpad,!scratchmsg,groupby,9999999999
+    !scratchpad,!scratchmsg,widgetlock,false
+    !scratchpad,!scratchmsg,iswidget,false
+    !scratchpad,!scratchmsg,iscollection,false
+    !scratchpad,!scratchmsg,collectname,
+    !scratchpad,!scratchmsg,widgetname,
+    !scratchpad,!scratchmsg,placeholder,
+    !scratchpad,!scratchmsg,addedby,
+    !scratchpad,!scratchmsg,DOCK,FTTT
+    !scratchpad,!scratchmsg,PICTURE,media/img_missing.png
+    !scratchpad,!scratchmsg,SIZE,1061<PIP>21
+    !scratchpad,!scratchmsg,JSON,{}
+    !scratchpad,!scratchmsg,TEXT,Use this dialog as a scratchpad to create widgets.
+    !scratchpad,!scratchmsg,TOOLTIP,
+    !scratchpad,!scratchmsg,ENABLED,true
+    !scratchpad,!scratchmsg,VISIBLE,true
+    !scratchpad,!scratchmsg,ZORDER,0
+    !scratchpad,!scratchmsg,FORECOLOR,&h000000
+    !scratchpad,!scratchmsg,BACKCOLOR,transparent
+    !scratchpad,!scratchmsg,FONTNAME,<SQ><SQ>comic sans ms<SQ><SQ><COMMA> cursive<COMMA> sans-serif
+    !scratchpad,!scratchmsg,FONTSIZE,14px
+    !scratchpad,!scratchmsg,FONTBOLD,false
+    !scratchpad,!scratchmsg,FONTITALIC,true
+    !scratchpad,!scratchmsg,FONTUNDERLINE,false
+    !scratchpad,!scratchmsg,FONTSTRIKETHRU,false
+    !scratchpad,!scratchmsg,INFO,
+    !scratchpad,!scratchmsg,PAGECOUNT,0
+    !scratchpad,!scratchmsg,DATABIND,
+    !scratchpad,!scratchmsg,BINDMAPPING,
+    !scratchpad,!scratchmsg,drag.x,1
+    !scratchpad,!scratchmsg,drag.y,1
+    !scratchpad,!scratchmsg,xdragrange,-1<SEMI> -1
+    !scratchpad,!scratchmsg,ydragrange,-1<SEMI> -1
+    !scratchpad,!scratchmsg,size.x,1
+    !scratchpad,!scratchmsg,size.y,1
+    !scratchpad,!scratchmsg,negadj,
+    !scratchpad,!scratchmsg,posadj,
+    !scratchpad,!scratchmsg,child,false
+    !scratchpad,!scratchmsg,displaymode,absolute
+    !scratchpad,!scratchmsg,TAG,~bind<COLN> false<LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>tag<COLN> <LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-pos<COLN> <LF>dlock-size<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> 0.55<LF>padding<COLN> 0px 0px<LF>position<COLN> absolute<LF>visibility<COLN> visible<LF>background-color<COLN> transparent<LF>border-style<COLN> solid<LF>border-width<COLN> 0px<LF>font-family<COLN> <SQ><SQ>comic sans ms<SQ><SQ><COMMA> cursive<COMMA> sans-serif<LF>font-size<COLN> 14px<LF>font-style<COLN> italic<LF>font-weight<COLN> normal<LF>pointer-events<COLN> none<LF>text-align<COLN> <LF>text-decoration<COLN> <LF>vertical-align<COLN><LF>caption.display<COLN> table-cell<LF>caption.text-align<COLN> center<LF>caption.width<COLN> 1%<LF>div.pointer-events<COLN> none
+    !scratchpad,!scratchmsg,LOCK,true
+    !scratchpad,!scratchmsg,events,
+    !scratchpad,!scratchmsg,extend,{}
+!scratchpad,!scratchmsg,REFRESH, 
+!scratchpad,loginfrm,TARGET,~
+!scratchpad,loginfrm,PARENTGROUP,~
+!scratchpad,loginfrm,load,frame||0|0|329|352|1342227719|32
+    !scratchpad,loginfrm,group,true
+    !scratchpad,loginfrm,groupid,0200
+    !scratchpad,loginfrm,groupby,9999999999
+    !scratchpad,loginfrm,widgetlock,false
+    !scratchpad,loginfrm,iswidget,true
+    !scratchpad,loginfrm,iscollection,false
+    !scratchpad,loginfrm,collectname,
+    !scratchpad,loginfrm,widgetname,
+    !scratchpad,loginfrm,placeholder,
+    !scratchpad,loginfrm,addedby,
+    !scratchpad,loginfrm,DOCK,FFFF
+    !scratchpad,loginfrm,PICTURE,media/img_missing.png
+    !scratchpad,loginfrm,SIZE,329<PIP>352
+    !scratchpad,loginfrm,JSON,{}
+    !scratchpad,loginfrm,TEXT,
+    !scratchpad,loginfrm,TOOLTIP,
+    !scratchpad,loginfrm,ENABLED,true
+    !scratchpad,loginfrm,VISIBLE,true
+    !scratchpad,loginfrm,ZORDER,0
+    !scratchpad,loginfrm,FORECOLOR,&h000000
+    !scratchpad,loginfrm,BACKCOLOR,transparent
+    !scratchpad,loginfrm,FONTNAME,inherit
+    !scratchpad,loginfrm,FONTSIZE,14px
+    !scratchpad,loginfrm,FONTBOLD,false
+    !scratchpad,loginfrm,FONTITALIC,false
+    !scratchpad,loginfrm,FONTUNDERLINE,false
+    !scratchpad,loginfrm,FONTSTRIKETHRU,false
+    !scratchpad,loginfrm,INFO,
+    !scratchpad,loginfrm,PAGECOUNT,0
+    !scratchpad,loginfrm,DATABIND,
+    !scratchpad,loginfrm,BINDMAPPING,
+    !scratchpad,loginfrm,drag.x,1
+    !scratchpad,loginfrm,drag.y,1
+    !scratchpad,loginfrm,xdragrange,-1<SEMI> -1
+    !scratchpad,loginfrm,ydragrange,-1<SEMI> -1
+    !scratchpad,loginfrm,size.x,1
+    !scratchpad,loginfrm,size.y,1
+    !scratchpad,loginfrm,negadj,
+    !scratchpad,loginfrm,posadj,
+    !scratchpad,loginfrm,child,false
+    !scratchpad,loginfrm,displaymode,inline-block
+    !scratchpad,loginfrm,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> !!!!<LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 1px #bbb dotted<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> inline-block<LF>height<COLN> auto<LF>margin<COLN> 0px 0px 0px 0px<LF>opacity<COLN> <LF>padding<COLN> 16px 16px 16px 16px<LF>position<COLN> relative<LF>visibility<COLN> visible<LF>width<COLN> <LF>background-color<COLN> transparent<LF>box-sizing<COLN> border-box<LF>font-size<COLN> 14px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle
+    !scratchpad,loginfrm,LOCK,false
+    !scratchpad,loginfrm,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    !scratchpad,loginfrm,extend,{"react":"<LF>"}
+!scratchpad,loginfrm,REFRESH, 
+!scratchpad,loginfrm:logintitle,TARGET,loginfrm
+!scratchpad,loginfrm:logintitle,PARENTGROUP,loginfrm
+!scratchpad,loginfrm:logintitle,load,label|Your Title Here|0|0|420|31|1342377216|32
+    !scratchpad,loginfrm:logintitle,group,false
+    !scratchpad,loginfrm:logintitle,groupid,0
+    !scratchpad,loginfrm:logintitle,groupby,0200
+    !scratchpad,loginfrm:logintitle,widgetlock,false
+    !scratchpad,loginfrm:logintitle,iswidget,true
+    !scratchpad,loginfrm:logintitle,iscollection,false
+    !scratchpad,loginfrm:logintitle,collectname,
+    !scratchpad,loginfrm:logintitle,widgetname,
+    !scratchpad,loginfrm:logintitle,placeholder,
+    !scratchpad,loginfrm:logintitle,addedby,
+    !scratchpad,loginfrm:logintitle,DOCK,FFFF
+    !scratchpad,loginfrm:logintitle,PICTURE,media/img_missing.png
+    !scratchpad,loginfrm:logintitle,SIZE,420<PIP>31
+    !scratchpad,loginfrm:logintitle,JSON,{}
+    !scratchpad,loginfrm:logintitle,TEXT,Your Title Here
+    !scratchpad,loginfrm:logintitle,TOOLTIP,
+    !scratchpad,loginfrm:logintitle,ENABLED,true
+    !scratchpad,loginfrm:logintitle,VISIBLE,true
+    !scratchpad,loginfrm:logintitle,ZORDER,0
+    !scratchpad,loginfrm:logintitle,FORECOLOR,&h000000
+    !scratchpad,loginfrm:logintitle,BACKCOLOR,transparent
+    !scratchpad,loginfrm:logintitle,FONTNAME,inherit
+    !scratchpad,loginfrm:logintitle,FONTSIZE,26px
+    !scratchpad,loginfrm:logintitle,FONTBOLD,false
+    !scratchpad,loginfrm:logintitle,FONTITALIC,false
+    !scratchpad,loginfrm:logintitle,FONTUNDERLINE,false
+    !scratchpad,loginfrm:logintitle,FONTSTRIKETHRU,false
+    !scratchpad,loginfrm:logintitle,INFO,
+    !scratchpad,loginfrm:logintitle,PAGECOUNT,0
+    !scratchpad,loginfrm:logintitle,DATABIND,
+    !scratchpad,loginfrm:logintitle,BINDMAPPING,
+    !scratchpad,loginfrm:logintitle,drag.x,1
+    !scratchpad,loginfrm:logintitle,drag.y,1
+    !scratchpad,loginfrm:logintitle,xdragrange,-1<SEMI> -1
+    !scratchpad,loginfrm:logintitle,ydragrange,-1<SEMI> -1
+    !scratchpad,loginfrm:logintitle,size.x,1
+    !scratchpad,loginfrm:logintitle,size.y,1
+    !scratchpad,loginfrm:logintitle,negadj,
+    !scratchpad,loginfrm:logintitle,posadj,
+    !scratchpad,loginfrm:logintitle,child,true
+    !scratchpad,loginfrm:logintitle,displaymode,block
+    !scratchpad,loginfrm:logintitle,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 26px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> <LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.margin<COLN> 0px 0px 20px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    !scratchpad,loginfrm:logintitle,LOCK,false
+    !scratchpad,loginfrm:logintitle,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    !scratchpad,loginfrm:logintitle,extend,{"react":"<[CR]>"}
+!scratchpad,loginfrm:logintitle,REFRESH, 
+!scratchpad,loginfrm:lbwelcome,TARGET,loginfrm
+!scratchpad,loginfrm:lbwelcome,PARENTGROUP,loginfrm
+!scratchpad,loginfrm:lbwelcome,load,label|Welcome back. Please login to your account.|0|0|148|32|1342377216|32
+    !scratchpad,loginfrm:lbwelcome,group,false
+    !scratchpad,loginfrm:lbwelcome,groupid,0
+    !scratchpad,loginfrm:lbwelcome,groupby,0200
+    !scratchpad,loginfrm:lbwelcome,widgetlock,false
+    !scratchpad,loginfrm:lbwelcome,iswidget,true
+    !scratchpad,loginfrm:lbwelcome,iscollection,false
+    !scratchpad,loginfrm:lbwelcome,collectname,
+    !scratchpad,loginfrm:lbwelcome,widgetname,
+    !scratchpad,loginfrm:lbwelcome,placeholder,
+    !scratchpad,loginfrm:lbwelcome,addedby,
+    !scratchpad,loginfrm:lbwelcome,DOCK,FFFF
+    !scratchpad,loginfrm:lbwelcome,PICTURE,media/img_missing.png
+    !scratchpad,loginfrm:lbwelcome,SIZE,148<PIP>32
+    !scratchpad,loginfrm:lbwelcome,JSON,{}
+    !scratchpad,loginfrm:lbwelcome,TEXT,Welcome back. Please login to your account.
+    !scratchpad,loginfrm:lbwelcome,TOOLTIP,
+    !scratchpad,loginfrm:lbwelcome,ENABLED,true
+    !scratchpad,loginfrm:lbwelcome,VISIBLE,true
+    !scratchpad,loginfrm:lbwelcome,ZORDER,0
+    !scratchpad,loginfrm:lbwelcome,FORECOLOR,&h000000
+    !scratchpad,loginfrm:lbwelcome,BACKCOLOR,transparent
+    !scratchpad,loginfrm:lbwelcome,FONTNAME,inherit
+    !scratchpad,loginfrm:lbwelcome,FONTSIZE,12px
+    !scratchpad,loginfrm:lbwelcome,FONTBOLD,false
+    !scratchpad,loginfrm:lbwelcome,FONTITALIC,false
+    !scratchpad,loginfrm:lbwelcome,FONTUNDERLINE,false
+    !scratchpad,loginfrm:lbwelcome,FONTSTRIKETHRU,false
+    !scratchpad,loginfrm:lbwelcome,INFO,
+    !scratchpad,loginfrm:lbwelcome,PAGECOUNT,0
+    !scratchpad,loginfrm:lbwelcome,DATABIND,
+    !scratchpad,loginfrm:lbwelcome,BINDMAPPING,
+    !scratchpad,loginfrm:lbwelcome,drag.x,1
+    !scratchpad,loginfrm:lbwelcome,drag.y,1
+    !scratchpad,loginfrm:lbwelcome,xdragrange,-1<SEMI> -1
+    !scratchpad,loginfrm:lbwelcome,ydragrange,-1<SEMI> -1
+    !scratchpad,loginfrm:lbwelcome,size.x,1
+    !scratchpad,loginfrm:lbwelcome,size.y,1
+    !scratchpad,loginfrm:lbwelcome,negadj,
+    !scratchpad,loginfrm:lbwelcome,posadj,
+    !scratchpad,loginfrm:lbwelcome,child,true
+    !scratchpad,loginfrm:lbwelcome,displaymode,block
+    !scratchpad,loginfrm:lbwelcome,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 12px<LF>max-width<COLN> 50%<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> <LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.margin<COLN> 0px 0px 25px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    !scratchpad,loginfrm:lbwelcome,LOCK,false
+    !scratchpad,loginfrm:lbwelcome,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    !scratchpad,loginfrm:lbwelcome,extend,{"react":"<[CR]>"}
+!scratchpad,loginfrm:lbwelcome,REFRESH, 
+!scratchpad,loginfrm:lbemail,TARGET,loginfrm
+!scratchpad,loginfrm:lbemail,PARENTGROUP,loginfrm
+!scratchpad,loginfrm:lbemail,load,label|Login or Email|0|0|302|21|1342377216|32
+    !scratchpad,loginfrm:lbemail,group,false
+    !scratchpad,loginfrm:lbemail,groupid,0
+    !scratchpad,loginfrm:lbemail,groupby,0200
+    !scratchpad,loginfrm:lbemail,widgetlock,false
+    !scratchpad,loginfrm:lbemail,iswidget,true
+    !scratchpad,loginfrm:lbemail,iscollection,false
+    !scratchpad,loginfrm:lbemail,collectname,
+    !scratchpad,loginfrm:lbemail,widgetname,
+    !scratchpad,loginfrm:lbemail,placeholder,
+    !scratchpad,loginfrm:lbemail,addedby,
+    !scratchpad,loginfrm:lbemail,DOCK,FFFF
+    !scratchpad,loginfrm:lbemail,PICTURE,media/img_missing.png
+    !scratchpad,loginfrm:lbemail,SIZE,302<PIP>21
+    !scratchpad,loginfrm:lbemail,JSON,{}
+    !scratchpad,loginfrm:lbemail,TEXT,Login or Email
+    !scratchpad,loginfrm:lbemail,TOOLTIP,
+    !scratchpad,loginfrm:lbemail,ENABLED,true
+    !scratchpad,loginfrm:lbemail,VISIBLE,true
+    !scratchpad,loginfrm:lbemail,ZORDER,0
+    !scratchpad,loginfrm:lbemail,FORECOLOR,&h000000
+    !scratchpad,loginfrm:lbemail,BACKCOLOR,transparent
+    !scratchpad,loginfrm:lbemail,FONTNAME,inherit
+    !scratchpad,loginfrm:lbemail,FONTSIZE,12px
+    !scratchpad,loginfrm:lbemail,FONTBOLD,false
+    !scratchpad,loginfrm:lbemail,FONTITALIC,false
+    !scratchpad,loginfrm:lbemail,FONTUNDERLINE,false
+    !scratchpad,loginfrm:lbemail,FONTSTRIKETHRU,false
+    !scratchpad,loginfrm:lbemail,INFO,
+    !scratchpad,loginfrm:lbemail,PAGECOUNT,0
+    !scratchpad,loginfrm:lbemail,DATABIND,
+    !scratchpad,loginfrm:lbemail,BINDMAPPING,
+    !scratchpad,loginfrm:lbemail,drag.x,1
+    !scratchpad,loginfrm:lbemail,drag.y,1
+    !scratchpad,loginfrm:lbemail,xdragrange,-1<SEMI> -1
+    !scratchpad,loginfrm:lbemail,ydragrange,-1<SEMI> -1
+    !scratchpad,loginfrm:lbemail,size.x,1
+    !scratchpad,loginfrm:lbemail,size.y,1
+    !scratchpad,loginfrm:lbemail,negadj,
+    !scratchpad,loginfrm:lbemail,posadj,
+    !scratchpad,loginfrm:lbemail,child,true
+    !scratchpad,loginfrm:lbemail,displaymode,block
+    !scratchpad,loginfrm:lbemail,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 12px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> <LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    !scratchpad,loginfrm:lbemail,LOCK,false
+    !scratchpad,loginfrm:lbemail,events,
+    !scratchpad,loginfrm:lbemail,extend,{}
+!scratchpad,loginfrm:lbemail,REFRESH, 
+!scratchpad,loginfrm:login,TARGET,loginfrm
+!scratchpad,loginfrm:login,PARENTGROUP,loginfrm
+!scratchpad,loginfrm:login,load,textbox||0|0|105|31|1342374016|131072
+    !scratchpad,loginfrm:login,group,false
+    !scratchpad,loginfrm:login,groupid,0
+    !scratchpad,loginfrm:login,groupby,0200
+    !scratchpad,loginfrm:login,widgetlock,false
+    !scratchpad,loginfrm:login,iswidget,true
+    !scratchpad,loginfrm:login,iscollection,false
+    !scratchpad,loginfrm:login,collectname,
+    !scratchpad,loginfrm:login,widgetname,
+    !scratchpad,loginfrm:login,placeholder,enter value..
+    !scratchpad,loginfrm:login,addedby,
+    !scratchpad,loginfrm:login,DOCK,FFFF
+    !scratchpad,loginfrm:login,PICTURE,media/img_missing.png
+    !scratchpad,loginfrm:login,SIZE,105<PIP>31
+    !scratchpad,loginfrm:login,JSON,{}
+    !scratchpad,loginfrm:login,TEXT,
+    !scratchpad,loginfrm:login,TOOLTIP,
+    !scratchpad,loginfrm:login,ENABLED,true
+    !scratchpad,loginfrm:login,VISIBLE,true
+    !scratchpad,loginfrm:login,ZORDER,0
+    !scratchpad,loginfrm:login,FORECOLOR,&h000000
+    !scratchpad,loginfrm:login,BACKCOLOR,&hf0f0f0
+    !scratchpad,loginfrm:login,FONTNAME,inherit
+    !scratchpad,loginfrm:login,FONTSIZE,14px
+    !scratchpad,loginfrm:login,FONTBOLD,false
+    !scratchpad,loginfrm:login,FONTITALIC,false
+    !scratchpad,loginfrm:login,FONTUNDERLINE,false
+    !scratchpad,loginfrm:login,FONTSTRIKETHRU,false
+    !scratchpad,loginfrm:login,INFO,
+    !scratchpad,loginfrm:login,PAGECOUNT,0
+    !scratchpad,loginfrm:login,DATABIND,
+    !scratchpad,loginfrm:login,BINDMAPPING,
+    !scratchpad,loginfrm:login,drag.x,1
+    !scratchpad,loginfrm:login,drag.y,1
+    !scratchpad,loginfrm:login,xdragrange,-1<SEMI> -1
+    !scratchpad,loginfrm:login,ydragrange,-1<SEMI> -1
+    !scratchpad,loginfrm:login,size.x,1
+    !scratchpad,loginfrm:login,size.y,1
+    !scratchpad,loginfrm:login,negadj,
+    !scratchpad,loginfrm:login,posadj,
+    !scratchpad,loginfrm:login,child,true
+    !scratchpad,loginfrm:login,displaymode,block
+    !scratchpad,loginfrm:login,TAG,~bind<COLN> true<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>datalist<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>placeholder<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-textbox<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>db-key<COLN> false<LF>db-name<COLN> login<LF>db-type<COLN> text<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0.5px solid rgba(104<COMMA>154<COMMA>219<COMMA>0.80)<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>outline<COLN> none<LF>visibility<COLN> visible<LF>background-color<COLN> #f0f0f0<LF>border-radius<COLN> 2px<LF>box-sizing<COLN> border-box<LF>font-size<COLN> 14px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> <LF>div.display<COLN> block<LF>div.margin<COLN> 0px 0px 20px 0px<LF>div.padding<COLN> 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    !scratchpad,loginfrm:login,LOCK,false
+    !scratchpad,loginfrm:login,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>enterkey<COLN> <CR>gotfocus<COLN> <CR>keydown<COLN> splash.events.loginKeyDown<CR>keypress<COLN> <CR>keyup<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> splash.events.validate<CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    !scratchpad,loginfrm:login,extend,{"react":"<LF>"}
+!scratchpad,loginfrm:login,REFRESH, 
+!scratchpad,loginfrm:lbpassword,TARGET,loginfrm
+!scratchpad,loginfrm:lbpassword,PARENTGROUP,loginfrm
+!scratchpad,loginfrm:lbpassword,load,label|Password|0|0|105|21|1342377216|32
+    !scratchpad,loginfrm:lbpassword,group,false
+    !scratchpad,loginfrm:lbpassword,groupid,0
+    !scratchpad,loginfrm:lbpassword,groupby,0200
+    !scratchpad,loginfrm:lbpassword,widgetlock,false
+    !scratchpad,loginfrm:lbpassword,iswidget,true
+    !scratchpad,loginfrm:lbpassword,iscollection,false
+    !scratchpad,loginfrm:lbpassword,collectname,
+    !scratchpad,loginfrm:lbpassword,widgetname,
+    !scratchpad,loginfrm:lbpassword,placeholder,
+    !scratchpad,loginfrm:lbpassword,addedby,
+    !scratchpad,loginfrm:lbpassword,DOCK,FFFF
+    !scratchpad,loginfrm:lbpassword,PICTURE,media/img_missing.png
+    !scratchpad,loginfrm:lbpassword,SIZE,105<PIP>21
+    !scratchpad,loginfrm:lbpassword,JSON,{}
+    !scratchpad,loginfrm:lbpassword,TEXT,Password
+    !scratchpad,loginfrm:lbpassword,TOOLTIP,
+    !scratchpad,loginfrm:lbpassword,ENABLED,true
+    !scratchpad,loginfrm:lbpassword,VISIBLE,true
+    !scratchpad,loginfrm:lbpassword,ZORDER,0
+    !scratchpad,loginfrm:lbpassword,FORECOLOR,&h000000
+    !scratchpad,loginfrm:lbpassword,BACKCOLOR,transparent
+    !scratchpad,loginfrm:lbpassword,FONTNAME,inherit
+    !scratchpad,loginfrm:lbpassword,FONTSIZE,12px
+    !scratchpad,loginfrm:lbpassword,FONTBOLD,false
+    !scratchpad,loginfrm:lbpassword,FONTITALIC,false
+    !scratchpad,loginfrm:lbpassword,FONTUNDERLINE,false
+    !scratchpad,loginfrm:lbpassword,FONTSTRIKETHRU,false
+    !scratchpad,loginfrm:lbpassword,INFO,
+    !scratchpad,loginfrm:lbpassword,PAGECOUNT,0
+    !scratchpad,loginfrm:lbpassword,DATABIND,
+    !scratchpad,loginfrm:lbpassword,BINDMAPPING,
+    !scratchpad,loginfrm:lbpassword,drag.x,1
+    !scratchpad,loginfrm:lbpassword,drag.y,1
+    !scratchpad,loginfrm:lbpassword,xdragrange,-1<SEMI> -1
+    !scratchpad,loginfrm:lbpassword,ydragrange,-1<SEMI> -1
+    !scratchpad,loginfrm:lbpassword,size.x,1
+    !scratchpad,loginfrm:lbpassword,size.y,1
+    !scratchpad,loginfrm:lbpassword,negadj,
+    !scratchpad,loginfrm:lbpassword,posadj,
+    !scratchpad,loginfrm:lbpassword,child,true
+    !scratchpad,loginfrm:lbpassword,displaymode,block
+    !scratchpad,loginfrm:lbpassword,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 12px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> <LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    !scratchpad,loginfrm:lbpassword,LOCK,false
+    !scratchpad,loginfrm:lbpassword,events,
+    !scratchpad,loginfrm:lbpassword,extend,{}
+!scratchpad,loginfrm:lbpassword,REFRESH, 
+!scratchpad,loginfrm:password,TARGET,loginfrm
+!scratchpad,loginfrm:password,PARENTGROUP,loginfrm
+!scratchpad,loginfrm:password,load,textbox||0|0|303|31|1342374016|131072
+    !scratchpad,loginfrm:password,group,false
+    !scratchpad,loginfrm:password,groupid,0
+    !scratchpad,loginfrm:password,groupby,0200
+    !scratchpad,loginfrm:password,widgetlock,false
+    !scratchpad,loginfrm:password,iswidget,true
+    !scratchpad,loginfrm:password,iscollection,false
+    !scratchpad,loginfrm:password,collectname,
+    !scratchpad,loginfrm:password,widgetname,
+    !scratchpad,loginfrm:password,placeholder,enter value..
+    !scratchpad,loginfrm:password,addedby,
+    !scratchpad,loginfrm:password,DOCK,FFFF
+    !scratchpad,loginfrm:password,PICTURE,media/img_missing.png
+    !scratchpad,loginfrm:password,SIZE,303<PIP>31
+    !scratchpad,loginfrm:password,JSON,{}
+    !scratchpad,loginfrm:password,TEXT,
+    !scratchpad,loginfrm:password,TOOLTIP,
+    !scratchpad,loginfrm:password,ENABLED,true
+    !scratchpad,loginfrm:password,VISIBLE,true
+    !scratchpad,loginfrm:password,ZORDER,0
+    !scratchpad,loginfrm:password,FORECOLOR,&h000000
+    !scratchpad,loginfrm:password,BACKCOLOR,&hf0f0f0
+    !scratchpad,loginfrm:password,FONTNAME,inherit
+    !scratchpad,loginfrm:password,FONTSIZE,14px
+    !scratchpad,loginfrm:password,FONTBOLD,false
+    !scratchpad,loginfrm:password,FONTITALIC,false
+    !scratchpad,loginfrm:password,FONTUNDERLINE,false
+    !scratchpad,loginfrm:password,FONTSTRIKETHRU,false
+    !scratchpad,loginfrm:password,INFO,
+    !scratchpad,loginfrm:password,PAGECOUNT,0
+    !scratchpad,loginfrm:password,DATABIND,
+    !scratchpad,loginfrm:password,BINDMAPPING,
+    !scratchpad,loginfrm:password,drag.x,1
+    !scratchpad,loginfrm:password,drag.y,1
+    !scratchpad,loginfrm:password,xdragrange,-1<SEMI> -1
+    !scratchpad,loginfrm:password,ydragrange,-1<SEMI> -1
+    !scratchpad,loginfrm:password,size.x,1
+    !scratchpad,loginfrm:password,size.y,1
+    !scratchpad,loginfrm:password,negadj,
+    !scratchpad,loginfrm:password,posadj,
+    !scratchpad,loginfrm:password,child,true
+    !scratchpad,loginfrm:password,displaymode,block
+    !scratchpad,loginfrm:password,TAG,~bind<COLN> true<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>datalist<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>placeholder<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-textbox<LF>title<COLN> <LF>type<COLN> password<LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>db-key<COLN> false<LF>db-name<COLN> password<LF>db-type<COLN> text<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0.5px solid rgba(104<COMMA>154<COMMA>219<COMMA>0.80)<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>outline<COLN> none<LF>visibility<COLN> visible<LF>background-color<COLN> #f0f0f0<LF>border-radius<COLN> 2px<LF>box-sizing<COLN> border-box<LF>font-size<COLN> 14px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> <LF>div.display<COLN> block<LF>div.margin<COLN> 0px 0px 0px 0px<LF>div.padding<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    !scratchpad,loginfrm:password,LOCK,false
+    !scratchpad,loginfrm:password,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>enterkey<COLN> <CR>gotfocus<COLN> <CR>keydown<COLN> splash.events.passKeyDown<CR>keypress<COLN> <CR>keyup<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> splash.events.validate<CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    !scratchpad,loginfrm:password,extend,{"react":"<LF>"}
+!scratchpad,loginfrm:password,REFRESH, 
+!scratchpad,loginfrm:lbreset,TARGET,loginfrm
+!scratchpad,loginfrm:lbreset,PARENTGROUP,loginfrm
+!scratchpad,loginfrm:lbreset,load,label|I have a reset code.|0|0|97|15|1342377216|32
+    !scratchpad,loginfrm:lbreset,group,false
+    !scratchpad,loginfrm:lbreset,groupid,0
+    !scratchpad,loginfrm:lbreset,groupby,0200
+    !scratchpad,loginfrm:lbreset,widgetlock,false
+    !scratchpad,loginfrm:lbreset,iswidget,true
+    !scratchpad,loginfrm:lbreset,iscollection,false
+    !scratchpad,loginfrm:lbreset,collectname,
+    !scratchpad,loginfrm:lbreset,widgetname,
+    !scratchpad,loginfrm:lbreset,placeholder,
+    !scratchpad,loginfrm:lbreset,addedby,
+    !scratchpad,loginfrm:lbreset,DOCK,FFFF
+    !scratchpad,loginfrm:lbreset,PICTURE,media/img_missing.png
+    !scratchpad,loginfrm:lbreset,SIZE,97<PIP>15
+    !scratchpad,loginfrm:lbreset,JSON,{}
+    !scratchpad,loginfrm:lbreset,TEXT,I have a reset code.
+    !scratchpad,loginfrm:lbreset,TOOLTIP,
+    !scratchpad,loginfrm:lbreset,ENABLED,true
+    !scratchpad,loginfrm:lbreset,VISIBLE,true
+    !scratchpad,loginfrm:lbreset,ZORDER,0
+    !scratchpad,loginfrm:lbreset,FORECOLOR,&h224488
+    !scratchpad,loginfrm:lbreset,BACKCOLOR,transparent
+    !scratchpad,loginfrm:lbreset,FONTNAME,inherit
+    !scratchpad,loginfrm:lbreset,FONTSIZE,11px
+    !scratchpad,loginfrm:lbreset,FONTBOLD,false
+    !scratchpad,loginfrm:lbreset,FONTITALIC,false
+    !scratchpad,loginfrm:lbreset,FONTUNDERLINE,false
+    !scratchpad,loginfrm:lbreset,FONTSTRIKETHRU,false
+    !scratchpad,loginfrm:lbreset,INFO,
+    !scratchpad,loginfrm:lbreset,PAGECOUNT,0
+    !scratchpad,loginfrm:lbreset,DATABIND,
+    !scratchpad,loginfrm:lbreset,BINDMAPPING,
+    !scratchpad,loginfrm:lbreset,drag.x,1
+    !scratchpad,loginfrm:lbreset,drag.y,1
+    !scratchpad,loginfrm:lbreset,xdragrange,-1<SEMI> -1
+    !scratchpad,loginfrm:lbreset,ydragrange,-1<SEMI> -1
+    !scratchpad,loginfrm:lbreset,size.x,1
+    !scratchpad,loginfrm:lbreset,size.y,1
+    !scratchpad,loginfrm:lbreset,negadj,
+    !scratchpad,loginfrm:lbreset,posadj,
+    !scratchpad,loginfrm:lbreset,child,true
+    !scratchpad,loginfrm:lbreset,displaymode,inline-block
+    !scratchpad,loginfrm:lbreset,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> !!!!<LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #224488<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 11px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> <LF>caption.display<COLN> table-cell<LF>caption.left<COLN> 0px<LF>caption.position<COLN> relative<LF>caption.text-align<COLN> left<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> inline-block<LF>div.margin<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> 40%
+    !scratchpad,loginfrm:lbreset,LOCK,false
+    !scratchpad,loginfrm:lbreset,events,change<COLN> <CR>click<COLN> splash.events.resetClick<CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    !scratchpad,loginfrm:lbreset,extend,{"react":"<[CR]>"}
+!scratchpad,loginfrm:lbreset,REFRESH, 
+!scratchpad,loginfrm:lbforgot,TARGET,loginfrm
+!scratchpad,loginfrm:lbforgot,PARENTGROUP,loginfrm
+!scratchpad,loginfrm:lbforgot,load,label|Forgot password?|0|0|88|15|1342377472|32
+    !scratchpad,loginfrm:lbforgot,group,false
+    !scratchpad,loginfrm:lbforgot,groupid,0
+    !scratchpad,loginfrm:lbforgot,groupby,0200
+    !scratchpad,loginfrm:lbforgot,widgetlock,false
+    !scratchpad,loginfrm:lbforgot,iswidget,true
+    !scratchpad,loginfrm:lbforgot,iscollection,false
+    !scratchpad,loginfrm:lbforgot,collectname,
+    !scratchpad,loginfrm:lbforgot,widgetname,
+    !scratchpad,loginfrm:lbforgot,placeholder,
+    !scratchpad,loginfrm:lbforgot,addedby,
+    !scratchpad,loginfrm:lbforgot,DOCK,FFFF
+    !scratchpad,loginfrm:lbforgot,PICTURE,media/img_missing.png
+    !scratchpad,loginfrm:lbforgot,SIZE,88<PIP>15
+    !scratchpad,loginfrm:lbforgot,JSON,{}
+    !scratchpad,loginfrm:lbforgot,TEXT,Forgot password?
+    !scratchpad,loginfrm:lbforgot,TOOLTIP,
+    !scratchpad,loginfrm:lbforgot,ENABLED,true
+    !scratchpad,loginfrm:lbforgot,VISIBLE,true
+    !scratchpad,loginfrm:lbforgot,ZORDER,0
+    !scratchpad,loginfrm:lbforgot,FORECOLOR,&h224488
+    !scratchpad,loginfrm:lbforgot,BACKCOLOR,transparent
+    !scratchpad,loginfrm:lbforgot,FONTNAME,inherit
+    !scratchpad,loginfrm:lbforgot,FONTSIZE,11px
+    !scratchpad,loginfrm:lbforgot,FONTBOLD,false
+    !scratchpad,loginfrm:lbforgot,FONTITALIC,false
+    !scratchpad,loginfrm:lbforgot,FONTUNDERLINE,false
+    !scratchpad,loginfrm:lbforgot,FONTSTRIKETHRU,false
+    !scratchpad,loginfrm:lbforgot,INFO,
+    !scratchpad,loginfrm:lbforgot,PAGECOUNT,0
+    !scratchpad,loginfrm:lbforgot,DATABIND,
+    !scratchpad,loginfrm:lbforgot,BINDMAPPING,
+    !scratchpad,loginfrm:lbforgot,drag.x,1
+    !scratchpad,loginfrm:lbforgot,drag.y,1
+    !scratchpad,loginfrm:lbforgot,xdragrange,-1<SEMI> -1
+    !scratchpad,loginfrm:lbforgot,ydragrange,-1<SEMI> -1
+    !scratchpad,loginfrm:lbforgot,size.x,1
+    !scratchpad,loginfrm:lbforgot,size.y,1
+    !scratchpad,loginfrm:lbforgot,negadj,
+    !scratchpad,loginfrm:lbforgot,posadj,
+    !scratchpad,loginfrm:lbforgot,child,true
+    !scratchpad,loginfrm:lbforgot,displaymode,inline-block
+    !scratchpad,loginfrm:lbforgot,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> !!!!<LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #224488<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 11px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> <LF>caption.display<COLN> table-cell<LF>caption.left<COLN> 0px<LF>caption.position<COLN> relative<LF>caption.text-align<COLN> right<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> inline-block<LF>div.margin<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> 60%
+    !scratchpad,loginfrm:lbforgot,LOCK,false
+    !scratchpad,loginfrm:lbforgot,events,change<COLN> <CR>click<COLN> splash.events.forgotClick<CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    !scratchpad,loginfrm:lbforgot,extend,{"react":"<[CR]>"}
+!scratchpad,loginfrm:lbforgot,REFRESH, 
+!scratchpad,loginfrm:lbregister,TARGET,loginfrm
+!scratchpad,loginfrm:lbregister,PARENTGROUP,loginfrm
+!scratchpad,loginfrm:lbregister,load,label|Register|0|0|303|15|1342377472|32
+    !scratchpad,loginfrm:lbregister,group,false
+    !scratchpad,loginfrm:lbregister,groupid,0
+    !scratchpad,loginfrm:lbregister,groupby,0200
+    !scratchpad,loginfrm:lbregister,widgetlock,false
+    !scratchpad,loginfrm:lbregister,iswidget,true
+    !scratchpad,loginfrm:lbregister,iscollection,false
+    !scratchpad,loginfrm:lbregister,collectname,
+    !scratchpad,loginfrm:lbregister,widgetname,
+    !scratchpad,loginfrm:lbregister,placeholder,
+    !scratchpad,loginfrm:lbregister,addedby,
+    !scratchpad,loginfrm:lbregister,DOCK,FFFF
+    !scratchpad,loginfrm:lbregister,PICTURE,media/img_missing.png
+    !scratchpad,loginfrm:lbregister,SIZE,303<PIP>15
+    !scratchpad,loginfrm:lbregister,JSON,{}
+    !scratchpad,loginfrm:lbregister,TEXT,Register
+    !scratchpad,loginfrm:lbregister,TOOLTIP,
+    !scratchpad,loginfrm:lbregister,ENABLED,true
+    !scratchpad,loginfrm:lbregister,VISIBLE,true
+    !scratchpad,loginfrm:lbregister,ZORDER,0
+    !scratchpad,loginfrm:lbregister,FORECOLOR,&h224488
+    !scratchpad,loginfrm:lbregister,BACKCOLOR,transparent
+    !scratchpad,loginfrm:lbregister,FONTNAME,inherit
+    !scratchpad,loginfrm:lbregister,FONTSIZE,11px
+    !scratchpad,loginfrm:lbregister,FONTBOLD,false
+    !scratchpad,loginfrm:lbregister,FONTITALIC,false
+    !scratchpad,loginfrm:lbregister,FONTUNDERLINE,false
+    !scratchpad,loginfrm:lbregister,FONTSTRIKETHRU,false
+    !scratchpad,loginfrm:lbregister,INFO,
+    !scratchpad,loginfrm:lbregister,PAGECOUNT,0
+    !scratchpad,loginfrm:lbregister,DATABIND,
+    !scratchpad,loginfrm:lbregister,BINDMAPPING,
+    !scratchpad,loginfrm:lbregister,drag.x,1
+    !scratchpad,loginfrm:lbregister,drag.y,1
+    !scratchpad,loginfrm:lbregister,xdragrange,-1<SEMI> -1
+    !scratchpad,loginfrm:lbregister,ydragrange,-1<SEMI> -1
+    !scratchpad,loginfrm:lbregister,size.x,1
+    !scratchpad,loginfrm:lbregister,size.y,1
+    !scratchpad,loginfrm:lbregister,negadj,
+    !scratchpad,loginfrm:lbregister,posadj,
+    !scratchpad,loginfrm:lbregister,child,true
+    !scratchpad,loginfrm:lbregister,displaymode,block
+    !scratchpad,loginfrm:lbregister,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #224488<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 11px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> <LF>caption.display<COLN> table-cell<LF>caption.left<COLN> 0px<LF>caption.position<COLN> relative<LF>caption.text-align<COLN> right<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.margin<COLN> 0px 0px 20px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    !scratchpad,loginfrm:lbregister,LOCK,false
+    !scratchpad,loginfrm:lbregister,events,change<COLN> <CR>click<COLN> splash.events.registerClick<CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    !scratchpad,loginfrm:lbregister,extend,{"react":"<[CR]>"}
+!scratchpad,loginfrm:lbregister,REFRESH, 
+!scratchpad,loginfrm:btnlogin,TARGET,loginfrm
+!scratchpad,loginfrm:btnlogin,PARENTGROUP,loginfrm
+!scratchpad,loginfrm:btnlogin,load,button|Login|0|0|100|35|1342394112|32
+    !scratchpad,loginfrm:btnlogin,group,false
+    !scratchpad,loginfrm:btnlogin,groupid,0
+    !scratchpad,loginfrm:btnlogin,groupby,0200
+    !scratchpad,loginfrm:btnlogin,widgetlock,false
+    !scratchpad,loginfrm:btnlogin,iswidget,true
+    !scratchpad,loginfrm:btnlogin,iscollection,false
+    !scratchpad,loginfrm:btnlogin,collectname,
+    !scratchpad,loginfrm:btnlogin,widgetname,
+    !scratchpad,loginfrm:btnlogin,placeholder,
+    !scratchpad,loginfrm:btnlogin,addedby,
+    !scratchpad,loginfrm:btnlogin,DOCK,FFFF
+    !scratchpad,loginfrm:btnlogin,PICTURE,media/img_missing.png
+    !scratchpad,loginfrm:btnlogin,SIZE,100<PIP>35
+    !scratchpad,loginfrm:btnlogin,JSON,{}
+    !scratchpad,loginfrm:btnlogin,TEXT,Login
+    !scratchpad,loginfrm:btnlogin,TOOLTIP,
+    !scratchpad,loginfrm:btnlogin,ENABLED,false
+    !scratchpad,loginfrm:btnlogin,VISIBLE,true
+    !scratchpad,loginfrm:btnlogin,ZORDER,0
+    !scratchpad,loginfrm:btnlogin,FORECOLOR,&h000000
+    !scratchpad,loginfrm:btnlogin,BACKCOLOR,rgba(104<COMMA>154<COMMA>219<COMMA>0.80)
+    !scratchpad,loginfrm:btnlogin,FONTNAME,inherit
+    !scratchpad,loginfrm:btnlogin,FONTSIZE,13px
+    !scratchpad,loginfrm:btnlogin,FONTBOLD,false
+    !scratchpad,loginfrm:btnlogin,FONTITALIC,false
+    !scratchpad,loginfrm:btnlogin,FONTUNDERLINE,false
+    !scratchpad,loginfrm:btnlogin,FONTSTRIKETHRU,false
+    !scratchpad,loginfrm:btnlogin,INFO,
+    !scratchpad,loginfrm:btnlogin,PAGECOUNT,0
+    !scratchpad,loginfrm:btnlogin,DATABIND,
+    !scratchpad,loginfrm:btnlogin,BINDMAPPING,
+    !scratchpad,loginfrm:btnlogin,drag.x,1
+    !scratchpad,loginfrm:btnlogin,drag.y,1
+    !scratchpad,loginfrm:btnlogin,xdragrange,-1<SEMI> -1
+    !scratchpad,loginfrm:btnlogin,ydragrange,-1<SEMI> -1
+    !scratchpad,loginfrm:btnlogin,size.x,1
+    !scratchpad,loginfrm:btnlogin,size.y,1
+    !scratchpad,loginfrm:btnlogin,negadj,
+    !scratchpad,loginfrm:btnlogin,posadj,
+    !scratchpad,loginfrm:btnlogin,child,true
+    !scratchpad,loginfrm:btnlogin,displaymode,inline-block
+    !scratchpad,loginfrm:btnlogin,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-button<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 1px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>padding<COLN> 2px 7.5px<LF>visibility<COLN> visible<LF>background-color<COLN> rgba(104<COMMA>154<COMMA>219<COMMA>0.80)<LF>border-radius<COLN> 3px<LF>font-size<COLN> 13px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> <LF>caption.position<COLN> absolute<LF>caption.text-align<COLN> center<LF>caption.top<COLN> calc(50% - 0.6em)<LF>caption.width<COLN> calc(100% - 15px)<LF>div.display<COLN> inline-block<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    !scratchpad,loginfrm:btnlogin,LOCK,false
+    !scratchpad,loginfrm:btnlogin,events,click<COLN> splash.events.loginClick<CR>dblclick<COLN> <CR>gotfocus<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    !scratchpad,loginfrm:btnlogin,extend,{"react":"<[CR]>"}
+!scratchpad,loginfrm:btnlogin,REFRESH, 
+!scratchpad,loginfrm:btnsignup,TARGET,loginfrm
+!scratchpad,loginfrm:btnsignup,PARENTGROUP,loginfrm
+!scratchpad,loginfrm:btnsignup,load,button|Sign Up|0|0|100|35|1342394112|32
+    !scratchpad,loginfrm:btnsignup,group,false
+    !scratchpad,loginfrm:btnsignup,groupid,0
+    !scratchpad,loginfrm:btnsignup,groupby,0200
+    !scratchpad,loginfrm:btnsignup,widgetlock,false
+    !scratchpad,loginfrm:btnsignup,iswidget,true
+    !scratchpad,loginfrm:btnsignup,iscollection,false
+    !scratchpad,loginfrm:btnsignup,collectname,
+    !scratchpad,loginfrm:btnsignup,widgetname,
+    !scratchpad,loginfrm:btnsignup,placeholder,
+    !scratchpad,loginfrm:btnsignup,addedby,
+    !scratchpad,loginfrm:btnsignup,DOCK,FFFF
+    !scratchpad,loginfrm:btnsignup,PICTURE,media/img_missing.png
+    !scratchpad,loginfrm:btnsignup,SIZE,100<PIP>35
+    !scratchpad,loginfrm:btnsignup,JSON,{}
+    !scratchpad,loginfrm:btnsignup,TEXT,Sign Up
+    !scratchpad,loginfrm:btnsignup,TOOLTIP,
+    !scratchpad,loginfrm:btnsignup,ENABLED,true
+    !scratchpad,loginfrm:btnsignup,VISIBLE,true
+    !scratchpad,loginfrm:btnsignup,ZORDER,0
+    !scratchpad,loginfrm:btnsignup,FORECOLOR,&h000000
+    !scratchpad,loginfrm:btnsignup,BACKCOLOR,&hf0f0f0
+    !scratchpad,loginfrm:btnsignup,FONTNAME,inherit
+    !scratchpad,loginfrm:btnsignup,FONTSIZE,13px
+    !scratchpad,loginfrm:btnsignup,FONTBOLD,false
+    !scratchpad,loginfrm:btnsignup,FONTITALIC,false
+    !scratchpad,loginfrm:btnsignup,FONTUNDERLINE,false
+    !scratchpad,loginfrm:btnsignup,FONTSTRIKETHRU,false
+    !scratchpad,loginfrm:btnsignup,INFO,
+    !scratchpad,loginfrm:btnsignup,PAGECOUNT,0
+    !scratchpad,loginfrm:btnsignup,DATABIND,
+    !scratchpad,loginfrm:btnsignup,BINDMAPPING,
+    !scratchpad,loginfrm:btnsignup,drag.x,1
+    !scratchpad,loginfrm:btnsignup,drag.y,1
+    !scratchpad,loginfrm:btnsignup,xdragrange,-1<SEMI> -1
+    !scratchpad,loginfrm:btnsignup,ydragrange,-1<SEMI> -1
+    !scratchpad,loginfrm:btnsignup,size.x,1
+    !scratchpad,loginfrm:btnsignup,size.y,1
+    !scratchpad,loginfrm:btnsignup,negadj,
+    !scratchpad,loginfrm:btnsignup,posadj,
+    !scratchpad,loginfrm:btnsignup,child,true
+    !scratchpad,loginfrm:btnsignup,displaymode,inline-block
+    !scratchpad,loginfrm:btnsignup,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-button<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 1px solid rgba(104<COMMA>154<COMMA>219<COMMA>0.80)<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>padding<COLN> 2px 7.5px<LF>visibility<COLN> visible<LF>background-color<COLN> #f0f0f0<LF>border-radius<COLN> 3px<LF>font-size<COLN> 13px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> <LF>caption.position<COLN> absolute<LF>caption.text-align<COLN> center<LF>caption.top<COLN> calc(50% - 0.6em)<LF>caption.width<COLN> calc(100% - 15px)<LF>div.display<COLN> inline-block<LF>div.margin<COLN> 0px 0px 0px 10px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    !scratchpad,loginfrm:btnsignup,LOCK,false
+    !scratchpad,loginfrm:btnsignup,events,click<COLN> splash.events.registerClick<CR>dblclick<COLN> <CR>gotfocus<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    !scratchpad,loginfrm:btnsignup,extend,{"react":"<[CR]>"}
+!scratchpad,loginfrm:btnsignup,REFRESH, 
+!scratchpad,registerfrm,TARGET,~
+!scratchpad,registerfrm,PARENTGROUP,~
+!scratchpad,registerfrm,load,frame||0|0|359|360|1342227719|32
+    !scratchpad,registerfrm,group,true
+    !scratchpad,registerfrm,groupid,0100
+    !scratchpad,registerfrm,groupby,9999999999
+    !scratchpad,registerfrm,widgetlock,false
+    !scratchpad,registerfrm,iswidget,true
+    !scratchpad,registerfrm,iscollection,false
+    !scratchpad,registerfrm,collectname,
+    !scratchpad,registerfrm,widgetname,
+    !scratchpad,registerfrm,placeholder,
+    !scratchpad,registerfrm,addedby,
+    !scratchpad,registerfrm,DOCK,FFFF
+    !scratchpad,registerfrm,PICTURE,media/img_missing.png
+    !scratchpad,registerfrm,SIZE,359<PIP>360
+    !scratchpad,registerfrm,JSON,{}
+    !scratchpad,registerfrm,TEXT,
+    !scratchpad,registerfrm,TOOLTIP,
+    !scratchpad,registerfrm,ENABLED,true
+    !scratchpad,registerfrm,VISIBLE,true
+    !scratchpad,registerfrm,ZORDER,0
+    !scratchpad,registerfrm,FORECOLOR,&h000000
+    !scratchpad,registerfrm,BACKCOLOR,transparent
+    !scratchpad,registerfrm,FONTNAME,inherit
+    !scratchpad,registerfrm,FONTSIZE,14px
+    !scratchpad,registerfrm,FONTBOLD,false
+    !scratchpad,registerfrm,FONTITALIC,false
+    !scratchpad,registerfrm,FONTUNDERLINE,false
+    !scratchpad,registerfrm,FONTSTRIKETHRU,false
+    !scratchpad,registerfrm,INFO,
+    !scratchpad,registerfrm,PAGECOUNT,0
+    !scratchpad,registerfrm,DATABIND,
+    !scratchpad,registerfrm,BINDMAPPING,
+    !scratchpad,registerfrm,drag.x,1
+    !scratchpad,registerfrm,drag.y,1
+    !scratchpad,registerfrm,xdragrange,-1<SEMI> -1
+    !scratchpad,registerfrm,ydragrange,-1<SEMI> -1
+    !scratchpad,registerfrm,size.x,1
+    !scratchpad,registerfrm,size.y,1
+    !scratchpad,registerfrm,negadj,
+    !scratchpad,registerfrm,posadj,
+    !scratchpad,registerfrm,child,false
+    !scratchpad,registerfrm,displaymode,inline-block
+    !scratchpad,registerfrm,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> !!!!<LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 1px #bbb dotted<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> inline-block<LF>float<COLN> <LF>height<COLN> <LF>margin<COLN> 0px 0px 0px 0px<LF>opacity<COLN> <LF>padding<COLN> 16px 16px 16px 16px<LF>position<COLN> relative<LF>visibility<COLN> visible<LF>width<COLN> <LF>background-color<COLN> transparent<LF>box-sizing<COLN> border-box<LF>font-size<COLN> 14px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle
+    !scratchpad,registerfrm,LOCK,false
+    !scratchpad,registerfrm,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    !scratchpad,registerfrm,extend,{"react":"<LF>"}
+!scratchpad,registerfrm,REFRESH, 
+!scratchpad,registerfrm:lbtitle,TARGET,registerfrm
+!scratchpad,registerfrm:lbtitle,PARENTGROUP,registerfrm
+!scratchpad,registerfrm:lbtitle,load,label|Create Your Account|0|0|105|21|1342377216|32
+    !scratchpad,registerfrm:lbtitle,group,false
+    !scratchpad,registerfrm:lbtitle,groupid,0
+    !scratchpad,registerfrm:lbtitle,groupby,0100
+    !scratchpad,registerfrm:lbtitle,widgetlock,false
+    !scratchpad,registerfrm:lbtitle,iswidget,true
+    !scratchpad,registerfrm:lbtitle,iscollection,false
+    !scratchpad,registerfrm:lbtitle,collectname,
+    !scratchpad,registerfrm:lbtitle,widgetname,
+    !scratchpad,registerfrm:lbtitle,placeholder,
+    !scratchpad,registerfrm:lbtitle,addedby,
+    !scratchpad,registerfrm:lbtitle,DOCK,FFFF
+    !scratchpad,registerfrm:lbtitle,PICTURE,media/img_missing.png
+    !scratchpad,registerfrm:lbtitle,SIZE,105<PIP>21
+    !scratchpad,registerfrm:lbtitle,JSON,{}
+    !scratchpad,registerfrm:lbtitle,TEXT,Create Your Account
+    !scratchpad,registerfrm:lbtitle,TOOLTIP,
+    !scratchpad,registerfrm:lbtitle,ENABLED,true
+    !scratchpad,registerfrm:lbtitle,VISIBLE,true
+    !scratchpad,registerfrm:lbtitle,ZORDER,0
+    !scratchpad,registerfrm:lbtitle,FORECOLOR,&h000000
+    !scratchpad,registerfrm:lbtitle,BACKCOLOR,transparent
+    !scratchpad,registerfrm:lbtitle,FONTNAME,inherit
+    !scratchpad,registerfrm:lbtitle,FONTSIZE,24px
+    !scratchpad,registerfrm:lbtitle,FONTBOLD,false
+    !scratchpad,registerfrm:lbtitle,FONTITALIC,false
+    !scratchpad,registerfrm:lbtitle,FONTUNDERLINE,false
+    !scratchpad,registerfrm:lbtitle,FONTSTRIKETHRU,false
+    !scratchpad,registerfrm:lbtitle,INFO,
+    !scratchpad,registerfrm:lbtitle,PAGECOUNT,0
+    !scratchpad,registerfrm:lbtitle,DATABIND,
+    !scratchpad,registerfrm:lbtitle,BINDMAPPING,
+    !scratchpad,registerfrm:lbtitle,drag.x,1
+    !scratchpad,registerfrm:lbtitle,drag.y,1
+    !scratchpad,registerfrm:lbtitle,xdragrange,-1<SEMI> -1
+    !scratchpad,registerfrm:lbtitle,ydragrange,-1<SEMI> -1
+    !scratchpad,registerfrm:lbtitle,size.x,1
+    !scratchpad,registerfrm:lbtitle,size.y,1
+    !scratchpad,registerfrm:lbtitle,negadj,
+    !scratchpad,registerfrm:lbtitle,posadj,
+    !scratchpad,registerfrm:lbtitle,child,true
+    !scratchpad,registerfrm:lbtitle,displaymode,block
+    !scratchpad,registerfrm:lbtitle,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 24px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> <LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.margin<COLN> 0px 0px 25px 0px<LF>div.padding<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    !scratchpad,registerfrm:lbtitle,LOCK,false
+    !scratchpad,registerfrm:lbtitle,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    !scratchpad,registerfrm:lbtitle,extend,{"react":"<[CR]>"}
+!scratchpad,registerfrm:lbtitle,REFRESH, 
+!scratchpad,registerfrm:lbusername,TARGET,registerfrm
+!scratchpad,registerfrm:lbusername,PARENTGROUP,registerfrm
+!scratchpad,registerfrm:lbusername,load,label|Username<COLN>|0|0|105|21|1342377216|32
+    !scratchpad,registerfrm:lbusername,group,false
+    !scratchpad,registerfrm:lbusername,groupid,0
+    !scratchpad,registerfrm:lbusername,groupby,0100
+    !scratchpad,registerfrm:lbusername,widgetlock,false
+    !scratchpad,registerfrm:lbusername,iswidget,true
+    !scratchpad,registerfrm:lbusername,iscollection,false
+    !scratchpad,registerfrm:lbusername,collectname,
+    !scratchpad,registerfrm:lbusername,widgetname,
+    !scratchpad,registerfrm:lbusername,placeholder,
+    !scratchpad,registerfrm:lbusername,addedby,
+    !scratchpad,registerfrm:lbusername,DOCK,FFFF
+    !scratchpad,registerfrm:lbusername,PICTURE,media/img_missing.png
+    !scratchpad,registerfrm:lbusername,SIZE,105<PIP>21
+    !scratchpad,registerfrm:lbusername,JSON,{}
+    !scratchpad,registerfrm:lbusername,TEXT,Username<COLN>
+    !scratchpad,registerfrm:lbusername,TOOLTIP,
+    !scratchpad,registerfrm:lbusername,ENABLED,true
+    !scratchpad,registerfrm:lbusername,VISIBLE,true
+    !scratchpad,registerfrm:lbusername,ZORDER,0
+    !scratchpad,registerfrm:lbusername,FORECOLOR,&h000000
+    !scratchpad,registerfrm:lbusername,BACKCOLOR,transparent
+    !scratchpad,registerfrm:lbusername,FONTNAME,inherit
+    !scratchpad,registerfrm:lbusername,FONTSIZE,12px
+    !scratchpad,registerfrm:lbusername,FONTBOLD,false
+    !scratchpad,registerfrm:lbusername,FONTITALIC,false
+    !scratchpad,registerfrm:lbusername,FONTUNDERLINE,false
+    !scratchpad,registerfrm:lbusername,FONTSTRIKETHRU,false
+    !scratchpad,registerfrm:lbusername,INFO,
+    !scratchpad,registerfrm:lbusername,PAGECOUNT,0
+    !scratchpad,registerfrm:lbusername,DATABIND,
+    !scratchpad,registerfrm:lbusername,BINDMAPPING,
+    !scratchpad,registerfrm:lbusername,drag.x,1
+    !scratchpad,registerfrm:lbusername,drag.y,1
+    !scratchpad,registerfrm:lbusername,xdragrange,-1<SEMI> -1
+    !scratchpad,registerfrm:lbusername,ydragrange,-1<SEMI> -1
+    !scratchpad,registerfrm:lbusername,size.x,1
+    !scratchpad,registerfrm:lbusername,size.y,1
+    !scratchpad,registerfrm:lbusername,negadj,
+    !scratchpad,registerfrm:lbusername,posadj,
+    !scratchpad,registerfrm:lbusername,child,true
+    !scratchpad,registerfrm:lbusername,displaymode,block
+    !scratchpad,registerfrm:lbusername,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 12px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> <LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    !scratchpad,registerfrm:lbusername,LOCK,false
+    !scratchpad,registerfrm:lbusername,events,
+    !scratchpad,registerfrm:lbusername,extend,{}
+!scratchpad,registerfrm:lbusername,REFRESH, 
+!scratchpad,registerfrm:login,TARGET,registerfrm
+!scratchpad,registerfrm:login,PARENTGROUP,registerfrm
+!scratchpad,registerfrm:login,load,textbox||0|0|105|31|1342374016|131072
+    !scratchpad,registerfrm:login,group,false
+    !scratchpad,registerfrm:login,groupid,0
+    !scratchpad,registerfrm:login,groupby,0100
+    !scratchpad,registerfrm:login,widgetlock,false
+    !scratchpad,registerfrm:login,iswidget,true
+    !scratchpad,registerfrm:login,iscollection,false
+    !scratchpad,registerfrm:login,collectname,
+    !scratchpad,registerfrm:login,widgetname,
+    !scratchpad,registerfrm:login,placeholder,enter value..
+    !scratchpad,registerfrm:login,addedby,
+    !scratchpad,registerfrm:login,DOCK,FFFF
+    !scratchpad,registerfrm:login,PICTURE,media/img_missing.png
+    !scratchpad,registerfrm:login,SIZE,105<PIP>31
+    !scratchpad,registerfrm:login,JSON,{}
+    !scratchpad,registerfrm:login,TEXT,
+    !scratchpad,registerfrm:login,TOOLTIP,
+    !scratchpad,registerfrm:login,ENABLED,true
+    !scratchpad,registerfrm:login,VISIBLE,true
+    !scratchpad,registerfrm:login,ZORDER,0
+    !scratchpad,registerfrm:login,FORECOLOR,&h000000
+    !scratchpad,registerfrm:login,BACKCOLOR,rgba(120<COMMA> 150<COMMA> 180<COMMA> 0.25)
+    !scratchpad,registerfrm:login,FONTNAME,inherit
+    !scratchpad,registerfrm:login,FONTSIZE,inherit
+    !scratchpad,registerfrm:login,FONTBOLD,false
+    !scratchpad,registerfrm:login,FONTITALIC,false
+    !scratchpad,registerfrm:login,FONTUNDERLINE,false
+    !scratchpad,registerfrm:login,FONTSTRIKETHRU,false
+    !scratchpad,registerfrm:login,INFO,
+    !scratchpad,registerfrm:login,PAGECOUNT,0
+    !scratchpad,registerfrm:login,DATABIND,
+    !scratchpad,registerfrm:login,BINDMAPPING,
+    !scratchpad,registerfrm:login,drag.x,1
+    !scratchpad,registerfrm:login,drag.y,1
+    !scratchpad,registerfrm:login,xdragrange,-1<SEMI> -1
+    !scratchpad,registerfrm:login,ydragrange,-1<SEMI> -1
+    !scratchpad,registerfrm:login,size.x,1
+    !scratchpad,registerfrm:login,size.y,1
+    !scratchpad,registerfrm:login,negadj,
+    !scratchpad,registerfrm:login,posadj,
+    !scratchpad,registerfrm:login,child,true
+    !scratchpad,registerfrm:login,displaymode,block
+    !scratchpad,registerfrm:login,TAG,~bind<COLN> true<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>datalist<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>placeholder<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-textbox<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>db-key<COLN> false<LF>db-name<COLN> login<LF>db-type<COLN> text<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0.5px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>outline<COLN> none<LF>visibility<COLN> visible<LF>background-color<COLN> rgba(120<COMMA> 150<COMMA> 180<COMMA> 0.25)<LF>border-radius<COLN> 2px<LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> <LF>div.display<COLN> block<LF>div.margin<COLN> 0px 0px 10px 0px<LF>div.padding<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    !scratchpad,registerfrm:login,LOCK,false
+    !scratchpad,registerfrm:login,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>enterkey<COLN> <CR>gotfocus<COLN> <CR>keydown<COLN> register.events.loginKeyDown<CR>keypress<COLN> <CR>keyup<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> register.events.validate<CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    !scratchpad,registerfrm:login,extend,{"react":"<LF>"}
+!scratchpad,registerfrm:login,REFRESH, 
+!scratchpad,registerfrm:lbemail,TARGET,registerfrm
+!scratchpad,registerfrm:lbemail,PARENTGROUP,registerfrm
+!scratchpad,registerfrm:lbemail,load,label|Email<COLN>|0|0|105|21|1342377216|32
+    !scratchpad,registerfrm:lbemail,group,false
+    !scratchpad,registerfrm:lbemail,groupid,0
+    !scratchpad,registerfrm:lbemail,groupby,0100
+    !scratchpad,registerfrm:lbemail,widgetlock,false
+    !scratchpad,registerfrm:lbemail,iswidget,true
+    !scratchpad,registerfrm:lbemail,iscollection,false
+    !scratchpad,registerfrm:lbemail,collectname,
+    !scratchpad,registerfrm:lbemail,widgetname,
+    !scratchpad,registerfrm:lbemail,placeholder,
+    !scratchpad,registerfrm:lbemail,addedby,
+    !scratchpad,registerfrm:lbemail,DOCK,FFFF
+    !scratchpad,registerfrm:lbemail,PICTURE,media/img_missing.png
+    !scratchpad,registerfrm:lbemail,SIZE,105<PIP>21
+    !scratchpad,registerfrm:lbemail,JSON,{}
+    !scratchpad,registerfrm:lbemail,TEXT,Email<COLN>
+    !scratchpad,registerfrm:lbemail,TOOLTIP,
+    !scratchpad,registerfrm:lbemail,ENABLED,true
+    !scratchpad,registerfrm:lbemail,VISIBLE,true
+    !scratchpad,registerfrm:lbemail,ZORDER,0
+    !scratchpad,registerfrm:lbemail,FORECOLOR,&h000000
+    !scratchpad,registerfrm:lbemail,BACKCOLOR,transparent
+    !scratchpad,registerfrm:lbemail,FONTNAME,inherit
+    !scratchpad,registerfrm:lbemail,FONTSIZE,12px
+    !scratchpad,registerfrm:lbemail,FONTBOLD,false
+    !scratchpad,registerfrm:lbemail,FONTITALIC,false
+    !scratchpad,registerfrm:lbemail,FONTUNDERLINE,false
+    !scratchpad,registerfrm:lbemail,FONTSTRIKETHRU,false
+    !scratchpad,registerfrm:lbemail,INFO,
+    !scratchpad,registerfrm:lbemail,PAGECOUNT,0
+    !scratchpad,registerfrm:lbemail,DATABIND,
+    !scratchpad,registerfrm:lbemail,BINDMAPPING,
+    !scratchpad,registerfrm:lbemail,drag.x,1
+    !scratchpad,registerfrm:lbemail,drag.y,1
+    !scratchpad,registerfrm:lbemail,xdragrange,-1<SEMI> -1
+    !scratchpad,registerfrm:lbemail,ydragrange,-1<SEMI> -1
+    !scratchpad,registerfrm:lbemail,size.x,1
+    !scratchpad,registerfrm:lbemail,size.y,1
+    !scratchpad,registerfrm:lbemail,negadj,
+    !scratchpad,registerfrm:lbemail,posadj,
+    !scratchpad,registerfrm:lbemail,child,true
+    !scratchpad,registerfrm:lbemail,displaymode,block
+    !scratchpad,registerfrm:lbemail,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 12px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> <LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    !scratchpad,registerfrm:lbemail,LOCK,false
+    !scratchpad,registerfrm:lbemail,events,
+    !scratchpad,registerfrm:lbemail,extend,{}
+!scratchpad,registerfrm:lbemail,REFRESH, 
+!scratchpad,registerfrm:email,TARGET,registerfrm
+!scratchpad,registerfrm:email,PARENTGROUP,registerfrm
+!scratchpad,registerfrm:email,load,textbox||0|0|105|31|1342374016|131072
+    !scratchpad,registerfrm:email,group,false
+    !scratchpad,registerfrm:email,groupid,0
+    !scratchpad,registerfrm:email,groupby,0100
+    !scratchpad,registerfrm:email,widgetlock,false
+    !scratchpad,registerfrm:email,iswidget,true
+    !scratchpad,registerfrm:email,iscollection,false
+    !scratchpad,registerfrm:email,collectname,
+    !scratchpad,registerfrm:email,widgetname,
+    !scratchpad,registerfrm:email,placeholder,enter value..
+    !scratchpad,registerfrm:email,addedby,
+    !scratchpad,registerfrm:email,DOCK,FFFF
+    !scratchpad,registerfrm:email,PICTURE,media/img_missing.png
+    !scratchpad,registerfrm:email,SIZE,105<PIP>31
+    !scratchpad,registerfrm:email,JSON,{}
+    !scratchpad,registerfrm:email,TEXT,
+    !scratchpad,registerfrm:email,TOOLTIP,
+    !scratchpad,registerfrm:email,ENABLED,true
+    !scratchpad,registerfrm:email,VISIBLE,true
+    !scratchpad,registerfrm:email,ZORDER,0
+    !scratchpad,registerfrm:email,FORECOLOR,&h000000
+    !scratchpad,registerfrm:email,BACKCOLOR,rgba(120<COMMA> 150<COMMA> 180<COMMA> 0.25)
+    !scratchpad,registerfrm:email,FONTNAME,inherit
+    !scratchpad,registerfrm:email,FONTSIZE,inherit
+    !scratchpad,registerfrm:email,FONTBOLD,false
+    !scratchpad,registerfrm:email,FONTITALIC,false
+    !scratchpad,registerfrm:email,FONTUNDERLINE,false
+    !scratchpad,registerfrm:email,FONTSTRIKETHRU,false
+    !scratchpad,registerfrm:email,INFO,
+    !scratchpad,registerfrm:email,PAGECOUNT,0
+    !scratchpad,registerfrm:email,DATABIND,
+    !scratchpad,registerfrm:email,BINDMAPPING,
+    !scratchpad,registerfrm:email,drag.x,1
+    !scratchpad,registerfrm:email,drag.y,1
+    !scratchpad,registerfrm:email,xdragrange,-1<SEMI> -1
+    !scratchpad,registerfrm:email,ydragrange,-1<SEMI> -1
+    !scratchpad,registerfrm:email,size.x,1
+    !scratchpad,registerfrm:email,size.y,1
+    !scratchpad,registerfrm:email,negadj,
+    !scratchpad,registerfrm:email,posadj,
+    !scratchpad,registerfrm:email,child,true
+    !scratchpad,registerfrm:email,displaymode,block
+    !scratchpad,registerfrm:email,TAG,~bind<COLN> true<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>datalist<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>placeholder<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-textbox<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>db-key<COLN> false<LF>db-name<COLN> email<LF>db-type<COLN> text<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0.5px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>outline<COLN> none<LF>visibility<COLN> visible<LF>background-color<COLN> rgba(120<COMMA> 150<COMMA> 180<COMMA> 0.25)<LF>border-radius<COLN> 2px<LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> <LF>div.display<COLN> block<LF>div.margin<COLN> 0px 0px 10px 0px<LF>div.padding<COLN> 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    !scratchpad,registerfrm:email,LOCK,false
+    !scratchpad,registerfrm:email,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>enterkey<COLN> <CR>gotfocus<COLN> <CR>keydown<COLN> register.events.emailKeyDown<CR>keypress<COLN> <CR>keyup<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> register.events.validate<CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    !scratchpad,registerfrm:email,extend,{"react":"<LF>"}
+!scratchpad,registerfrm:email,REFRESH, 
+!scratchpad,registerfrm:lbpassword,TARGET,registerfrm
+!scratchpad,registerfrm:lbpassword,PARENTGROUP,registerfrm
+!scratchpad,registerfrm:lbpassword,load,label|Password<COLN>|0|0|311|21|1342377216|32
+    !scratchpad,registerfrm:lbpassword,group,false
+    !scratchpad,registerfrm:lbpassword,groupid,0
+    !scratchpad,registerfrm:lbpassword,groupby,0100
+    !scratchpad,registerfrm:lbpassword,widgetlock,false
+    !scratchpad,registerfrm:lbpassword,iswidget,true
+    !scratchpad,registerfrm:lbpassword,iscollection,false
+    !scratchpad,registerfrm:lbpassword,collectname,
+    !scratchpad,registerfrm:lbpassword,widgetname,
+    !scratchpad,registerfrm:lbpassword,placeholder,
+    !scratchpad,registerfrm:lbpassword,addedby,
+    !scratchpad,registerfrm:lbpassword,DOCK,FFFF
+    !scratchpad,registerfrm:lbpassword,PICTURE,media/img_missing.png
+    !scratchpad,registerfrm:lbpassword,SIZE,311<PIP>21
+    !scratchpad,registerfrm:lbpassword,JSON,{}
+    !scratchpad,registerfrm:lbpassword,TEXT,Password<COLN>
+    !scratchpad,registerfrm:lbpassword,TOOLTIP,
+    !scratchpad,registerfrm:lbpassword,ENABLED,true
+    !scratchpad,registerfrm:lbpassword,VISIBLE,true
+    !scratchpad,registerfrm:lbpassword,ZORDER,0
+    !scratchpad,registerfrm:lbpassword,FORECOLOR,&h000000
+    !scratchpad,registerfrm:lbpassword,BACKCOLOR,transparent
+    !scratchpad,registerfrm:lbpassword,FONTNAME,inherit
+    !scratchpad,registerfrm:lbpassword,FONTSIZE,12px
+    !scratchpad,registerfrm:lbpassword,FONTBOLD,false
+    !scratchpad,registerfrm:lbpassword,FONTITALIC,false
+    !scratchpad,registerfrm:lbpassword,FONTUNDERLINE,false
+    !scratchpad,registerfrm:lbpassword,FONTSTRIKETHRU,false
+    !scratchpad,registerfrm:lbpassword,INFO,
+    !scratchpad,registerfrm:lbpassword,PAGECOUNT,0
+    !scratchpad,registerfrm:lbpassword,DATABIND,
+    !scratchpad,registerfrm:lbpassword,BINDMAPPING,
+    !scratchpad,registerfrm:lbpassword,drag.x,1
+    !scratchpad,registerfrm:lbpassword,drag.y,1
+    !scratchpad,registerfrm:lbpassword,xdragrange,-1<SEMI> -1
+    !scratchpad,registerfrm:lbpassword,ydragrange,-1<SEMI> -1
+    !scratchpad,registerfrm:lbpassword,size.x,1
+    !scratchpad,registerfrm:lbpassword,size.y,1
+    !scratchpad,registerfrm:lbpassword,negadj,
+    !scratchpad,registerfrm:lbpassword,posadj,
+    !scratchpad,registerfrm:lbpassword,child,true
+    !scratchpad,registerfrm:lbpassword,displaymode,block
+    !scratchpad,registerfrm:lbpassword,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 12px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> <LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    !scratchpad,registerfrm:lbpassword,LOCK,false
+    !scratchpad,registerfrm:lbpassword,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    !scratchpad,registerfrm:lbpassword,extend,{"react":"<LF>"}
+!scratchpad,registerfrm:lbpassword,REFRESH, 
+!scratchpad,registerfrm:password,TARGET,registerfrm
+!scratchpad,registerfrm:password,PARENTGROUP,registerfrm
+!scratchpad,registerfrm:password,load,textbox||0|0|105|31|1342374016|131072
+    !scratchpad,registerfrm:password,group,false
+    !scratchpad,registerfrm:password,groupid,0
+    !scratchpad,registerfrm:password,groupby,0100
+    !scratchpad,registerfrm:password,widgetlock,false
+    !scratchpad,registerfrm:password,iswidget,true
+    !scratchpad,registerfrm:password,iscollection,false
+    !scratchpad,registerfrm:password,collectname,
+    !scratchpad,registerfrm:password,widgetname,
+    !scratchpad,registerfrm:password,placeholder,enter value..
+    !scratchpad,registerfrm:password,addedby,
+    !scratchpad,registerfrm:password,DOCK,FFFF
+    !scratchpad,registerfrm:password,PICTURE,media/img_missing.png
+    !scratchpad,registerfrm:password,SIZE,105<PIP>31
+    !scratchpad,registerfrm:password,JSON,{}
+    !scratchpad,registerfrm:password,TEXT,
+    !scratchpad,registerfrm:password,TOOLTIP,
+    !scratchpad,registerfrm:password,ENABLED,true
+    !scratchpad,registerfrm:password,VISIBLE,true
+    !scratchpad,registerfrm:password,ZORDER,0
+    !scratchpad,registerfrm:password,FORECOLOR,&h000000
+    !scratchpad,registerfrm:password,BACKCOLOR,rgba(120<COMMA> 150<COMMA> 180<COMMA> 0.25)
+    !scratchpad,registerfrm:password,FONTNAME,inherit
+    !scratchpad,registerfrm:password,FONTSIZE,inherit
+    !scratchpad,registerfrm:password,FONTBOLD,false
+    !scratchpad,registerfrm:password,FONTITALIC,false
+    !scratchpad,registerfrm:password,FONTUNDERLINE,false
+    !scratchpad,registerfrm:password,FONTSTRIKETHRU,false
+    !scratchpad,registerfrm:password,INFO,
+    !scratchpad,registerfrm:password,PAGECOUNT,0
+    !scratchpad,registerfrm:password,DATABIND,
+    !scratchpad,registerfrm:password,BINDMAPPING,
+    !scratchpad,registerfrm:password,drag.x,1
+    !scratchpad,registerfrm:password,drag.y,1
+    !scratchpad,registerfrm:password,xdragrange,-1<SEMI> -1
+    !scratchpad,registerfrm:password,ydragrange,-1<SEMI> -1
+    !scratchpad,registerfrm:password,size.x,1
+    !scratchpad,registerfrm:password,size.y,1
+    !scratchpad,registerfrm:password,negadj,
+    !scratchpad,registerfrm:password,posadj,
+    !scratchpad,registerfrm:password,child,true
+    !scratchpad,registerfrm:password,displaymode,block
+    !scratchpad,registerfrm:password,TAG,~bind<COLN> true<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>datalist<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>placeholder<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-textbox<LF>title<COLN> <LF>type<COLN> password<LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>db-key<COLN> false<LF>db-name<COLN> password<LF>db-type<COLN> text<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0.5px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>outline<COLN> none<LF>visibility<COLN> visible<LF>background-color<COLN> rgba(120<COMMA> 150<COMMA> 180<COMMA> 0.25)<LF>border-radius<COLN> 2px<LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> <LF>div.display<COLN> block<LF>div.margin<COLN> 0px 0px 10px 0px<LF>div.padding<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    !scratchpad,registerfrm:password,LOCK,false
+    !scratchpad,registerfrm:password,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>enterkey<COLN> <CR>gotfocus<COLN> <CR>keydown<COLN> register.events.passwordKeyDown<CR>keypress<COLN> <CR>keyup<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> register.events.validate<CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    !scratchpad,registerfrm:password,extend,{"react":"<LF>"}
+!scratchpad,registerfrm:password,REFRESH, 
+!scratchpad,registerfrm:lbconfirm,TARGET,registerfrm
+!scratchpad,registerfrm:lbconfirm,PARENTGROUP,registerfrm
+!scratchpad,registerfrm:lbconfirm,load,label|Confirm password<COLN>|0|0|311|18|1342377216|32
+    !scratchpad,registerfrm:lbconfirm,group,false
+    !scratchpad,registerfrm:lbconfirm,groupid,0
+    !scratchpad,registerfrm:lbconfirm,groupby,0100
+    !scratchpad,registerfrm:lbconfirm,widgetlock,false
+    !scratchpad,registerfrm:lbconfirm,iswidget,true
+    !scratchpad,registerfrm:lbconfirm,iscollection,false
+    !scratchpad,registerfrm:lbconfirm,collectname,
+    !scratchpad,registerfrm:lbconfirm,widgetname,
+    !scratchpad,registerfrm:lbconfirm,placeholder,
+    !scratchpad,registerfrm:lbconfirm,addedby,
+    !scratchpad,registerfrm:lbconfirm,DOCK,FFFF
+    !scratchpad,registerfrm:lbconfirm,PICTURE,media/img_missing.png
+    !scratchpad,registerfrm:lbconfirm,SIZE,311<PIP>18
+    !scratchpad,registerfrm:lbconfirm,JSON,{}
+    !scratchpad,registerfrm:lbconfirm,TEXT,Confirm password<COLN>
+    !scratchpad,registerfrm:lbconfirm,TOOLTIP,
+    !scratchpad,registerfrm:lbconfirm,ENABLED,true
+    !scratchpad,registerfrm:lbconfirm,VISIBLE,true
+    !scratchpad,registerfrm:lbconfirm,ZORDER,0
+    !scratchpad,registerfrm:lbconfirm,FORECOLOR,&h000000
+    !scratchpad,registerfrm:lbconfirm,BACKCOLOR,transparent
+    !scratchpad,registerfrm:lbconfirm,FONTNAME,inherit
+    !scratchpad,registerfrm:lbconfirm,FONTSIZE,12px
+    !scratchpad,registerfrm:lbconfirm,FONTBOLD,false
+    !scratchpad,registerfrm:lbconfirm,FONTITALIC,false
+    !scratchpad,registerfrm:lbconfirm,FONTUNDERLINE,false
+    !scratchpad,registerfrm:lbconfirm,FONTSTRIKETHRU,false
+    !scratchpad,registerfrm:lbconfirm,INFO,
+    !scratchpad,registerfrm:lbconfirm,PAGECOUNT,0
+    !scratchpad,registerfrm:lbconfirm,DATABIND,
+    !scratchpad,registerfrm:lbconfirm,BINDMAPPING,
+    !scratchpad,registerfrm:lbconfirm,drag.x,1
+    !scratchpad,registerfrm:lbconfirm,drag.y,1
+    !scratchpad,registerfrm:lbconfirm,xdragrange,-1<SEMI> -1
+    !scratchpad,registerfrm:lbconfirm,ydragrange,-1<SEMI> -1
+    !scratchpad,registerfrm:lbconfirm,size.x,1
+    !scratchpad,registerfrm:lbconfirm,size.y,1
+    !scratchpad,registerfrm:lbconfirm,negadj,
+    !scratchpad,registerfrm:lbconfirm,posadj,
+    !scratchpad,registerfrm:lbconfirm,child,true
+    !scratchpad,registerfrm:lbconfirm,displaymode,block
+    !scratchpad,registerfrm:lbconfirm,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 12px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> <LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    !scratchpad,registerfrm:lbconfirm,LOCK,false
+    !scratchpad,registerfrm:lbconfirm,events,
+    !scratchpad,registerfrm:lbconfirm,extend,{}
+!scratchpad,registerfrm:lbconfirm,REFRESH, 
+!scratchpad,registerfrm:confirm,TARGET,registerfrm
+!scratchpad,registerfrm:confirm,PARENTGROUP,registerfrm
+!scratchpad,registerfrm:confirm,load,textbox||0|0|311|31|1342374016|131072
+    !scratchpad,registerfrm:confirm,group,false
+    !scratchpad,registerfrm:confirm,groupid,0
+    !scratchpad,registerfrm:confirm,groupby,0100
+    !scratchpad,registerfrm:confirm,widgetlock,false
+    !scratchpad,registerfrm:confirm,iswidget,true
+    !scratchpad,registerfrm:confirm,iscollection,false
+    !scratchpad,registerfrm:confirm,collectname,
+    !scratchpad,registerfrm:confirm,widgetname,
+    !scratchpad,registerfrm:confirm,placeholder,enter value..
+    !scratchpad,registerfrm:confirm,addedby,
+    !scratchpad,registerfrm:confirm,DOCK,FFFF
+    !scratchpad,registerfrm:confirm,PICTURE,media/img_missing.png
+    !scratchpad,registerfrm:confirm,SIZE,311<PIP>31
+    !scratchpad,registerfrm:confirm,JSON,{}
+    !scratchpad,registerfrm:confirm,TEXT,
+    !scratchpad,registerfrm:confirm,TOOLTIP,
+    !scratchpad,registerfrm:confirm,ENABLED,true
+    !scratchpad,registerfrm:confirm,VISIBLE,true
+    !scratchpad,registerfrm:confirm,ZORDER,0
+    !scratchpad,registerfrm:confirm,FORECOLOR,&h000000
+    !scratchpad,registerfrm:confirm,BACKCOLOR,rgba(120<COMMA> 150<COMMA> 180<COMMA> 0.25)
+    !scratchpad,registerfrm:confirm,FONTNAME,inherit
+    !scratchpad,registerfrm:confirm,FONTSIZE,inherit
+    !scratchpad,registerfrm:confirm,FONTBOLD,false
+    !scratchpad,registerfrm:confirm,FONTITALIC,false
+    !scratchpad,registerfrm:confirm,FONTUNDERLINE,false
+    !scratchpad,registerfrm:confirm,FONTSTRIKETHRU,false
+    !scratchpad,registerfrm:confirm,INFO,
+    !scratchpad,registerfrm:confirm,PAGECOUNT,0
+    !scratchpad,registerfrm:confirm,DATABIND,
+    !scratchpad,registerfrm:confirm,BINDMAPPING,
+    !scratchpad,registerfrm:confirm,drag.x,1
+    !scratchpad,registerfrm:confirm,drag.y,1
+    !scratchpad,registerfrm:confirm,xdragrange,-1<SEMI> -1
+    !scratchpad,registerfrm:confirm,ydragrange,-1<SEMI> -1
+    !scratchpad,registerfrm:confirm,size.x,1
+    !scratchpad,registerfrm:confirm,size.y,1
+    !scratchpad,registerfrm:confirm,negadj,
+    !scratchpad,registerfrm:confirm,posadj,
+    !scratchpad,registerfrm:confirm,child,true
+    !scratchpad,registerfrm:confirm,displaymode,block
+    !scratchpad,registerfrm:confirm,TAG,~bind<COLN> true<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>datalist<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>placeholder<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-textbox<LF>title<COLN> <LF>type<COLN> password<LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>db-key<COLN> false<LF>db-name<COLN> confirm<LF>db-type<COLN> text<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0.5px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>outline<COLN> none<LF>visibility<COLN> visible<LF>background-color<COLN> rgba(120<COMMA> 150<COMMA> 180<COMMA> 0.25)<LF>border-radius<COLN> 2px<LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> <LF>div.display<COLN> block<LF>div.margin<COLN> 0px 0px 10px 0px<LF>div.padding<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    !scratchpad,registerfrm:confirm,LOCK,false
+    !scratchpad,registerfrm:confirm,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>enterkey<COLN> <CR>gotfocus<COLN> <CR>keydown<COLN> register.events.confirmKeyDown<CR>keypress<COLN> <CR>keyup<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> register.events.validate<CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    !scratchpad,registerfrm:confirm,extend,{"react":"<LF>"}
+!scratchpad,registerfrm:confirm,REFRESH, 
+!scratchpad,registerfrm:btnclose,TARGET,registerfrm
+!scratchpad,registerfrm:btnclose,PARENTGROUP,registerfrm
+!scratchpad,registerfrm:btnclose,load,button|Cancel|0|0|79|35|1342394112|32
+    !scratchpad,registerfrm:btnclose,group,false
+    !scratchpad,registerfrm:btnclose,groupid,0
+    !scratchpad,registerfrm:btnclose,groupby,0100
+    !scratchpad,registerfrm:btnclose,widgetlock,false
+    !scratchpad,registerfrm:btnclose,iswidget,true
+    !scratchpad,registerfrm:btnclose,iscollection,false
+    !scratchpad,registerfrm:btnclose,collectname,
+    !scratchpad,registerfrm:btnclose,widgetname,
+    !scratchpad,registerfrm:btnclose,placeholder,
+    !scratchpad,registerfrm:btnclose,addedby,
+    !scratchpad,registerfrm:btnclose,DOCK,FFFF
+    !scratchpad,registerfrm:btnclose,PICTURE,media/img_missing.png
+    !scratchpad,registerfrm:btnclose,SIZE,79<PIP>35
+    !scratchpad,registerfrm:btnclose,JSON,{}
+    !scratchpad,registerfrm:btnclose,TEXT,Cancel
+    !scratchpad,registerfrm:btnclose,TOOLTIP,
+    !scratchpad,registerfrm:btnclose,ENABLED,true
+    !scratchpad,registerfrm:btnclose,VISIBLE,true
+    !scratchpad,registerfrm:btnclose,ZORDER,0
+    !scratchpad,registerfrm:btnclose,FORECOLOR,&hffffff
+    !scratchpad,registerfrm:btnclose,BACKCOLOR,&h68789d
+    !scratchpad,registerfrm:btnclose,FONTNAME,inherit
+    !scratchpad,registerfrm:btnclose,FONTSIZE,13px
+    !scratchpad,registerfrm:btnclose,FONTBOLD,false
+    !scratchpad,registerfrm:btnclose,FONTITALIC,false
+    !scratchpad,registerfrm:btnclose,FONTUNDERLINE,false
+    !scratchpad,registerfrm:btnclose,FONTSTRIKETHRU,false
+    !scratchpad,registerfrm:btnclose,INFO,
+    !scratchpad,registerfrm:btnclose,PAGECOUNT,0
+    !scratchpad,registerfrm:btnclose,DATABIND,
+    !scratchpad,registerfrm:btnclose,BINDMAPPING,
+    !scratchpad,registerfrm:btnclose,drag.x,1
+    !scratchpad,registerfrm:btnclose,drag.y,1
+    !scratchpad,registerfrm:btnclose,xdragrange,-1<SEMI> -1
+    !scratchpad,registerfrm:btnclose,ydragrange,-1<SEMI> -1
+    !scratchpad,registerfrm:btnclose,size.x,1
+    !scratchpad,registerfrm:btnclose,size.y,1
+    !scratchpad,registerfrm:btnclose,negadj,
+    !scratchpad,registerfrm:btnclose,posadj,
+    !scratchpad,registerfrm:btnclose,child,true
+    !scratchpad,registerfrm:btnclose,displaymode,inline-block
+    !scratchpad,registerfrm:btnclose,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-button<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 2px solid rgba(250<COMMA>250<COMMA>250<COMMA>0.80)<LF>color<COLN> #ffffff<LF>cursor<COLN> <LF>display<COLN> <LF>float<COLN> right<LF>opacity<COLN> <LF>padding<COLN> 2px 7.5px<LF>visibility<COLN> visible<LF>background-color<COLN> #68789d<LF>border-radius<COLN> 3px<LF>font-size<COLN> 13px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> <LF>caption.position<COLN> absolute<LF>caption.text-align<COLN> center<LF>caption.top<COLN> calc(50% - 0.6em)<LF>caption.width<COLN> calc(100% - 15px)<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.margin<COLN> 0px 0px 0px 10px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN>
+    !scratchpad,registerfrm:btnclose,LOCK,false
+    !scratchpad,registerfrm:btnclose,events,click<COLN> register.events.closeClick<CR>dblclick<COLN> <CR>gotfocus<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    !scratchpad,registerfrm:btnclose,extend,{"react":"<LF>"}
+!scratchpad,registerfrm:btnclose,REFRESH, 
+!scratchpad,registerfrm:btnregister,TARGET,registerfrm
+!scratchpad,registerfrm:btnregister,PARENTGROUP,registerfrm
+!scratchpad,registerfrm:btnregister,load,button|Register|0|0|115|35|1342394112|32
+    !scratchpad,registerfrm:btnregister,group,false
+    !scratchpad,registerfrm:btnregister,groupid,0
+    !scratchpad,registerfrm:btnregister,groupby,0100
+    !scratchpad,registerfrm:btnregister,widgetlock,false
+    !scratchpad,registerfrm:btnregister,iswidget,true
+    !scratchpad,registerfrm:btnregister,iscollection,false
+    !scratchpad,registerfrm:btnregister,collectname,
+    !scratchpad,registerfrm:btnregister,widgetname,
+    !scratchpad,registerfrm:btnregister,placeholder,
+    !scratchpad,registerfrm:btnregister,addedby,
+    !scratchpad,registerfrm:btnregister,DOCK,FFFF
+    !scratchpad,registerfrm:btnregister,PICTURE,media/img_missing.png
+    !scratchpad,registerfrm:btnregister,SIZE,115<PIP>35
+    !scratchpad,registerfrm:btnregister,JSON,{}
+    !scratchpad,registerfrm:btnregister,TEXT,Register
+    !scratchpad,registerfrm:btnregister,TOOLTIP,
+    !scratchpad,registerfrm:btnregister,ENABLED,true
+    !scratchpad,registerfrm:btnregister,VISIBLE,true
+    !scratchpad,registerfrm:btnregister,ZORDER,0
+    !scratchpad,registerfrm:btnregister,FORECOLOR,&hffffff
+    !scratchpad,registerfrm:btnregister,BACKCOLOR,&h68789d
+    !scratchpad,registerfrm:btnregister,FONTNAME,inherit
+    !scratchpad,registerfrm:btnregister,FONTSIZE,13px
+    !scratchpad,registerfrm:btnregister,FONTBOLD,false
+    !scratchpad,registerfrm:btnregister,FONTITALIC,false
+    !scratchpad,registerfrm:btnregister,FONTUNDERLINE,false
+    !scratchpad,registerfrm:btnregister,FONTSTRIKETHRU,false
+    !scratchpad,registerfrm:btnregister,INFO,
+    !scratchpad,registerfrm:btnregister,PAGECOUNT,0
+    !scratchpad,registerfrm:btnregister,DATABIND,
+    !scratchpad,registerfrm:btnregister,BINDMAPPING,
+    !scratchpad,registerfrm:btnregister,drag.x,1
+    !scratchpad,registerfrm:btnregister,drag.y,1
+    !scratchpad,registerfrm:btnregister,xdragrange,-1<SEMI> -1
+    !scratchpad,registerfrm:btnregister,ydragrange,-1<SEMI> -1
+    !scratchpad,registerfrm:btnregister,size.x,1
+    !scratchpad,registerfrm:btnregister,size.y,1
+    !scratchpad,registerfrm:btnregister,negadj,
+    !scratchpad,registerfrm:btnregister,posadj,
+    !scratchpad,registerfrm:btnregister,child,true
+    !scratchpad,registerfrm:btnregister,displaymode,inline-block
+    !scratchpad,registerfrm:btnregister,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-button<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 2px solid rgba(250<COMMA>250<COMMA>250<COMMA>0.80)<LF>color<COLN> #ffffff<LF>cursor<COLN> <LF>display<COLN> <LF>float<COLN> right<LF>opacity<COLN> <LF>padding<COLN> 2px 7.5px<LF>visibility<COLN> visible<LF>background-color<COLN> #68789d<LF>border-radius<COLN> 3px<LF>font-size<COLN> 13px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> <LF>caption.position<COLN> absolute<LF>caption.text-align<COLN> center<LF>caption.top<COLN> calc(50% - 0.6em)<LF>caption.width<COLN> calc(100% - 15px)<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.margin<COLN> 0px 0px 0px 10px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN>
+    !scratchpad,registerfrm:btnregister,LOCK,false
+    !scratchpad,registerfrm:btnregister,events,click<COLN> register.events.registerClick<CR>dblclick<COLN> <CR>gotfocus<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    !scratchpad,registerfrm:btnregister,extend,{"react":"<LF>"}
+!scratchpad,registerfrm:btnregister,REFRESH, 
+!scratchpad,resetfrm,TARGET,~
+!scratchpad,resetfrm,PARENTGROUP,~
+!scratchpad,resetfrm,load,frame||0|0|333|363|1342177287|32
+    !scratchpad,resetfrm,group,true
+    !scratchpad,resetfrm,groupid,0300
+    !scratchpad,resetfrm,groupby,9999999999
+    !scratchpad,resetfrm,widgetlock,false
+    !scratchpad,resetfrm,iswidget,true
+    !scratchpad,resetfrm,iscollection,false
+    !scratchpad,resetfrm,collectname,
+    !scratchpad,resetfrm,widgetname,
+    !scratchpad,resetfrm,placeholder,
+    !scratchpad,resetfrm,addedby,
+    !scratchpad,resetfrm,DOCK,FFFF
+    !scratchpad,resetfrm,PICTURE,media/img_missing.png
+    !scratchpad,resetfrm,SIZE,333<PIP>363
+    !scratchpad,resetfrm,JSON,{}
+    !scratchpad,resetfrm,TEXT,
+    !scratchpad,resetfrm,TOOLTIP,
+    !scratchpad,resetfrm,ENABLED,true
+    !scratchpad,resetfrm,VISIBLE,true
+    !scratchpad,resetfrm,ZORDER,0
+    !scratchpad,resetfrm,FORECOLOR,&h000000
+    !scratchpad,resetfrm,BACKCOLOR,transparent
+    !scratchpad,resetfrm,FONTNAME,inherit
+    !scratchpad,resetfrm,FONTSIZE,14px
+    !scratchpad,resetfrm,FONTBOLD,false
+    !scratchpad,resetfrm,FONTITALIC,false
+    !scratchpad,resetfrm,FONTUNDERLINE,false
+    !scratchpad,resetfrm,FONTSTRIKETHRU,false
+    !scratchpad,resetfrm,INFO,
+    !scratchpad,resetfrm,PAGECOUNT,0
+    !scratchpad,resetfrm,DATABIND,
+    !scratchpad,resetfrm,BINDMAPPING,
+    !scratchpad,resetfrm,drag.x,1
+    !scratchpad,resetfrm,drag.y,1
+    !scratchpad,resetfrm,xdragrange,-1<SEMI> -1
+    !scratchpad,resetfrm,ydragrange,-1<SEMI> -1
+    !scratchpad,resetfrm,size.x,1
+    !scratchpad,resetfrm,size.y,1
+    !scratchpad,resetfrm,negadj,
+    !scratchpad,resetfrm,posadj,
+    !scratchpad,resetfrm,child,false
+    !scratchpad,resetfrm,displaymode,inline-block
+    !scratchpad,resetfrm,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 1px #bbb dotted<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> inline-block<LF>height<COLN> <LF>opacity<COLN> <LF>padding<COLN> 18px 18px 18px 18px<LF>position<COLN> relative<LF>visibility<COLN> visible<LF>width<COLN> <LF>background-color<COLN> transparent<LF>box-sizing<COLN> border-box<LF>font-size<COLN> 14px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle
+    !scratchpad,resetfrm,LOCK,false
+    !scratchpad,resetfrm,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    !scratchpad,resetfrm,extend,{"react":"<LF>"}
+!scratchpad,resetfrm,REFRESH, 
+!scratchpad,resetfrm:lbtitle,TARGET,resetfrm
+!scratchpad,resetfrm:lbtitle,PARENTGROUP,resetfrm
+!scratchpad,resetfrm:lbtitle,load,label|Change password|0|0|105|24|1342377216|32
+    !scratchpad,resetfrm:lbtitle,group,false
+    !scratchpad,resetfrm:lbtitle,groupid,0
+    !scratchpad,resetfrm:lbtitle,groupby,0300
+    !scratchpad,resetfrm:lbtitle,widgetlock,false
+    !scratchpad,resetfrm:lbtitle,iswidget,true
+    !scratchpad,resetfrm:lbtitle,iscollection,false
+    !scratchpad,resetfrm:lbtitle,collectname,
+    !scratchpad,resetfrm:lbtitle,widgetname,
+    !scratchpad,resetfrm:lbtitle,placeholder,
+    !scratchpad,resetfrm:lbtitle,addedby,
+    !scratchpad,resetfrm:lbtitle,DOCK,FFFF
+    !scratchpad,resetfrm:lbtitle,PICTURE,media/img_missing.png
+    !scratchpad,resetfrm:lbtitle,SIZE,105<PIP>24
+    !scratchpad,resetfrm:lbtitle,JSON,{}
+    !scratchpad,resetfrm:lbtitle,TEXT,Change password
+    !scratchpad,resetfrm:lbtitle,TOOLTIP,
+    !scratchpad,resetfrm:lbtitle,ENABLED,true
+    !scratchpad,resetfrm:lbtitle,VISIBLE,true
+    !scratchpad,resetfrm:lbtitle,ZORDER,0
+    !scratchpad,resetfrm:lbtitle,FORECOLOR,&h000000
+    !scratchpad,resetfrm:lbtitle,BACKCOLOR,transparent
+    !scratchpad,resetfrm:lbtitle,FONTNAME,inherit
+    !scratchpad,resetfrm:lbtitle,FONTSIZE,24px
+    !scratchpad,resetfrm:lbtitle,FONTBOLD,false
+    !scratchpad,resetfrm:lbtitle,FONTITALIC,false
+    !scratchpad,resetfrm:lbtitle,FONTUNDERLINE,false
+    !scratchpad,resetfrm:lbtitle,FONTSTRIKETHRU,false
+    !scratchpad,resetfrm:lbtitle,INFO,
+    !scratchpad,resetfrm:lbtitle,PAGECOUNT,0
+    !scratchpad,resetfrm:lbtitle,DATABIND,
+    !scratchpad,resetfrm:lbtitle,BINDMAPPING,
+    !scratchpad,resetfrm:lbtitle,drag.x,1
+    !scratchpad,resetfrm:lbtitle,drag.y,1
+    !scratchpad,resetfrm:lbtitle,xdragrange,-1<SEMI> -1
+    !scratchpad,resetfrm:lbtitle,ydragrange,-1<SEMI> -1
+    !scratchpad,resetfrm:lbtitle,size.x,1
+    !scratchpad,resetfrm:lbtitle,size.y,1
+    !scratchpad,resetfrm:lbtitle,negadj,
+    !scratchpad,resetfrm:lbtitle,posadj,
+    !scratchpad,resetfrm:lbtitle,child,true
+    !scratchpad,resetfrm:lbtitle,displaymode,block
+    !scratchpad,resetfrm:lbtitle,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 24px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> <LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.margin<COLN> 0px 0px 25px 0px<LF>div.padding<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    !scratchpad,resetfrm:lbtitle,LOCK,false
+    !scratchpad,resetfrm:lbtitle,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    !scratchpad,resetfrm:lbtitle,extend,{"react":"<[CR]>"}
+!scratchpad,resetfrm:lbtitle,REFRESH, 
+!scratchpad,resetfrm:lbemail,TARGET,resetfrm
+!scratchpad,resetfrm:lbemail,PARENTGROUP,resetfrm
+!scratchpad,resetfrm:lbemail,load,label|Email<COLN>|0|0|105|21|1342377216|32
+    !scratchpad,resetfrm:lbemail,group,false
+    !scratchpad,resetfrm:lbemail,groupid,0
+    !scratchpad,resetfrm:lbemail,groupby,0300
+    !scratchpad,resetfrm:lbemail,widgetlock,false
+    !scratchpad,resetfrm:lbemail,iswidget,true
+    !scratchpad,resetfrm:lbemail,iscollection,false
+    !scratchpad,resetfrm:lbemail,collectname,
+    !scratchpad,resetfrm:lbemail,widgetname,
+    !scratchpad,resetfrm:lbemail,placeholder,
+    !scratchpad,resetfrm:lbemail,addedby,
+    !scratchpad,resetfrm:lbemail,DOCK,FFFF
+    !scratchpad,resetfrm:lbemail,PICTURE,media/img_missing.png
+    !scratchpad,resetfrm:lbemail,SIZE,105<PIP>21
+    !scratchpad,resetfrm:lbemail,JSON,{}
+    !scratchpad,resetfrm:lbemail,TEXT,Email<COLN>
+    !scratchpad,resetfrm:lbemail,TOOLTIP,
+    !scratchpad,resetfrm:lbemail,ENABLED,true
+    !scratchpad,resetfrm:lbemail,VISIBLE,true
+    !scratchpad,resetfrm:lbemail,ZORDER,0
+    !scratchpad,resetfrm:lbemail,FORECOLOR,&h000000
+    !scratchpad,resetfrm:lbemail,BACKCOLOR,transparent
+    !scratchpad,resetfrm:lbemail,FONTNAME,inherit
+    !scratchpad,resetfrm:lbemail,FONTSIZE,12px
+    !scratchpad,resetfrm:lbemail,FONTBOLD,false
+    !scratchpad,resetfrm:lbemail,FONTITALIC,false
+    !scratchpad,resetfrm:lbemail,FONTUNDERLINE,false
+    !scratchpad,resetfrm:lbemail,FONTSTRIKETHRU,false
+    !scratchpad,resetfrm:lbemail,INFO,
+    !scratchpad,resetfrm:lbemail,PAGECOUNT,0
+    !scratchpad,resetfrm:lbemail,DATABIND,
+    !scratchpad,resetfrm:lbemail,BINDMAPPING,
+    !scratchpad,resetfrm:lbemail,drag.x,1
+    !scratchpad,resetfrm:lbemail,drag.y,1
+    !scratchpad,resetfrm:lbemail,xdragrange,-1<SEMI> -1
+    !scratchpad,resetfrm:lbemail,ydragrange,-1<SEMI> -1
+    !scratchpad,resetfrm:lbemail,size.x,1
+    !scratchpad,resetfrm:lbemail,size.y,1
+    !scratchpad,resetfrm:lbemail,negadj,
+    !scratchpad,resetfrm:lbemail,posadj,
+    !scratchpad,resetfrm:lbemail,child,true
+    !scratchpad,resetfrm:lbemail,displaymode,block
+    !scratchpad,resetfrm:lbemail,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 12px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> <LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    !scratchpad,resetfrm:lbemail,LOCK,false
+    !scratchpad,resetfrm:lbemail,events,
+    !scratchpad,resetfrm:lbemail,extend,{}
+!scratchpad,resetfrm:lbemail,REFRESH, 
+!scratchpad,resetfrm:email,TARGET,resetfrm
+!scratchpad,resetfrm:email,PARENTGROUP,resetfrm
+!scratchpad,resetfrm:email,load,textbox||0|0|311|31|1342374016|131072
+    !scratchpad,resetfrm:email,group,false
+    !scratchpad,resetfrm:email,groupid,0
+    !scratchpad,resetfrm:email,groupby,0300
+    !scratchpad,resetfrm:email,widgetlock,false
+    !scratchpad,resetfrm:email,iswidget,true
+    !scratchpad,resetfrm:email,iscollection,false
+    !scratchpad,resetfrm:email,collectname,
+    !scratchpad,resetfrm:email,widgetname,
+    !scratchpad,resetfrm:email,placeholder,enter value..
+    !scratchpad,resetfrm:email,addedby,
+    !scratchpad,resetfrm:email,DOCK,FFFF
+    !scratchpad,resetfrm:email,PICTURE,media/img_missing.png
+    !scratchpad,resetfrm:email,SIZE,311<PIP>31
+    !scratchpad,resetfrm:email,JSON,{}
+    !scratchpad,resetfrm:email,TEXT,
+    !scratchpad,resetfrm:email,TOOLTIP,
+    !scratchpad,resetfrm:email,ENABLED,true
+    !scratchpad,resetfrm:email,VISIBLE,true
+    !scratchpad,resetfrm:email,ZORDER,0
+    !scratchpad,resetfrm:email,FORECOLOR,&h000000
+    !scratchpad,resetfrm:email,BACKCOLOR,rgba(120<COMMA> 150<COMMA> 180<COMMA> 0.25)
+    !scratchpad,resetfrm:email,FONTNAME,inherit
+    !scratchpad,resetfrm:email,FONTSIZE,inherit
+    !scratchpad,resetfrm:email,FONTBOLD,false
+    !scratchpad,resetfrm:email,FONTITALIC,false
+    !scratchpad,resetfrm:email,FONTUNDERLINE,false
+    !scratchpad,resetfrm:email,FONTSTRIKETHRU,false
+    !scratchpad,resetfrm:email,INFO,
+    !scratchpad,resetfrm:email,PAGECOUNT,0
+    !scratchpad,resetfrm:email,DATABIND,
+    !scratchpad,resetfrm:email,BINDMAPPING,
+    !scratchpad,resetfrm:email,drag.x,1
+    !scratchpad,resetfrm:email,drag.y,1
+    !scratchpad,resetfrm:email,xdragrange,-1<SEMI> -1
+    !scratchpad,resetfrm:email,ydragrange,-1<SEMI> -1
+    !scratchpad,resetfrm:email,size.x,1
+    !scratchpad,resetfrm:email,size.y,1
+    !scratchpad,resetfrm:email,negadj,
+    !scratchpad,resetfrm:email,posadj,
+    !scratchpad,resetfrm:email,child,true
+    !scratchpad,resetfrm:email,displaymode,block
+    !scratchpad,resetfrm:email,TAG,~bind<COLN> true<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>datalist<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>placeholder<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-textbox<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>db-key<COLN> false<LF>db-name<COLN> email<LF>db-type<COLN> text<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0.5px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>outline<COLN> none<LF>visibility<COLN> visible<LF>background-color<COLN> rgba(120<COMMA> 150<COMMA> 180<COMMA> 0.25)<LF>border-radius<COLN> 2px<LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> <LF>div.display<COLN> block<LF>div.margin<COLN> 0px 0px 10px 0px<LF>div.padding<COLN> 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    !scratchpad,resetfrm:email,LOCK,false
+    !scratchpad,resetfrm:email,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>enterkey<COLN> <CR>gotfocus<COLN> <CR>keydown<COLN> register.events.emailKeyDown<CR>keypress<COLN> <CR>keyup<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> register.events.validate<CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    !scratchpad,resetfrm:email,extend,{"react":"<LF>"}
+!scratchpad,resetfrm:email,REFRESH, 
+!scratchpad,resetfrm:lbpassword,TARGET,resetfrm
+!scratchpad,resetfrm:lbpassword,PARENTGROUP,resetfrm
+!scratchpad,resetfrm:lbpassword,load,label|New Password<COLN>|0|0|311|21|1342377216|32
+    !scratchpad,resetfrm:lbpassword,group,false
+    !scratchpad,resetfrm:lbpassword,groupid,0
+    !scratchpad,resetfrm:lbpassword,groupby,0300
+    !scratchpad,resetfrm:lbpassword,widgetlock,false
+    !scratchpad,resetfrm:lbpassword,iswidget,true
+    !scratchpad,resetfrm:lbpassword,iscollection,false
+    !scratchpad,resetfrm:lbpassword,collectname,
+    !scratchpad,resetfrm:lbpassword,widgetname,
+    !scratchpad,resetfrm:lbpassword,placeholder,
+    !scratchpad,resetfrm:lbpassword,addedby,
+    !scratchpad,resetfrm:lbpassword,DOCK,FFFF
+    !scratchpad,resetfrm:lbpassword,PICTURE,media/img_missing.png
+    !scratchpad,resetfrm:lbpassword,SIZE,311<PIP>21
+    !scratchpad,resetfrm:lbpassword,JSON,{}
+    !scratchpad,resetfrm:lbpassword,TEXT,New Password<COLN>
+    !scratchpad,resetfrm:lbpassword,TOOLTIP,
+    !scratchpad,resetfrm:lbpassword,ENABLED,true
+    !scratchpad,resetfrm:lbpassword,VISIBLE,true
+    !scratchpad,resetfrm:lbpassword,ZORDER,0
+    !scratchpad,resetfrm:lbpassword,FORECOLOR,&h000000
+    !scratchpad,resetfrm:lbpassword,BACKCOLOR,transparent
+    !scratchpad,resetfrm:lbpassword,FONTNAME,inherit
+    !scratchpad,resetfrm:lbpassword,FONTSIZE,12px
+    !scratchpad,resetfrm:lbpassword,FONTBOLD,false
+    !scratchpad,resetfrm:lbpassword,FONTITALIC,false
+    !scratchpad,resetfrm:lbpassword,FONTUNDERLINE,false
+    !scratchpad,resetfrm:lbpassword,FONTSTRIKETHRU,false
+    !scratchpad,resetfrm:lbpassword,INFO,
+    !scratchpad,resetfrm:lbpassword,PAGECOUNT,0
+    !scratchpad,resetfrm:lbpassword,DATABIND,
+    !scratchpad,resetfrm:lbpassword,BINDMAPPING,
+    !scratchpad,resetfrm:lbpassword,drag.x,1
+    !scratchpad,resetfrm:lbpassword,drag.y,1
+    !scratchpad,resetfrm:lbpassword,xdragrange,-1<SEMI> -1
+    !scratchpad,resetfrm:lbpassword,ydragrange,-1<SEMI> -1
+    !scratchpad,resetfrm:lbpassword,size.x,1
+    !scratchpad,resetfrm:lbpassword,size.y,1
+    !scratchpad,resetfrm:lbpassword,negadj,
+    !scratchpad,resetfrm:lbpassword,posadj,
+    !scratchpad,resetfrm:lbpassword,child,true
+    !scratchpad,resetfrm:lbpassword,displaymode,block
+    !scratchpad,resetfrm:lbpassword,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 12px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> <LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    !scratchpad,resetfrm:lbpassword,LOCK,false
+    !scratchpad,resetfrm:lbpassword,events,
+    !scratchpad,resetfrm:lbpassword,extend,{}
+!scratchpad,resetfrm:lbpassword,REFRESH, 
+!scratchpad,resetfrm:newpw,TARGET,resetfrm
+!scratchpad,resetfrm:newpw,PARENTGROUP,resetfrm
+!scratchpad,resetfrm:newpw,load,textbox||0|0|105|31|1342374016|131072
+    !scratchpad,resetfrm:newpw,group,false
+    !scratchpad,resetfrm:newpw,groupid,0
+    !scratchpad,resetfrm:newpw,groupby,0300
+    !scratchpad,resetfrm:newpw,widgetlock,false
+    !scratchpad,resetfrm:newpw,iswidget,true
+    !scratchpad,resetfrm:newpw,iscollection,false
+    !scratchpad,resetfrm:newpw,collectname,
+    !scratchpad,resetfrm:newpw,widgetname,
+    !scratchpad,resetfrm:newpw,placeholder,enter value..
+    !scratchpad,resetfrm:newpw,addedby,
+    !scratchpad,resetfrm:newpw,DOCK,FFFF
+    !scratchpad,resetfrm:newpw,PICTURE,media/img_missing.png
+    !scratchpad,resetfrm:newpw,SIZE,105<PIP>31
+    !scratchpad,resetfrm:newpw,JSON,{}
+    !scratchpad,resetfrm:newpw,TEXT,
+    !scratchpad,resetfrm:newpw,TOOLTIP,
+    !scratchpad,resetfrm:newpw,ENABLED,true
+    !scratchpad,resetfrm:newpw,VISIBLE,true
+    !scratchpad,resetfrm:newpw,ZORDER,0
+    !scratchpad,resetfrm:newpw,FORECOLOR,&h000000
+    !scratchpad,resetfrm:newpw,BACKCOLOR,rgba(120<COMMA> 150<COMMA> 180<COMMA> 0.25)
+    !scratchpad,resetfrm:newpw,FONTNAME,inherit
+    !scratchpad,resetfrm:newpw,FONTSIZE,inherit
+    !scratchpad,resetfrm:newpw,FONTBOLD,false
+    !scratchpad,resetfrm:newpw,FONTITALIC,false
+    !scratchpad,resetfrm:newpw,FONTUNDERLINE,false
+    !scratchpad,resetfrm:newpw,FONTSTRIKETHRU,false
+    !scratchpad,resetfrm:newpw,INFO,
+    !scratchpad,resetfrm:newpw,PAGECOUNT,0
+    !scratchpad,resetfrm:newpw,DATABIND,
+    !scratchpad,resetfrm:newpw,BINDMAPPING,
+    !scratchpad,resetfrm:newpw,drag.x,1
+    !scratchpad,resetfrm:newpw,drag.y,1
+    !scratchpad,resetfrm:newpw,xdragrange,-1<SEMI> -1
+    !scratchpad,resetfrm:newpw,ydragrange,-1<SEMI> -1
+    !scratchpad,resetfrm:newpw,size.x,1
+    !scratchpad,resetfrm:newpw,size.y,1
+    !scratchpad,resetfrm:newpw,negadj,
+    !scratchpad,resetfrm:newpw,posadj,
+    !scratchpad,resetfrm:newpw,child,true
+    !scratchpad,resetfrm:newpw,displaymode,block
+    !scratchpad,resetfrm:newpw,TAG,~bind<COLN> true<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>datalist<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>placeholder<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-textbox<LF>title<COLN> <LF>type<COLN> password<LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>db-key<COLN> false<LF>db-name<COLN> newpw<LF>db-type<COLN> text<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0.5px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>outline<COLN> none<LF>visibility<COLN> visible<LF>background-color<COLN> rgba(120<COMMA> 150<COMMA> 180<COMMA> 0.25)<LF>border-radius<COLN> 2px<LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> <LF>div.display<COLN> block<LF>div.margin<COLN> 0px 0px 10px 0px<LF>div.padding<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    !scratchpad,resetfrm:newpw,LOCK,false
+    !scratchpad,resetfrm:newpw,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>enterkey<COLN> <CR>gotfocus<COLN> <CR>keydown<COLN> reset.events.newPwKeyDown<CR>keypress<COLN> <CR>keyup<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> reset.events.validate<CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    !scratchpad,resetfrm:newpw,extend,{"react":"<LF>"}
+!scratchpad,resetfrm:newpw,REFRESH, 
+!scratchpad,resetfrm:lbconfirm,TARGET,resetfrm
+!scratchpad,resetfrm:lbconfirm,PARENTGROUP,resetfrm
+!scratchpad,resetfrm:lbconfirm,load,label|Confirm password<COLN>|0|0|105|21|1342377216|32
+    !scratchpad,resetfrm:lbconfirm,group,false
+    !scratchpad,resetfrm:lbconfirm,groupid,0
+    !scratchpad,resetfrm:lbconfirm,groupby,0300
+    !scratchpad,resetfrm:lbconfirm,widgetlock,false
+    !scratchpad,resetfrm:lbconfirm,iswidget,true
+    !scratchpad,resetfrm:lbconfirm,iscollection,false
+    !scratchpad,resetfrm:lbconfirm,collectname,
+    !scratchpad,resetfrm:lbconfirm,widgetname,
+    !scratchpad,resetfrm:lbconfirm,placeholder,
+    !scratchpad,resetfrm:lbconfirm,addedby,
+    !scratchpad,resetfrm:lbconfirm,DOCK,FFFF
+    !scratchpad,resetfrm:lbconfirm,PICTURE,media/img_missing.png
+    !scratchpad,resetfrm:lbconfirm,SIZE,105<PIP>21
+    !scratchpad,resetfrm:lbconfirm,JSON,{}
+    !scratchpad,resetfrm:lbconfirm,TEXT,Confirm password<COLN>
+    !scratchpad,resetfrm:lbconfirm,TOOLTIP,
+    !scratchpad,resetfrm:lbconfirm,ENABLED,true
+    !scratchpad,resetfrm:lbconfirm,VISIBLE,true
+    !scratchpad,resetfrm:lbconfirm,ZORDER,0
+    !scratchpad,resetfrm:lbconfirm,FORECOLOR,&h000000
+    !scratchpad,resetfrm:lbconfirm,BACKCOLOR,transparent
+    !scratchpad,resetfrm:lbconfirm,FONTNAME,inherit
+    !scratchpad,resetfrm:lbconfirm,FONTSIZE,12px
+    !scratchpad,resetfrm:lbconfirm,FONTBOLD,false
+    !scratchpad,resetfrm:lbconfirm,FONTITALIC,false
+    !scratchpad,resetfrm:lbconfirm,FONTUNDERLINE,false
+    !scratchpad,resetfrm:lbconfirm,FONTSTRIKETHRU,false
+    !scratchpad,resetfrm:lbconfirm,INFO,
+    !scratchpad,resetfrm:lbconfirm,PAGECOUNT,0
+    !scratchpad,resetfrm:lbconfirm,DATABIND,
+    !scratchpad,resetfrm:lbconfirm,BINDMAPPING,
+    !scratchpad,resetfrm:lbconfirm,drag.x,1
+    !scratchpad,resetfrm:lbconfirm,drag.y,1
+    !scratchpad,resetfrm:lbconfirm,xdragrange,-1<SEMI> -1
+    !scratchpad,resetfrm:lbconfirm,ydragrange,-1<SEMI> -1
+    !scratchpad,resetfrm:lbconfirm,size.x,1
+    !scratchpad,resetfrm:lbconfirm,size.y,1
+    !scratchpad,resetfrm:lbconfirm,negadj,
+    !scratchpad,resetfrm:lbconfirm,posadj,
+    !scratchpad,resetfrm:lbconfirm,child,true
+    !scratchpad,resetfrm:lbconfirm,displaymode,block
+    !scratchpad,resetfrm:lbconfirm,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 12px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> <LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    !scratchpad,resetfrm:lbconfirm,LOCK,false
+    !scratchpad,resetfrm:lbconfirm,events,
+    !scratchpad,resetfrm:lbconfirm,extend,{}
+!scratchpad,resetfrm:lbconfirm,REFRESH, 
+!scratchpad,resetfrm:confirm,TARGET,resetfrm
+!scratchpad,resetfrm:confirm,PARENTGROUP,resetfrm
+!scratchpad,resetfrm:confirm,load,textbox||0|0|105|31|1342374016|131072
+    !scratchpad,resetfrm:confirm,group,false
+    !scratchpad,resetfrm:confirm,groupid,0
+    !scratchpad,resetfrm:confirm,groupby,0300
+    !scratchpad,resetfrm:confirm,widgetlock,false
+    !scratchpad,resetfrm:confirm,iswidget,true
+    !scratchpad,resetfrm:confirm,iscollection,false
+    !scratchpad,resetfrm:confirm,collectname,
+    !scratchpad,resetfrm:confirm,widgetname,
+    !scratchpad,resetfrm:confirm,placeholder,enter value..
+    !scratchpad,resetfrm:confirm,addedby,
+    !scratchpad,resetfrm:confirm,DOCK,FFFF
+    !scratchpad,resetfrm:confirm,PICTURE,media/img_missing.png
+    !scratchpad,resetfrm:confirm,SIZE,105<PIP>31
+    !scratchpad,resetfrm:confirm,JSON,{}
+    !scratchpad,resetfrm:confirm,TEXT,
+    !scratchpad,resetfrm:confirm,TOOLTIP,
+    !scratchpad,resetfrm:confirm,ENABLED,true
+    !scratchpad,resetfrm:confirm,VISIBLE,true
+    !scratchpad,resetfrm:confirm,ZORDER,0
+    !scratchpad,resetfrm:confirm,FORECOLOR,&h000000
+    !scratchpad,resetfrm:confirm,BACKCOLOR,rgba(120<COMMA> 150<COMMA> 180<COMMA> 0.25)
+    !scratchpad,resetfrm:confirm,FONTNAME,inherit
+    !scratchpad,resetfrm:confirm,FONTSIZE,inherit
+    !scratchpad,resetfrm:confirm,FONTBOLD,false
+    !scratchpad,resetfrm:confirm,FONTITALIC,false
+    !scratchpad,resetfrm:confirm,FONTUNDERLINE,false
+    !scratchpad,resetfrm:confirm,FONTSTRIKETHRU,false
+    !scratchpad,resetfrm:confirm,INFO,
+    !scratchpad,resetfrm:confirm,PAGECOUNT,0
+    !scratchpad,resetfrm:confirm,DATABIND,
+    !scratchpad,resetfrm:confirm,BINDMAPPING,
+    !scratchpad,resetfrm:confirm,drag.x,1
+    !scratchpad,resetfrm:confirm,drag.y,1
+    !scratchpad,resetfrm:confirm,xdragrange,-1<SEMI> -1
+    !scratchpad,resetfrm:confirm,ydragrange,-1<SEMI> -1
+    !scratchpad,resetfrm:confirm,size.x,1
+    !scratchpad,resetfrm:confirm,size.y,1
+    !scratchpad,resetfrm:confirm,negadj,
+    !scratchpad,resetfrm:confirm,posadj,
+    !scratchpad,resetfrm:confirm,child,true
+    !scratchpad,resetfrm:confirm,displaymode,block
+    !scratchpad,resetfrm:confirm,TAG,~bind<COLN> true<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>datalist<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>placeholder<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-textbox<LF>title<COLN> <LF>type<COLN> password<LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>db-key<COLN> false<LF>db-name<COLN> confirm<LF>db-type<COLN> text<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0.5px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>outline<COLN> none<LF>visibility<COLN> visible<LF>background-color<COLN> rgba(120<COMMA> 150<COMMA> 180<COMMA> 0.25)<LF>border-radius<COLN> 2px<LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> <LF>div.display<COLN> block<LF>div.margin<COLN> 0px 0px 10px 0px<LF>div.padding<COLN> 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    !scratchpad,resetfrm:confirm,LOCK,false
+    !scratchpad,resetfrm:confirm,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>enterkey<COLN> <CR>gotfocus<COLN> <CR>keydown<COLN> reset.events.confirmKeyDown<CR>keypress<COLN> <CR>keyup<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> reset.events.validate<CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    !scratchpad,resetfrm:confirm,extend,{"react":"<LF>"}
+!scratchpad,resetfrm:confirm,REFRESH, 
+!scratchpad,resetfrm:lbcode,TARGET,resetfrm
+!scratchpad,resetfrm:lbcode,PARENTGROUP,resetfrm
+!scratchpad,resetfrm:lbcode,load,label|Authorization Code<COLN>|0|0|105|21|1342377216|32
+    !scratchpad,resetfrm:lbcode,group,false
+    !scratchpad,resetfrm:lbcode,groupid,0
+    !scratchpad,resetfrm:lbcode,groupby,0300
+    !scratchpad,resetfrm:lbcode,widgetlock,false
+    !scratchpad,resetfrm:lbcode,iswidget,true
+    !scratchpad,resetfrm:lbcode,iscollection,false
+    !scratchpad,resetfrm:lbcode,collectname,
+    !scratchpad,resetfrm:lbcode,widgetname,
+    !scratchpad,resetfrm:lbcode,placeholder,
+    !scratchpad,resetfrm:lbcode,addedby,
+    !scratchpad,resetfrm:lbcode,DOCK,FFFF
+    !scratchpad,resetfrm:lbcode,PICTURE,media/img_missing.png
+    !scratchpad,resetfrm:lbcode,SIZE,105<PIP>21
+    !scratchpad,resetfrm:lbcode,JSON,{}
+    !scratchpad,resetfrm:lbcode,TEXT,Authorization Code<COLN>
+    !scratchpad,resetfrm:lbcode,TOOLTIP,
+    !scratchpad,resetfrm:lbcode,ENABLED,true
+    !scratchpad,resetfrm:lbcode,VISIBLE,true
+    !scratchpad,resetfrm:lbcode,ZORDER,0
+    !scratchpad,resetfrm:lbcode,FORECOLOR,&h000000
+    !scratchpad,resetfrm:lbcode,BACKCOLOR,transparent
+    !scratchpad,resetfrm:lbcode,FONTNAME,inherit
+    !scratchpad,resetfrm:lbcode,FONTSIZE,12px
+    !scratchpad,resetfrm:lbcode,FONTBOLD,false
+    !scratchpad,resetfrm:lbcode,FONTITALIC,false
+    !scratchpad,resetfrm:lbcode,FONTUNDERLINE,false
+    !scratchpad,resetfrm:lbcode,FONTSTRIKETHRU,false
+    !scratchpad,resetfrm:lbcode,INFO,
+    !scratchpad,resetfrm:lbcode,PAGECOUNT,0
+    !scratchpad,resetfrm:lbcode,DATABIND,
+    !scratchpad,resetfrm:lbcode,BINDMAPPING,
+    !scratchpad,resetfrm:lbcode,drag.x,1
+    !scratchpad,resetfrm:lbcode,drag.y,1
+    !scratchpad,resetfrm:lbcode,xdragrange,-1<SEMI> -1
+    !scratchpad,resetfrm:lbcode,ydragrange,-1<SEMI> -1
+    !scratchpad,resetfrm:lbcode,size.x,1
+    !scratchpad,resetfrm:lbcode,size.y,1
+    !scratchpad,resetfrm:lbcode,negadj,
+    !scratchpad,resetfrm:lbcode,posadj,
+    !scratchpad,resetfrm:lbcode,child,true
+    !scratchpad,resetfrm:lbcode,displaymode,block
+    !scratchpad,resetfrm:lbcode,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 12px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> <LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    !scratchpad,resetfrm:lbcode,LOCK,false
+    !scratchpad,resetfrm:lbcode,events,
+    !scratchpad,resetfrm:lbcode,extend,{}
+!scratchpad,resetfrm:lbcode,REFRESH, 
+!scratchpad,resetfrm:token,TARGET,resetfrm
+!scratchpad,resetfrm:token,PARENTGROUP,resetfrm
+!scratchpad,resetfrm:token,load,textbox||0|0|105|31|1342374016|131072
+    !scratchpad,resetfrm:token,group,false
+    !scratchpad,resetfrm:token,groupid,0
+    !scratchpad,resetfrm:token,groupby,0300
+    !scratchpad,resetfrm:token,widgetlock,false
+    !scratchpad,resetfrm:token,iswidget,true
+    !scratchpad,resetfrm:token,iscollection,false
+    !scratchpad,resetfrm:token,collectname,
+    !scratchpad,resetfrm:token,widgetname,
+    !scratchpad,resetfrm:token,placeholder,enter value..
+    !scratchpad,resetfrm:token,addedby,
+    !scratchpad,resetfrm:token,DOCK,FFFF
+    !scratchpad,resetfrm:token,PICTURE,media/img_missing.png
+    !scratchpad,resetfrm:token,SIZE,105<PIP>31
+    !scratchpad,resetfrm:token,JSON,{}
+    !scratchpad,resetfrm:token,TEXT,
+    !scratchpad,resetfrm:token,TOOLTIP,
+    !scratchpad,resetfrm:token,ENABLED,true
+    !scratchpad,resetfrm:token,VISIBLE,true
+    !scratchpad,resetfrm:token,ZORDER,0
+    !scratchpad,resetfrm:token,FORECOLOR,&h000000
+    !scratchpad,resetfrm:token,BACKCOLOR,rgba(120<COMMA> 150<COMMA> 180<COMMA> 0.25)
+    !scratchpad,resetfrm:token,FONTNAME,inherit
+    !scratchpad,resetfrm:token,FONTSIZE,inherit
+    !scratchpad,resetfrm:token,FONTBOLD,false
+    !scratchpad,resetfrm:token,FONTITALIC,false
+    !scratchpad,resetfrm:token,FONTUNDERLINE,false
+    !scratchpad,resetfrm:token,FONTSTRIKETHRU,false
+    !scratchpad,resetfrm:token,INFO,
+    !scratchpad,resetfrm:token,PAGECOUNT,0
+    !scratchpad,resetfrm:token,DATABIND,
+    !scratchpad,resetfrm:token,BINDMAPPING,
+    !scratchpad,resetfrm:token,drag.x,1
+    !scratchpad,resetfrm:token,drag.y,1
+    !scratchpad,resetfrm:token,xdragrange,-1<SEMI> -1
+    !scratchpad,resetfrm:token,ydragrange,-1<SEMI> -1
+    !scratchpad,resetfrm:token,size.x,1
+    !scratchpad,resetfrm:token,size.y,1
+    !scratchpad,resetfrm:token,negadj,
+    !scratchpad,resetfrm:token,posadj,
+    !scratchpad,resetfrm:token,child,true
+    !scratchpad,resetfrm:token,displaymode,block
+    !scratchpad,resetfrm:token,TAG,~bind<COLN> true<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>datalist<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>placeholder<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-textbox<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>db-key<COLN> false<LF>db-name<COLN> token<LF>db-type<COLN> text<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0.5px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>outline<COLN> none<LF>visibility<COLN> visible<LF>background-color<COLN> rgba(120<COMMA> 150<COMMA> 180<COMMA> 0.25)<LF>border-radius<COLN> 2px<LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> <LF>div.display<COLN> block<LF>div.margin<COLN> 0px 0px 10px 0px<LF>div.padding<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    !scratchpad,resetfrm:token,LOCK,false
+    !scratchpad,resetfrm:token,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>enterkey<COLN> <CR>gotfocus<COLN> <CR>keydown<COLN> reset.events.tokenKeyDown<CR>keypress<COLN> <CR>keyup<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> reset.events.validate<CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    !scratchpad,resetfrm:token,extend,{"react":"<LF>"}
+!scratchpad,resetfrm:token,REFRESH, 
+!scratchpad,resetfrm:btnclose,TARGET,resetfrm
+!scratchpad,resetfrm:btnclose,PARENTGROUP,resetfrm
+!scratchpad,resetfrm:btnclose,load,button|Cancel|0|0|79|35|1342394112|32
+    !scratchpad,resetfrm:btnclose,group,false
+    !scratchpad,resetfrm:btnclose,groupid,0
+    !scratchpad,resetfrm:btnclose,groupby,0300
+    !scratchpad,resetfrm:btnclose,widgetlock,false
+    !scratchpad,resetfrm:btnclose,iswidget,true
+    !scratchpad,resetfrm:btnclose,iscollection,false
+    !scratchpad,resetfrm:btnclose,collectname,
+    !scratchpad,resetfrm:btnclose,widgetname,
+    !scratchpad,resetfrm:btnclose,placeholder,
+    !scratchpad,resetfrm:btnclose,addedby,
+    !scratchpad,resetfrm:btnclose,DOCK,FFFF
+    !scratchpad,resetfrm:btnclose,PICTURE,media/img_missing.png
+    !scratchpad,resetfrm:btnclose,SIZE,79<PIP>35
+    !scratchpad,resetfrm:btnclose,JSON,{}
+    !scratchpad,resetfrm:btnclose,TEXT,Cancel
+    !scratchpad,resetfrm:btnclose,TOOLTIP,
+    !scratchpad,resetfrm:btnclose,ENABLED,true
+    !scratchpad,resetfrm:btnclose,VISIBLE,true
+    !scratchpad,resetfrm:btnclose,ZORDER,0
+    !scratchpad,resetfrm:btnclose,FORECOLOR,&hffffff
+    !scratchpad,resetfrm:btnclose,BACKCOLOR,&h68789d
+    !scratchpad,resetfrm:btnclose,FONTNAME,inherit
+    !scratchpad,resetfrm:btnclose,FONTSIZE,13px
+    !scratchpad,resetfrm:btnclose,FONTBOLD,false
+    !scratchpad,resetfrm:btnclose,FONTITALIC,false
+    !scratchpad,resetfrm:btnclose,FONTUNDERLINE,false
+    !scratchpad,resetfrm:btnclose,FONTSTRIKETHRU,false
+    !scratchpad,resetfrm:btnclose,INFO,
+    !scratchpad,resetfrm:btnclose,PAGECOUNT,0
+    !scratchpad,resetfrm:btnclose,DATABIND,
+    !scratchpad,resetfrm:btnclose,BINDMAPPING,
+    !scratchpad,resetfrm:btnclose,drag.x,1
+    !scratchpad,resetfrm:btnclose,drag.y,1
+    !scratchpad,resetfrm:btnclose,xdragrange,-1<SEMI> -1
+    !scratchpad,resetfrm:btnclose,ydragrange,-1<SEMI> -1
+    !scratchpad,resetfrm:btnclose,size.x,1
+    !scratchpad,resetfrm:btnclose,size.y,1
+    !scratchpad,resetfrm:btnclose,negadj,
+    !scratchpad,resetfrm:btnclose,posadj,
+    !scratchpad,resetfrm:btnclose,child,true
+    !scratchpad,resetfrm:btnclose,displaymode,inline-block
+    !scratchpad,resetfrm:btnclose,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-button<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 2px solid rgba(250<COMMA>250<COMMA>250<COMMA>0.80)<LF>color<COLN> #ffffff<LF>cursor<COLN> <LF>display<COLN> <LF>float<COLN> right<LF>opacity<COLN> <LF>padding<COLN> 2px 7.5px<LF>visibility<COLN> visible<LF>background-color<COLN> #68789d<LF>border-radius<COLN> 3px<LF>font-size<COLN> 13px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> <LF>caption.position<COLN> absolute<LF>caption.text-align<COLN> center<LF>caption.top<COLN> calc(50% - 0.6em)<LF>caption.width<COLN> calc(100% - 15px)<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.margin<COLN> 0px 0px 0px 10px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN>
+    !scratchpad,resetfrm:btnclose,LOCK,false
+    !scratchpad,resetfrm:btnclose,events,click<COLN> reset.events.closeClick<CR>dblclick<COLN> <CR>gotfocus<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    !scratchpad,resetfrm:btnclose,extend,{"react":"<[CR]>"}
+!scratchpad,resetfrm:btnclose,REFRESH, 
+!scratchpad,resetfrm:btnupdate,TARGET,resetfrm
+!scratchpad,resetfrm:btnupdate,PARENTGROUP,resetfrm
+!scratchpad,resetfrm:btnupdate,load,button|Update Password|0|0|147|35|1342394112|32
+    !scratchpad,resetfrm:btnupdate,group,false
+    !scratchpad,resetfrm:btnupdate,groupid,0
+    !scratchpad,resetfrm:btnupdate,groupby,0300
+    !scratchpad,resetfrm:btnupdate,widgetlock,false
+    !scratchpad,resetfrm:btnupdate,iswidget,true
+    !scratchpad,resetfrm:btnupdate,iscollection,false
+    !scratchpad,resetfrm:btnupdate,collectname,
+    !scratchpad,resetfrm:btnupdate,widgetname,
+    !scratchpad,resetfrm:btnupdate,placeholder,
+    !scratchpad,resetfrm:btnupdate,addedby,
+    !scratchpad,resetfrm:btnupdate,DOCK,FFFF
+    !scratchpad,resetfrm:btnupdate,PICTURE,media/img_missing.png
+    !scratchpad,resetfrm:btnupdate,SIZE,147<PIP>35
+    !scratchpad,resetfrm:btnupdate,JSON,{}
+    !scratchpad,resetfrm:btnupdate,TEXT,Update Password
+    !scratchpad,resetfrm:btnupdate,TOOLTIP,
+    !scratchpad,resetfrm:btnupdate,ENABLED,true
+    !scratchpad,resetfrm:btnupdate,VISIBLE,true
+    !scratchpad,resetfrm:btnupdate,ZORDER,0
+    !scratchpad,resetfrm:btnupdate,FORECOLOR,&hffffff
+    !scratchpad,resetfrm:btnupdate,BACKCOLOR,&h68789d
+    !scratchpad,resetfrm:btnupdate,FONTNAME,inherit
+    !scratchpad,resetfrm:btnupdate,FONTSIZE,13px
+    !scratchpad,resetfrm:btnupdate,FONTBOLD,false
+    !scratchpad,resetfrm:btnupdate,FONTITALIC,false
+    !scratchpad,resetfrm:btnupdate,FONTUNDERLINE,false
+    !scratchpad,resetfrm:btnupdate,FONTSTRIKETHRU,false
+    !scratchpad,resetfrm:btnupdate,INFO,
+    !scratchpad,resetfrm:btnupdate,PAGECOUNT,0
+    !scratchpad,resetfrm:btnupdate,DATABIND,
+    !scratchpad,resetfrm:btnupdate,BINDMAPPING,
+    !scratchpad,resetfrm:btnupdate,drag.x,1
+    !scratchpad,resetfrm:btnupdate,drag.y,1
+    !scratchpad,resetfrm:btnupdate,xdragrange,-1<SEMI> -1
+    !scratchpad,resetfrm:btnupdate,ydragrange,-1<SEMI> -1
+    !scratchpad,resetfrm:btnupdate,size.x,1
+    !scratchpad,resetfrm:btnupdate,size.y,1
+    !scratchpad,resetfrm:btnupdate,negadj,
+    !scratchpad,resetfrm:btnupdate,posadj,
+    !scratchpad,resetfrm:btnupdate,child,true
+    !scratchpad,resetfrm:btnupdate,displaymode,inline-block
+    !scratchpad,resetfrm:btnupdate,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-button<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 2px solid rgba(250<COMMA>250<COMMA>250<COMMA>0.80)<LF>color<COLN> #ffffff<LF>cursor<COLN> <LF>display<COLN> <LF>float<COLN> right<LF>opacity<COLN> <LF>padding<COLN> 2px 7.5px<LF>visibility<COLN> visible<LF>background-color<COLN> #68789d<LF>border-radius<COLN> 3px<LF>font-size<COLN> 13px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> <LF>caption.position<COLN> absolute<LF>caption.text-align<COLN> center<LF>caption.top<COLN> calc(50% - 0.6em)<LF>caption.width<COLN> calc(100% - 15px)<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.margin<COLN> 0px 0px 0px 10px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN>
+    !scratchpad,resetfrm:btnupdate,LOCK,false
+    !scratchpad,resetfrm:btnupdate,events,click<COLN> reset.events.resetClick<CR>dblclick<COLN> <CR>gotfocus<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    !scratchpad,resetfrm:btnupdate,extend,{"react":"<[CR]>"}
+!scratchpad,resetfrm:btnupdate,REFRESH, 
+!scratchpad,forgotfrm,TARGET,~
+!scratchpad,forgotfrm,PARENTGROUP,~
+!scratchpad,forgotfrm,load,frame||0|363|328|264|1342194951|32
+    !scratchpad,forgotfrm,group,true
+    !scratchpad,forgotfrm,groupid,0400
+    !scratchpad,forgotfrm,groupby,9999999999
+    !scratchpad,forgotfrm,widgetlock,false
+    !scratchpad,forgotfrm,iswidget,true
+    !scratchpad,forgotfrm,iscollection,false
+    !scratchpad,forgotfrm,collectname,
+    !scratchpad,forgotfrm,widgetname,
+    !scratchpad,forgotfrm,placeholder,
+    !scratchpad,forgotfrm,addedby,
+    !scratchpad,forgotfrm,DOCK,FFFF
+    !scratchpad,forgotfrm,PICTURE,media/img_missing.png
+    !scratchpad,forgotfrm,SIZE,328<PIP>264
+    !scratchpad,forgotfrm,JSON,{}
+    !scratchpad,forgotfrm,TEXT,
+    !scratchpad,forgotfrm,TOOLTIP,
+    !scratchpad,forgotfrm,ENABLED,true
+    !scratchpad,forgotfrm,VISIBLE,true
+    !scratchpad,forgotfrm,ZORDER,0
+    !scratchpad,forgotfrm,FORECOLOR,&h000000
+    !scratchpad,forgotfrm,BACKCOLOR,transparent
+    !scratchpad,forgotfrm,FONTNAME,inherit
+    !scratchpad,forgotfrm,FONTSIZE,14px
+    !scratchpad,forgotfrm,FONTBOLD,false
+    !scratchpad,forgotfrm,FONTITALIC,false
+    !scratchpad,forgotfrm,FONTUNDERLINE,false
+    !scratchpad,forgotfrm,FONTSTRIKETHRU,false
+    !scratchpad,forgotfrm,INFO,
+    !scratchpad,forgotfrm,PAGECOUNT,0
+    !scratchpad,forgotfrm,DATABIND,
+    !scratchpad,forgotfrm,BINDMAPPING,
+    !scratchpad,forgotfrm,drag.x,1
+    !scratchpad,forgotfrm,drag.y,1
+    !scratchpad,forgotfrm,xdragrange,-1<SEMI> -1
+    !scratchpad,forgotfrm,ydragrange,-1<SEMI> -1
+    !scratchpad,forgotfrm,size.x,1
+    !scratchpad,forgotfrm,size.y,1
+    !scratchpad,forgotfrm,negadj,
+    !scratchpad,forgotfrm,posadj,
+    !scratchpad,forgotfrm,child,false
+    !scratchpad,forgotfrm,displaymode,inline-block
+    !scratchpad,forgotfrm,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 1px #bbb dotted<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> inline-block<LF>height<COLN> auto<LF>opacity<COLN> <LF>padding<COLN> 18px 18px 18px 18px<LF>position<COLN> relative<LF>visibility<COLN> visible<LF>width<COLN> <LF>background-color<COLN> transparent<LF>box-sizing<COLN> border-box<LF>font-size<COLN> 14px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle
+    !scratchpad,forgotfrm,LOCK,false
+    !scratchpad,forgotfrm,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    !scratchpad,forgotfrm,extend,{"react":"<LF>"}
+!scratchpad,forgotfrm,REFRESH, 
+!scratchpad,forgotfrm:lbtitle,TARGET,forgotfrm
+!scratchpad,forgotfrm:lbtitle,PARENTGROUP,forgotfrm
+!scratchpad,forgotfrm:lbtitle,load,label|Forgot Password?|0|0|105|21|1342377216|32
+    !scratchpad,forgotfrm:lbtitle,group,false
+    !scratchpad,forgotfrm:lbtitle,groupid,0
+    !scratchpad,forgotfrm:lbtitle,groupby,0400
+    !scratchpad,forgotfrm:lbtitle,widgetlock,false
+    !scratchpad,forgotfrm:lbtitle,iswidget,true
+    !scratchpad,forgotfrm:lbtitle,iscollection,false
+    !scratchpad,forgotfrm:lbtitle,collectname,
+    !scratchpad,forgotfrm:lbtitle,widgetname,
+    !scratchpad,forgotfrm:lbtitle,placeholder,
+    !scratchpad,forgotfrm:lbtitle,addedby,
+    !scratchpad,forgotfrm:lbtitle,DOCK,FFFF
+    !scratchpad,forgotfrm:lbtitle,PICTURE,media/img_missing.png
+    !scratchpad,forgotfrm:lbtitle,SIZE,105<PIP>21
+    !scratchpad,forgotfrm:lbtitle,JSON,{}
+    !scratchpad,forgotfrm:lbtitle,TEXT,Forgot Password?
+    !scratchpad,forgotfrm:lbtitle,TOOLTIP,
+    !scratchpad,forgotfrm:lbtitle,ENABLED,true
+    !scratchpad,forgotfrm:lbtitle,VISIBLE,true
+    !scratchpad,forgotfrm:lbtitle,ZORDER,0
+    !scratchpad,forgotfrm:lbtitle,FORECOLOR,&h000000
+    !scratchpad,forgotfrm:lbtitle,BACKCOLOR,transparent
+    !scratchpad,forgotfrm:lbtitle,FONTNAME,inherit
+    !scratchpad,forgotfrm:lbtitle,FONTSIZE,24px
+    !scratchpad,forgotfrm:lbtitle,FONTBOLD,false
+    !scratchpad,forgotfrm:lbtitle,FONTITALIC,false
+    !scratchpad,forgotfrm:lbtitle,FONTUNDERLINE,false
+    !scratchpad,forgotfrm:lbtitle,FONTSTRIKETHRU,false
+    !scratchpad,forgotfrm:lbtitle,INFO,
+    !scratchpad,forgotfrm:lbtitle,PAGECOUNT,0
+    !scratchpad,forgotfrm:lbtitle,DATABIND,
+    !scratchpad,forgotfrm:lbtitle,BINDMAPPING,
+    !scratchpad,forgotfrm:lbtitle,drag.x,1
+    !scratchpad,forgotfrm:lbtitle,drag.y,1
+    !scratchpad,forgotfrm:lbtitle,xdragrange,-1<SEMI> -1
+    !scratchpad,forgotfrm:lbtitle,ydragrange,-1<SEMI> -1
+    !scratchpad,forgotfrm:lbtitle,size.x,1
+    !scratchpad,forgotfrm:lbtitle,size.y,1
+    !scratchpad,forgotfrm:lbtitle,negadj,
+    !scratchpad,forgotfrm:lbtitle,posadj,
+    !scratchpad,forgotfrm:lbtitle,child,true
+    !scratchpad,forgotfrm:lbtitle,displaymode,block
+    !scratchpad,forgotfrm:lbtitle,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 24px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> <LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.margin<COLN> 0px 0px 20px 0px<LF>div.padding<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    !scratchpad,forgotfrm:lbtitle,LOCK,false
+    !scratchpad,forgotfrm:lbtitle,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    !scratchpad,forgotfrm:lbtitle,extend,{"react":"<[CR]>"}
+!scratchpad,forgotfrm:lbtitle,REFRESH, 
+!scratchpad,forgotfrm:lbusername,TARGET,forgotfrm
+!scratchpad,forgotfrm:lbusername,PARENTGROUP,forgotfrm
+!scratchpad,forgotfrm:lbusername,load,label|Username<COLN>|0|0|105|21|1342377216|32
+    !scratchpad,forgotfrm:lbusername,group,false
+    !scratchpad,forgotfrm:lbusername,groupid,0
+    !scratchpad,forgotfrm:lbusername,groupby,0400
+    !scratchpad,forgotfrm:lbusername,widgetlock,false
+    !scratchpad,forgotfrm:lbusername,iswidget,true
+    !scratchpad,forgotfrm:lbusername,iscollection,false
+    !scratchpad,forgotfrm:lbusername,collectname,
+    !scratchpad,forgotfrm:lbusername,widgetname,
+    !scratchpad,forgotfrm:lbusername,placeholder,
+    !scratchpad,forgotfrm:lbusername,addedby,
+    !scratchpad,forgotfrm:lbusername,DOCK,FFFF
+    !scratchpad,forgotfrm:lbusername,PICTURE,media/img_missing.png
+    !scratchpad,forgotfrm:lbusername,SIZE,105<PIP>21
+    !scratchpad,forgotfrm:lbusername,JSON,{}
+    !scratchpad,forgotfrm:lbusername,TEXT,Username<COLN>
+    !scratchpad,forgotfrm:lbusername,TOOLTIP,
+    !scratchpad,forgotfrm:lbusername,ENABLED,true
+    !scratchpad,forgotfrm:lbusername,VISIBLE,true
+    !scratchpad,forgotfrm:lbusername,ZORDER,0
+    !scratchpad,forgotfrm:lbusername,FORECOLOR,&h000000
+    !scratchpad,forgotfrm:lbusername,BACKCOLOR,transparent
+    !scratchpad,forgotfrm:lbusername,FONTNAME,inherit
+    !scratchpad,forgotfrm:lbusername,FONTSIZE,12px
+    !scratchpad,forgotfrm:lbusername,FONTBOLD,false
+    !scratchpad,forgotfrm:lbusername,FONTITALIC,false
+    !scratchpad,forgotfrm:lbusername,FONTUNDERLINE,false
+    !scratchpad,forgotfrm:lbusername,FONTSTRIKETHRU,false
+    !scratchpad,forgotfrm:lbusername,INFO,
+    !scratchpad,forgotfrm:lbusername,PAGECOUNT,0
+    !scratchpad,forgotfrm:lbusername,DATABIND,
+    !scratchpad,forgotfrm:lbusername,BINDMAPPING,
+    !scratchpad,forgotfrm:lbusername,drag.x,1
+    !scratchpad,forgotfrm:lbusername,drag.y,1
+    !scratchpad,forgotfrm:lbusername,xdragrange,-1<SEMI> -1
+    !scratchpad,forgotfrm:lbusername,ydragrange,-1<SEMI> -1
+    !scratchpad,forgotfrm:lbusername,size.x,1
+    !scratchpad,forgotfrm:lbusername,size.y,1
+    !scratchpad,forgotfrm:lbusername,negadj,
+    !scratchpad,forgotfrm:lbusername,posadj,
+    !scratchpad,forgotfrm:lbusername,child,true
+    !scratchpad,forgotfrm:lbusername,displaymode,block
+    !scratchpad,forgotfrm:lbusername,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 12px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> <LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    !scratchpad,forgotfrm:lbusername,LOCK,false
+    !scratchpad,forgotfrm:lbusername,events,
+    !scratchpad,forgotfrm:lbusername,extend,{}
+!scratchpad,forgotfrm:lbusername,REFRESH, 
+!scratchpad,forgotfrm:login,TARGET,forgotfrm
+!scratchpad,forgotfrm:login,PARENTGROUP,forgotfrm
+!scratchpad,forgotfrm:login,load,textbox||0|0|105|31|1342374016|131072
+    !scratchpad,forgotfrm:login,group,false
+    !scratchpad,forgotfrm:login,groupid,0
+    !scratchpad,forgotfrm:login,groupby,0400
+    !scratchpad,forgotfrm:login,widgetlock,false
+    !scratchpad,forgotfrm:login,iswidget,true
+    !scratchpad,forgotfrm:login,iscollection,false
+    !scratchpad,forgotfrm:login,collectname,
+    !scratchpad,forgotfrm:login,widgetname,
+    !scratchpad,forgotfrm:login,placeholder,enter value..
+    !scratchpad,forgotfrm:login,addedby,
+    !scratchpad,forgotfrm:login,DOCK,FFFF
+    !scratchpad,forgotfrm:login,PICTURE,media/img_missing.png
+    !scratchpad,forgotfrm:login,SIZE,105<PIP>31
+    !scratchpad,forgotfrm:login,JSON,{}
+    !scratchpad,forgotfrm:login,TEXT,
+    !scratchpad,forgotfrm:login,TOOLTIP,
+    !scratchpad,forgotfrm:login,ENABLED,true
+    !scratchpad,forgotfrm:login,VISIBLE,true
+    !scratchpad,forgotfrm:login,ZORDER,0
+    !scratchpad,forgotfrm:login,FORECOLOR,&h000000
+    !scratchpad,forgotfrm:login,BACKCOLOR,rgba(120<COMMA> 150<COMMA> 180<COMMA> 0.25)
+    !scratchpad,forgotfrm:login,FONTNAME,inherit
+    !scratchpad,forgotfrm:login,FONTSIZE,inherit
+    !scratchpad,forgotfrm:login,FONTBOLD,false
+    !scratchpad,forgotfrm:login,FONTITALIC,false
+    !scratchpad,forgotfrm:login,FONTUNDERLINE,false
+    !scratchpad,forgotfrm:login,FONTSTRIKETHRU,false
+    !scratchpad,forgotfrm:login,INFO,
+    !scratchpad,forgotfrm:login,PAGECOUNT,0
+    !scratchpad,forgotfrm:login,DATABIND,
+    !scratchpad,forgotfrm:login,BINDMAPPING,
+    !scratchpad,forgotfrm:login,drag.x,1
+    !scratchpad,forgotfrm:login,drag.y,1
+    !scratchpad,forgotfrm:login,xdragrange,-1<SEMI> -1
+    !scratchpad,forgotfrm:login,ydragrange,-1<SEMI> -1
+    !scratchpad,forgotfrm:login,size.x,1
+    !scratchpad,forgotfrm:login,size.y,1
+    !scratchpad,forgotfrm:login,negadj,
+    !scratchpad,forgotfrm:login,posadj,
+    !scratchpad,forgotfrm:login,child,true
+    !scratchpad,forgotfrm:login,displaymode,block
+    !scratchpad,forgotfrm:login,TAG,~bind<COLN> true<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>datalist<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>placeholder<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-textbox<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>db-key<COLN> false<LF>db-name<COLN> login<LF>db-type<COLN> text<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0.5px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>outline<COLN> none<LF>visibility<COLN> visible<LF>background-color<COLN> rgba(120<COMMA> 150<COMMA> 180<COMMA> 0.25)<LF>border-radius<COLN> 2px<LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> <LF>div.display<COLN> block<LF>div.padding<COLN> 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    !scratchpad,forgotfrm:login,LOCK,false
+    !scratchpad,forgotfrm:login,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>enterkey<COLN> <CR>gotfocus<COLN> <CR>keydown<COLN> forgot.events.loginKeyDown<CR>keypress<COLN> <CR>keyup<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> forgot.events.loginBlur<CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    !scratchpad,forgotfrm:login,extend,{"react":"<LF>"}
+!scratchpad,forgotfrm:login,REFRESH, 
+!scratchpad,forgotfrm:label,TARGET,forgotfrm
+!scratchpad,forgotfrm:label,PARENTGROUP,forgotfrm
+!scratchpad,forgotfrm:label,load,label|- or -|0|0|105|21|1342377728|32
+    !scratchpad,forgotfrm:label,group,false
+    !scratchpad,forgotfrm:label,groupid,0
+    !scratchpad,forgotfrm:label,groupby,0400
+    !scratchpad,forgotfrm:label,widgetlock,false
+    !scratchpad,forgotfrm:label,iswidget,true
+    !scratchpad,forgotfrm:label,iscollection,false
+    !scratchpad,forgotfrm:label,collectname,
+    !scratchpad,forgotfrm:label,widgetname,
+    !scratchpad,forgotfrm:label,placeholder,
+    !scratchpad,forgotfrm:label,addedby,
+    !scratchpad,forgotfrm:label,DOCK,FFFF
+    !scratchpad,forgotfrm:label,PICTURE,media/img_missing.png
+    !scratchpad,forgotfrm:label,SIZE,105<PIP>21
+    !scratchpad,forgotfrm:label,JSON,{}
+    !scratchpad,forgotfrm:label,TEXT,- or -
+    !scratchpad,forgotfrm:label,TOOLTIP,
+    !scratchpad,forgotfrm:label,ENABLED,true
+    !scratchpad,forgotfrm:label,VISIBLE,true
+    !scratchpad,forgotfrm:label,ZORDER,0
+    !scratchpad,forgotfrm:label,FORECOLOR,&h000000
+    !scratchpad,forgotfrm:label,BACKCOLOR,transparent
+    !scratchpad,forgotfrm:label,FONTNAME,inherit
+    !scratchpad,forgotfrm:label,FONTSIZE,inherit
+    !scratchpad,forgotfrm:label,FONTBOLD,false
+    !scratchpad,forgotfrm:label,FONTITALIC,false
+    !scratchpad,forgotfrm:label,FONTUNDERLINE,false
+    !scratchpad,forgotfrm:label,FONTSTRIKETHRU,false
+    !scratchpad,forgotfrm:label,INFO,
+    !scratchpad,forgotfrm:label,PAGECOUNT,0
+    !scratchpad,forgotfrm:label,DATABIND,
+    !scratchpad,forgotfrm:label,BINDMAPPING,
+    !scratchpad,forgotfrm:label,drag.x,1
+    !scratchpad,forgotfrm:label,drag.y,1
+    !scratchpad,forgotfrm:label,xdragrange,-1<SEMI> -1
+    !scratchpad,forgotfrm:label,ydragrange,-1<SEMI> -1
+    !scratchpad,forgotfrm:label,size.x,1
+    !scratchpad,forgotfrm:label,size.y,1
+    !scratchpad,forgotfrm:label,negadj,
+    !scratchpad,forgotfrm:label,posadj,
+    !scratchpad,forgotfrm:label,child,true
+    !scratchpad,forgotfrm:label,displaymode,block
+    !scratchpad,forgotfrm:label,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> <LF>caption.display<COLN> table-cell<LF>caption.left<COLN> 0px<LF>caption.position<COLN> relative<LF>caption.text-align<COLN> center<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.margin<COLN> 10px 0px 5px 0px<LF>div.padding<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    !scratchpad,forgotfrm:label,LOCK,false
+    !scratchpad,forgotfrm:label,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    !scratchpad,forgotfrm:label,extend,{"react":"<[CR]>"}
+!scratchpad,forgotfrm:label,REFRESH, 
+!scratchpad,forgotfrm:lbemail,TARGET,forgotfrm
+!scratchpad,forgotfrm:lbemail,PARENTGROUP,forgotfrm
+!scratchpad,forgotfrm:lbemail,load,label|Email<COLN>|0|0|105|21|1342377216|32
+    !scratchpad,forgotfrm:lbemail,group,false
+    !scratchpad,forgotfrm:lbemail,groupid,0
+    !scratchpad,forgotfrm:lbemail,groupby,0400
+    !scratchpad,forgotfrm:lbemail,widgetlock,false
+    !scratchpad,forgotfrm:lbemail,iswidget,true
+    !scratchpad,forgotfrm:lbemail,iscollection,false
+    !scratchpad,forgotfrm:lbemail,collectname,
+    !scratchpad,forgotfrm:lbemail,widgetname,
+    !scratchpad,forgotfrm:lbemail,placeholder,
+    !scratchpad,forgotfrm:lbemail,addedby,
+    !scratchpad,forgotfrm:lbemail,DOCK,FFFF
+    !scratchpad,forgotfrm:lbemail,PICTURE,media/img_missing.png
+    !scratchpad,forgotfrm:lbemail,SIZE,105<PIP>21
+    !scratchpad,forgotfrm:lbemail,JSON,{}
+    !scratchpad,forgotfrm:lbemail,TEXT,Email<COLN>
+    !scratchpad,forgotfrm:lbemail,TOOLTIP,
+    !scratchpad,forgotfrm:lbemail,ENABLED,true
+    !scratchpad,forgotfrm:lbemail,VISIBLE,true
+    !scratchpad,forgotfrm:lbemail,ZORDER,0
+    !scratchpad,forgotfrm:lbemail,FORECOLOR,&h000000
+    !scratchpad,forgotfrm:lbemail,BACKCOLOR,transparent
+    !scratchpad,forgotfrm:lbemail,FONTNAME,inherit
+    !scratchpad,forgotfrm:lbemail,FONTSIZE,12px
+    !scratchpad,forgotfrm:lbemail,FONTBOLD,false
+    !scratchpad,forgotfrm:lbemail,FONTITALIC,false
+    !scratchpad,forgotfrm:lbemail,FONTUNDERLINE,false
+    !scratchpad,forgotfrm:lbemail,FONTSTRIKETHRU,false
+    !scratchpad,forgotfrm:lbemail,INFO,
+    !scratchpad,forgotfrm:lbemail,PAGECOUNT,0
+    !scratchpad,forgotfrm:lbemail,DATABIND,
+    !scratchpad,forgotfrm:lbemail,BINDMAPPING,
+    !scratchpad,forgotfrm:lbemail,drag.x,1
+    !scratchpad,forgotfrm:lbemail,drag.y,1
+    !scratchpad,forgotfrm:lbemail,xdragrange,-1<SEMI> -1
+    !scratchpad,forgotfrm:lbemail,ydragrange,-1<SEMI> -1
+    !scratchpad,forgotfrm:lbemail,size.x,1
+    !scratchpad,forgotfrm:lbemail,size.y,1
+    !scratchpad,forgotfrm:lbemail,negadj,
+    !scratchpad,forgotfrm:lbemail,posadj,
+    !scratchpad,forgotfrm:lbemail,child,true
+    !scratchpad,forgotfrm:lbemail,displaymode,block
+    !scratchpad,forgotfrm:lbemail,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 12px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> <LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    !scratchpad,forgotfrm:lbemail,LOCK,false
+    !scratchpad,forgotfrm:lbemail,events,
+    !scratchpad,forgotfrm:lbemail,extend,{}
+!scratchpad,forgotfrm:lbemail,REFRESH, 
+!scratchpad,forgotfrm:email,TARGET,forgotfrm
+!scratchpad,forgotfrm:email,PARENTGROUP,forgotfrm
+!scratchpad,forgotfrm:email,load,textbox||0|0|311|31|1342374016|131072
+    !scratchpad,forgotfrm:email,group,false
+    !scratchpad,forgotfrm:email,groupid,0
+    !scratchpad,forgotfrm:email,groupby,0400
+    !scratchpad,forgotfrm:email,widgetlock,false
+    !scratchpad,forgotfrm:email,iswidget,true
+    !scratchpad,forgotfrm:email,iscollection,false
+    !scratchpad,forgotfrm:email,collectname,
+    !scratchpad,forgotfrm:email,widgetname,
+    !scratchpad,forgotfrm:email,placeholder,enter value..
+    !scratchpad,forgotfrm:email,addedby,
+    !scratchpad,forgotfrm:email,DOCK,FFFF
+    !scratchpad,forgotfrm:email,PICTURE,media/img_missing.png
+    !scratchpad,forgotfrm:email,SIZE,311<PIP>31
+    !scratchpad,forgotfrm:email,JSON,{}
+    !scratchpad,forgotfrm:email,TEXT,
+    !scratchpad,forgotfrm:email,TOOLTIP,
+    !scratchpad,forgotfrm:email,ENABLED,true
+    !scratchpad,forgotfrm:email,VISIBLE,true
+    !scratchpad,forgotfrm:email,ZORDER,0
+    !scratchpad,forgotfrm:email,FORECOLOR,&h000000
+    !scratchpad,forgotfrm:email,BACKCOLOR,rgba(120<COMMA> 150<COMMA> 180<COMMA> 0.25)
+    !scratchpad,forgotfrm:email,FONTNAME,inherit
+    !scratchpad,forgotfrm:email,FONTSIZE,inherit
+    !scratchpad,forgotfrm:email,FONTBOLD,false
+    !scratchpad,forgotfrm:email,FONTITALIC,false
+    !scratchpad,forgotfrm:email,FONTUNDERLINE,false
+    !scratchpad,forgotfrm:email,FONTSTRIKETHRU,false
+    !scratchpad,forgotfrm:email,INFO,
+    !scratchpad,forgotfrm:email,PAGECOUNT,0
+    !scratchpad,forgotfrm:email,DATABIND,
+    !scratchpad,forgotfrm:email,BINDMAPPING,
+    !scratchpad,forgotfrm:email,drag.x,1
+    !scratchpad,forgotfrm:email,drag.y,1
+    !scratchpad,forgotfrm:email,xdragrange,-1<SEMI> -1
+    !scratchpad,forgotfrm:email,ydragrange,-1<SEMI> -1
+    !scratchpad,forgotfrm:email,size.x,1
+    !scratchpad,forgotfrm:email,size.y,1
+    !scratchpad,forgotfrm:email,negadj,
+    !scratchpad,forgotfrm:email,posadj,
+    !scratchpad,forgotfrm:email,child,true
+    !scratchpad,forgotfrm:email,displaymode,block
+    !scratchpad,forgotfrm:email,TAG,~bind<COLN> true<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>datalist<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>placeholder<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-textbox<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>db-key<COLN> false<LF>db-name<COLN> email<LF>db-type<COLN> text<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0.5px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>outline<COLN> none<LF>visibility<COLN> visible<LF>background-color<COLN> rgba(120<COMMA> 150<COMMA> 180<COMMA> 0.25)<LF>border-radius<COLN> 2px<LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> <LF>div.display<COLN> block<LF>div.margin<COLN> 0px 0px 10px 0px<LF>div.padding<COLN> 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    !scratchpad,forgotfrm:email,LOCK,false
+    !scratchpad,forgotfrm:email,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>enterkey<COLN> <CR>gotfocus<COLN> <CR>keydown<COLN> forgot.events.emailKeyDown<CR>keypress<COLN> <CR>keyup<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> forgot.events.emailBlur<CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    !scratchpad,forgotfrm:email,extend,{"react":"<LF>"}
+!scratchpad,forgotfrm:email,REFRESH, 
+!scratchpad,forgotfrm:btnclose,TARGET,forgotfrm
+!scratchpad,forgotfrm:btnclose,PARENTGROUP,forgotfrm
+!scratchpad,forgotfrm:btnclose,load,button|Cancel|0|0|82|35|1342394112|32
+    !scratchpad,forgotfrm:btnclose,group,false
+    !scratchpad,forgotfrm:btnclose,groupid,0
+    !scratchpad,forgotfrm:btnclose,groupby,0400
+    !scratchpad,forgotfrm:btnclose,widgetlock,false
+    !scratchpad,forgotfrm:btnclose,iswidget,true
+    !scratchpad,forgotfrm:btnclose,iscollection,false
+    !scratchpad,forgotfrm:btnclose,collectname,
+    !scratchpad,forgotfrm:btnclose,widgetname,
+    !scratchpad,forgotfrm:btnclose,placeholder,
+    !scratchpad,forgotfrm:btnclose,addedby,
+    !scratchpad,forgotfrm:btnclose,DOCK,FFFF
+    !scratchpad,forgotfrm:btnclose,PICTURE,media/img_missing.png
+    !scratchpad,forgotfrm:btnclose,SIZE,82<PIP>35
+    !scratchpad,forgotfrm:btnclose,JSON,{}
+    !scratchpad,forgotfrm:btnclose,TEXT,Cancel
+    !scratchpad,forgotfrm:btnclose,TOOLTIP,
+    !scratchpad,forgotfrm:btnclose,ENABLED,true
+    !scratchpad,forgotfrm:btnclose,VISIBLE,true
+    !scratchpad,forgotfrm:btnclose,ZORDER,0
+    !scratchpad,forgotfrm:btnclose,FORECOLOR,&hffffff
+    !scratchpad,forgotfrm:btnclose,BACKCOLOR,&h68789d
+    !scratchpad,forgotfrm:btnclose,FONTNAME,inherit
+    !scratchpad,forgotfrm:btnclose,FONTSIZE,13px
+    !scratchpad,forgotfrm:btnclose,FONTBOLD,false
+    !scratchpad,forgotfrm:btnclose,FONTITALIC,false
+    !scratchpad,forgotfrm:btnclose,FONTUNDERLINE,false
+    !scratchpad,forgotfrm:btnclose,FONTSTRIKETHRU,false
+    !scratchpad,forgotfrm:btnclose,INFO,
+    !scratchpad,forgotfrm:btnclose,PAGECOUNT,0
+    !scratchpad,forgotfrm:btnclose,DATABIND,
+    !scratchpad,forgotfrm:btnclose,BINDMAPPING,
+    !scratchpad,forgotfrm:btnclose,drag.x,1
+    !scratchpad,forgotfrm:btnclose,drag.y,1
+    !scratchpad,forgotfrm:btnclose,xdragrange,-1<SEMI> -1
+    !scratchpad,forgotfrm:btnclose,ydragrange,-1<SEMI> -1
+    !scratchpad,forgotfrm:btnclose,size.x,1
+    !scratchpad,forgotfrm:btnclose,size.y,1
+    !scratchpad,forgotfrm:btnclose,negadj,
+    !scratchpad,forgotfrm:btnclose,posadj,
+    !scratchpad,forgotfrm:btnclose,child,true
+    !scratchpad,forgotfrm:btnclose,displaymode,inline-block
+    !scratchpad,forgotfrm:btnclose,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-button<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 2px solid rgba(250<COMMA>250<COMMA>250<COMMA>0.80)<LF>color<COLN> #ffffff<LF>cursor<COLN> <LF>display<COLN> <LF>float<COLN> right<LF>opacity<COLN> <LF>padding<COLN> 2px 7.5px<LF>visibility<COLN> visible<LF>background-color<COLN> #68789d<LF>border-radius<COLN> 3px<LF>font-size<COLN> 13px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> <LF>caption.position<COLN> absolute<LF>caption.text-align<COLN> center<LF>caption.top<COLN> calc(50% - 0.6em)<LF>caption.width<COLN> calc(100% - 15px)<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.margin<COLN> 0px 0px 0px 10px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN>
+    !scratchpad,forgotfrm:btnclose,LOCK,false
+    !scratchpad,forgotfrm:btnclose,events,click<COLN> forgot.events.closeClick<CR>dblclick<COLN> <CR>gotfocus<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    !scratchpad,forgotfrm:btnclose,extend,{"react":"<LF>"}
+!scratchpad,forgotfrm:btnclose,REFRESH, 
+!scratchpad,forgotfrm:btnreset,TARGET,forgotfrm
+!scratchpad,forgotfrm:btnreset,PARENTGROUP,forgotfrm
+!scratchpad,forgotfrm:btnreset,load,button|Reset Password|0|0|147|35|1342394112|32
+    !scratchpad,forgotfrm:btnreset,group,false
+    !scratchpad,forgotfrm:btnreset,groupid,0
+    !scratchpad,forgotfrm:btnreset,groupby,0400
+    !scratchpad,forgotfrm:btnreset,widgetlock,false
+    !scratchpad,forgotfrm:btnreset,iswidget,true
+    !scratchpad,forgotfrm:btnreset,iscollection,false
+    !scratchpad,forgotfrm:btnreset,collectname,
+    !scratchpad,forgotfrm:btnreset,widgetname,
+    !scratchpad,forgotfrm:btnreset,placeholder,
+    !scratchpad,forgotfrm:btnreset,addedby,
+    !scratchpad,forgotfrm:btnreset,DOCK,FFFF
+    !scratchpad,forgotfrm:btnreset,PICTURE,media/img_missing.png
+    !scratchpad,forgotfrm:btnreset,SIZE,147<PIP>35
+    !scratchpad,forgotfrm:btnreset,JSON,{}
+    !scratchpad,forgotfrm:btnreset,TEXT,Reset Password
+    !scratchpad,forgotfrm:btnreset,TOOLTIP,
+    !scratchpad,forgotfrm:btnreset,ENABLED,true
+    !scratchpad,forgotfrm:btnreset,VISIBLE,true
+    !scratchpad,forgotfrm:btnreset,ZORDER,0
+    !scratchpad,forgotfrm:btnreset,FORECOLOR,&hffffff
+    !scratchpad,forgotfrm:btnreset,BACKCOLOR,&h68789d
+    !scratchpad,forgotfrm:btnreset,FONTNAME,inherit
+    !scratchpad,forgotfrm:btnreset,FONTSIZE,13px
+    !scratchpad,forgotfrm:btnreset,FONTBOLD,false
+    !scratchpad,forgotfrm:btnreset,FONTITALIC,false
+    !scratchpad,forgotfrm:btnreset,FONTUNDERLINE,false
+    !scratchpad,forgotfrm:btnreset,FONTSTRIKETHRU,false
+    !scratchpad,forgotfrm:btnreset,INFO,
+    !scratchpad,forgotfrm:btnreset,PAGECOUNT,0
+    !scratchpad,forgotfrm:btnreset,DATABIND,
+    !scratchpad,forgotfrm:btnreset,BINDMAPPING,
+    !scratchpad,forgotfrm:btnreset,drag.x,1
+    !scratchpad,forgotfrm:btnreset,drag.y,1
+    !scratchpad,forgotfrm:btnreset,xdragrange,-1<SEMI> -1
+    !scratchpad,forgotfrm:btnreset,ydragrange,-1<SEMI> -1
+    !scratchpad,forgotfrm:btnreset,size.x,1
+    !scratchpad,forgotfrm:btnreset,size.y,1
+    !scratchpad,forgotfrm:btnreset,negadj,
+    !scratchpad,forgotfrm:btnreset,posadj,
+    !scratchpad,forgotfrm:btnreset,child,true
+    !scratchpad,forgotfrm:btnreset,displaymode,inline-block
+    !scratchpad,forgotfrm:btnreset,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-button<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 2px solid rgba(250<COMMA>250<COMMA>250<COMMA>0.80)<LF>color<COLN> #ffffff<LF>cursor<COLN> <LF>display<COLN> <LF>float<COLN> right<LF>opacity<COLN> <LF>padding<COLN> 2px 7.5px<LF>visibility<COLN> visible<LF>background-color<COLN> #68789d<LF>border-radius<COLN> 3px<LF>font-size<COLN> 13px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> <LF>caption.position<COLN> absolute<LF>caption.text-align<COLN> center<LF>caption.top<COLN> calc(50% - 0.6em)<LF>caption.width<COLN> calc(100% - 15px)<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.margin<COLN> 0px 0px 0px 10px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN>
+    !scratchpad,forgotfrm:btnreset,LOCK,false
+    !scratchpad,forgotfrm:btnreset,events,click<COLN> forgot.events.resetClick<CR>dblclick<COLN> <CR>gotfocus<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    !scratchpad,forgotfrm:btnreset,extend,{"react":"<LF>"}
+!scratchpad,forgotfrm:btnreset,REFRESH, 
+!scratchpad,listbox1,TARGET,~
+!scratchpad,listbox1,PARENTGROUP,~
+!scratchpad,listbox1,load,listbox|<LB><DQ>selectindex<DQ><COLN>0<COMMA><DQ>listsize<DQ><COLN>5<COMMA><DQ>list<DQ><COLN><LK><DQ>ListItem 1<DQ><COMMA><DQ>ListItem 2<DQ><COMMA><DQ>ListItem 3<DQ><COMMA><DQ>ListItem 4<DQ><COMMA><DQ>ListItem 5<DQ><RK><COMMA><DQ>value<DQ><COLN><LK><DQ>Value1<DQ><COMMA><DQ>Value2<DQ><COMMA><DQ>Value3<DQ><COMMA><DQ>Value4<DQ><COMMA><DQ>Value5<DQ><RK><RB>|328|361|360|40|1342374145|131072
+    !scratchpad,listbox1,group,false
+    !scratchpad,listbox1,groupid,0
+    !scratchpad,listbox1,groupby,9999999999
+    !scratchpad,listbox1,widgetlock,false
+    !scratchpad,listbox1,iswidget,false
+    !scratchpad,listbox1,iscollection,false
+    !scratchpad,listbox1,collectname,
+    !scratchpad,listbox1,widgetname,
+    !scratchpad,listbox1,placeholder,select value..
+    !scratchpad,listbox1,addedby,
+    !scratchpad,listbox1,DOCK,FFFF
+    !scratchpad,listbox1,PICTURE,media/img_missing.png
+    !scratchpad,listbox1,SIZE,360<PIP>40
+    !scratchpad,listbox1,JSON,{}
+    !scratchpad,listbox1,TEXT,ListItem 1
+    !scratchpad,listbox1,TOOLTIP,
+    !scratchpad,listbox1,ENABLED,true
+    !scratchpad,listbox1,VISIBLE,true
+    !scratchpad,listbox1,ZORDER,0
+    !scratchpad,listbox1,FORECOLOR,&h000000
+    !scratchpad,listbox1,BACKCOLOR,&heaeaea
+    !scratchpad,listbox1,FONTNAME,inherit
+    !scratchpad,listbox1,FONTSIZE,14px
+    !scratchpad,listbox1,FONTBOLD,false
+    !scratchpad,listbox1,FONTITALIC,false
+    !scratchpad,listbox1,FONTUNDERLINE,false
+    !scratchpad,listbox1,FONTSTRIKETHRU,false
+    !scratchpad,listbox1,INFO,listbox
+    !scratchpad,listbox1,PAGECOUNT,0
+    !scratchpad,listbox1,DATABIND,
+    !scratchpad,listbox1,BINDMAPPING,
+    !scratchpad,listbox1,drag.x,1
+    !scratchpad,listbox1,drag.y,1
+    !scratchpad,listbox1,xdragrange,-1<SEMI> -1
+    !scratchpad,listbox1,ydragrange,-1<SEMI> -1
+    !scratchpad,listbox1,size.x,1
+    !scratchpad,listbox1,size.y,1
+    !scratchpad,listbox1,negadj,
+    !scratchpad,listbox1,posadj,
+    !scratchpad,listbox1,child,false
+    !scratchpad,listbox1,displaymode,absolute
+    !scratchpad,listbox1,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-listbox<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> <LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>items.item-dir<COLN> horizontal<LF>items.item-style<COLN> color=#000;white-space=nowrap;width=auto;background=white;border=1px solid #999;border-radius=3px;margin=2px 0.5px;padding=2px 10px;text-align=center;vertical-align=center~border<COLN> 0.5px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> <LF>float<COLN> <LF>opacity<COLN> <LF>outline<COLN> none<LF>visibility<COLN> visible<LF>background-color<COLN> #EAEAEA<LF>border-radius<COLN> 2px<LF>box-sizing<COLN> border-box<LF>font-size<COLN> 14px<LF>text-align<COLN> <LF>vertical-align<COLN> middle<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> absolute<LF>div.width<COLN>
+    !scratchpad,listbox1,LOCK,false
+    !scratchpad,listbox1,ITEMS,
+    !scratchpad,listbox1,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>gotfocus<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>scroll<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    !scratchpad,listbox1,extend,{"react":"<LF>"}
+!scratchpad,listbox1,REFRESH, 
+!scratchpad,,SETVIEW,
+!scratchpad,,HIDE,
+!scratchpad,,REFRESH,true

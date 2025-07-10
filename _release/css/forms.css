@@ -1,0 +1,268 @@
+
+a.size_plain span
+{
+    width:22px;
+    height:22px;
+    float:right;
+    background-size: contain;
+	background: url(../media/theme/v4.0/size.png) no-repeat;
+}
+
+a.item_close
+{
+	text-decoration: none;
+	position: absolute;
+	right: 8px;
+	top: 3px;
+}
+a.item_close span
+{
+    width: 13px;
+    height: 13px;
+    float: left;
+	transform: rotate(45deg);
+	border-radius: 10px;
+	border: 1px #bbb solid;
+	overflow: hidden;
+	background: url(../media/grid.png) no-repeat;
+    background-size: contain;
+}
+a.item_close:hover span
+{
+	background: url(../media/grid.png) no-repeat;
+	background-color: rgba(255, 80, 80, .85);
+	background-size: contain;
+	cursor:pointer;
+}
+
+/* Modal Custom-Theme Dialog CSS Values */
+div.custom_t1 div.custom_t2 div.custom_t3
+{
+    font-family:Arial;
+}
+
+div.custom_t1
+{
+	background-size: contain;
+    background: url(../media/theme/custom/top_corners.png) top left no-repeat;
+    padding-left:5px;
+}
+
+div.custom_t1 div.custom_t2
+{
+    background-size: contain;
+	background: url(../media/theme/custom/top_corners.png) top right no-repeat;
+    padding-right:5px;
+}
+
+div.custom_t1 div.custom_t2 div.custom_t3
+{
+    background-size: contain;
+	background: url(../media/theme/custom/top_bar.png);
+    height:24px;
+    font-weight:normal;
+    font-size:10pt;
+    color:#ffffff;
+}
+
+div.custom_t1 div.custom_t2 div.custom_t3  div.custom_t4a
+{
+    padding-top:2px;
+}
+div.custom_t1 div.custom_t2 div.custom_t3  div.custom_t4b
+{
+    padding-top:2px;
+}
+
+div.custom_c1
+{
+    background:#f1f1f1;
+    text-align:left;
+    border-left:1px #3E6BC7 solid;
+    border-right:1px #3E6BC7 solid;
+    font-size:10pt;
+}
+
+div.custom_b1
+{
+    background-size: contain;
+	background: url(../media/theme/custom/top_corners.png) bottom left no-repeat;
+    padding-left:5px;
+    font-size:1pt;
+}
+
+div.custom_b1 div.custom_b2
+{
+    background-size: contain;
+	background: url(../media/theme/custom/top_corners.png) bottom right no-repeat;
+    padding-right:5px;
+}
+
+div.custom_b1 div.custom_b2 div.custom_b3
+{
+    background: #f1f1f1;
+    height:4px;
+    border-bottom:1px #3E6BC7 solid;
+}
+/* ---------------------- */
+
+/* Modal v4.0 Dialog Button CSS Values */
+a.close_graphic
+{
+    text-decoration: none;
+}
+a.docklft_graphic span
+{
+    width:22px;
+    height:22px;
+    float:left;
+    background-size: contain;
+	background: url(../media/theme/v4.0/popup_lblk.png) no-repeat;
+}
+a.docklft_graphic:hover span
+{
+    background-size: contain;
+	background: url(../media/theme/v4.0/popup_lblk_hover.png) no-repeat;
+    cursor:pointer;
+}
+
+a.dockrgt_graphic span
+{
+    width:22px;
+    height:22px;
+    float:left;
+    background-size: contain;
+	background: url(../media/theme/v4.0/popup_rblk.png) no-repeat;
+}
+a.dockrgt_graphic:hover span
+{
+    background-size: contain;
+	background: url(../media/theme/v4.0/popup_rblk_hover.png) no-repeat;
+    cursor:pointer;
+}
+a.docktop_graphic span
+{
+    width:22px;
+    height:22px;
+    float:left;
+    background-size: contain;
+	background: url(../media/theme/v4.0/popup_docktop.png) no-repeat;
+}
+a.docktop_graphic:hover span
+{
+    background-size: contain;
+	background: url(../media/theme/v4.0/popup_docktop_hover.png) no-repeat;
+    cursor:pointer;
+}
+a.dockbot_graphic span
+{
+    width:22px;
+    height:22px;
+    float:left;
+    background-size: contain;
+	background: url(../media/theme/v4.0/popup_dockbot.png) no-repeat;
+}
+a.dockbot_graphic:hover span
+{
+    background-size: contain;
+	background: url(../media/theme/v4.0/popup_dockbot_hover.png) no-repeat;
+    cursor:pointer;
+}
+a.fullscrn_graphic span
+{
+    width:22px;
+    height:22px;
+    float:left;
+    background-size: contain;
+	background: url(../media/theme/v4.0/popup_fullscrn.png) no-repeat;
+}
+a.fullscrn_graphic:hover span
+{
+    background-size: contain;
+	background: url(../media/theme/v4.0/popup_fullscrn_hover.png) no-repeat;
+    cursor:pointer;
+}
+
+a.close_graphic span
+{
+    width:40px;
+    height:22px;
+    float:left;
+    background-size: contain;
+	background: url(../media/theme/v4.0/popup_x.png) no-repeat;
+}
+a.close_graphic:hover span
+{
+    background-size: contain;
+	background: url(../media/theme/v4.0/popup_x_hover.png) no-repeat;
+    cursor:pointer;
+}
+
+a.question_graphic
+{
+    text-decoration: none;
+}
+a.question_graphic span
+{
+    width:22px;
+    height:22px;
+    float:left;
+    background-size: contain;
+	background: url(../media/theme/v4.0/popup_q.png) no-repeat;
+}
+a.question_graphic:hover span
+{
+    background-size: contain;
+	background: url(../media/theme/v4.0/popup_q_hover.png) no-repeat;
+    cursor:pointer;
+}
+
+a.size_graphic span
+{
+    width:22px;
+    height:22px;
+    float:right;
+    background-size: contain;
+	background: url(../media/theme/v4.0/size.png) no-repeat;
+}
+
+a.size_graphic:hover span
+{
+    background-size: contain;
+	background: url(../media/theme/v4.0/size_hover.png) no-repeat;
+    cursor:pointer;
+}
+
+a.max_graphic span
+{
+    width:22px;
+    height:22px;
+    float:right;
+    background-size: contain;
+	background: url(../media/theme/v4.0/popup_max.png) no-repeat;
+}
+
+a.max_graphic:hover span
+{
+    background-size: contain;
+	background: url(../media/theme/v4.0/popup_max_hover.png) no-repeat;
+    cursor:pointer;
+}
+
+a.min_graphic span
+{
+    width:22px;
+    height:22px;
+    float:right;
+    background-size: contain;
+	background: url(../media/theme/v4.0/popup_min.png) no-repeat;
+}
+
+a.min_graphic:hover span
+{
+    background-size: contain;
+	background: url(../media/theme/v4.0/popup_min_hover.png) no-repeat;
+    cursor:pointer;
+}
+/* ---------------------- */
+

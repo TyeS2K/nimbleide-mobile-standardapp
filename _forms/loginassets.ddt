@@ -1,0 +1,2351 @@
+loginassets,,SURFACE,New Surface|50|155|400|600|268435476|65568
+    loginassets,,version,5.0
+    loginassets,,loadlibs,
+    loginassets,,groupid,9999999999
+    loginassets,,groupby,0
+    loginassets,,runpos,0|0
+    loginassets,,DOCK,FFFF
+    loginassets,,PARENT,
+    loginassets,,MARGINS,
+    loginassets,,AUTOSIZE,false
+    loginassets,,JSON,{}
+    loginassets,,TEXT,New Surface
+    loginassets,,TOOLTIP,
+    loginassets,,ENABLED,true
+    loginassets,,VISIBLE,true
+    loginassets,,FORECOLOR,&heeeeee
+    loginassets,,BACKCOLOR,&hffffff
+    loginassets,,ICON,
+    loginassets,,FONTNAME,roboto
+    loginassets,,FONTSIZE,13pt
+    loginassets,,FONTBOLD,false
+    loginassets,,FONTITALIC,false
+    loginassets,,FONTUNDERLINE,false
+    loginassets,,FONTSTRIKETHRU,false
+    loginassets,,MENUBAR,
+    loginassets,,TOOLBAR,
+    loginassets,,STATUSBAR,
+    loginassets,,SAVESTATE,false
+    loginassets,,drag.x,
+    loginassets,,drag.y,
+    loginassets,,xdragrange,
+    loginassets,,ydragrange,
+    loginassets,,size.x,
+    loginassets,,size.y,
+    loginassets,,negadj,
+    loginassets,,posadj,
+    loginassets,,TAG,~_private<COLN> false<LF>bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>clipmenu<COLN> true<LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>flattenonpull<COLN> true<LF>hotkey<COLN> <LF>ignorezorder<COLN> true<LF>output<COLN> normal<LF>prevent<COLN> <LF>record<COLN> <LF>shadow<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-surface<LF>useastheme<COLN> false<LF>watch<COLN> false<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>body.version<COLN> v5.0~color<COLN> #EEEEEE<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>background-color<COLN> #ffffff<LF>font-family<COLN> roboto<LF>font-size<COLN> 13pt<LF>pointer-events<COLN> auto<LF>z-index<COLN> 2<LF>body.background-color<COLN> transparent<LF>body.box-sizing<COLN> border-box<LF>body.color<COLN> #eeeeee<LF>body.overflow-y<COLN> auto<LF>body.text-align<COLN> <LF>body.vertical-align<COLN>
+    loginassets,,events,activate<COLN> <CR>adjustlayout<COLN> <CR>afterpull<COLN> <CR>afterpush<COLN> <CR>beforeunload<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>disabled<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>enabled<COLN> <CR>enterkey<COLN> <CR>fullscreen<COLN> <CR>gotfocus<COLN> <CR>hide<COLN> <CR>keydown<COLN> <CR>keypress<COLN> <CR>keyup<COLN> <CR>load<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>maximize<COLN> <CR>menu<COLN> <CR>minimize<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>move<COLN> <CR>move<COLN> <CR>onpull<COLN> <CR>onpush<COLN> <CR>refresh<COLN> <CR>resize<COLN> <CR>restore<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN> <CR>unload<COLN> <CR>viewchange<COLN> <CR>widgetloaded<COLN> <CR>widgetunloading<COLN>
+    loginassets,,extend,{"react":"<LF>"}
+    loginassets,,GROUPIDS,[0200][0400][0600][0800][0100]
+    loginassets,,WSTYLES,268435476
+    loginassets,,WSTYLESEX,65568
+    loginassets,,WIDTH,400
+    loginassets,,HEIGHT,600
+    loginassets,,EDITPOS,50|155
+loginassets,login,TARGET,~
+loginassets,login,PARENTGROUP,~
+loginassets,login,load,frame||0|0|392|351|1342227719|32
+    loginassets,login,group,true
+    loginassets,login,groupid,0200
+    loginassets,login,groupby,9999999999
+    loginassets,login,widgetlock,false
+    loginassets,login,iswidget,true
+    loginassets,login,iscollection,false
+    loginassets,login,collectname,
+    loginassets,login,widgetname,
+    loginassets,login,placeholder,
+    loginassets,login,addedby,
+    loginassets,login,DOCK,FFFF
+    loginassets,login,PICTURE,media/img_missing.png
+    loginassets,login,SIZE,392<PIP>351
+    loginassets,login,JSON,{}
+    loginassets,login,TEXT,
+    loginassets,login,TOOLTIP,
+    loginassets,login,ENABLED,true
+    loginassets,login,VISIBLE,true
+    loginassets,login,ZORDER,0
+    loginassets,login,FORECOLOR,&h000000
+    loginassets,login,BACKCOLOR,transparent
+    loginassets,login,FONTNAME,inherit
+    loginassets,login,FONTSIZE,14px
+    loginassets,login,FONTBOLD,false
+    loginassets,login,FONTITALIC,false
+    loginassets,login,FONTUNDERLINE,false
+    loginassets,login,FONTSTRIKETHRU,false
+    loginassets,login,INFO,
+    loginassets,login,PAGECOUNT,0
+    loginassets,login,DATABIND,
+    loginassets,login,BINDMAPPING,
+    loginassets,login,drag.x,1
+    loginassets,login,drag.y,1
+    loginassets,login,xdragrange,-1<SEMI> -1
+    loginassets,login,ydragrange,-1<SEMI> -1
+    loginassets,login,size.x,1
+    loginassets,login,size.y,1
+    loginassets,login,negadj,
+    loginassets,login,posadj,
+    loginassets,login,child,false
+    loginassets,login,displaymode,block
+    loginassets,login,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> !!!!<LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>top-margin<COLN> calc(50% - 175px)<LF>~border<COLN> 0px #bbb dotted<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> block<LF>height<COLN> auto<LF>margin<COLN> 0px 0px 0px 0px<LF>opacity<COLN> <LF>padding<COLN> 16px 16px 16px 16px<LF>position<COLN> relative<LF>visibility<COLN> visible<LF>width<COLN> auto<LF>background-color<COLN> transparent<LF>box-sizing<COLN> border-box<LF>font-size<COLN> 14px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle
+    loginassets,login,LOCK,false
+    loginassets,login,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    loginassets,login,extend,{"react":"<LF>"}
+loginassets,login,REFRESH, 
+loginassets,login:logintitle,TARGET,login
+loginassets,login:logintitle,PARENTGROUP,login
+loginassets,login:logintitle,load,label|App Title Here|0|0|420|31|1342377216|32
+    loginassets,login:logintitle,group,false
+    loginassets,login:logintitle,groupid,0
+    loginassets,login:logintitle,groupby,0200
+    loginassets,login:logintitle,widgetlock,false
+    loginassets,login:logintitle,iswidget,true
+    loginassets,login:logintitle,iscollection,false
+    loginassets,login:logintitle,collectname,
+    loginassets,login:logintitle,widgetname,
+    loginassets,login:logintitle,placeholder,
+    loginassets,login:logintitle,addedby,
+    loginassets,login:logintitle,DOCK,FFFF
+    loginassets,login:logintitle,PICTURE,media/img_missing.png
+    loginassets,login:logintitle,SIZE,420<PIP>31
+    loginassets,login:logintitle,JSON,{}
+    loginassets,login:logintitle,TEXT,App Title Here
+    loginassets,login:logintitle,TOOLTIP,
+    loginassets,login:logintitle,ENABLED,true
+    loginassets,login:logintitle,VISIBLE,true
+    loginassets,login:logintitle,ZORDER,0
+    loginassets,login:logintitle,FORECOLOR,&h000000
+    loginassets,login:logintitle,BACKCOLOR,transparent
+    loginassets,login:logintitle,FONTNAME,inherit
+    loginassets,login:logintitle,FONTSIZE,26px
+    loginassets,login:logintitle,FONTBOLD,false
+    loginassets,login:logintitle,FONTITALIC,false
+    loginassets,login:logintitle,FONTUNDERLINE,false
+    loginassets,login:logintitle,FONTSTRIKETHRU,false
+    loginassets,login:logintitle,INFO,
+    loginassets,login:logintitle,PAGECOUNT,0
+    loginassets,login:logintitle,DATABIND,
+    loginassets,login:logintitle,BINDMAPPING,
+    loginassets,login:logintitle,drag.x,1
+    loginassets,login:logintitle,drag.y,1
+    loginassets,login:logintitle,xdragrange,-1<SEMI> -1
+    loginassets,login:logintitle,ydragrange,-1<SEMI> -1
+    loginassets,login:logintitle,size.x,1
+    loginassets,login:logintitle,size.y,1
+    loginassets,login:logintitle,negadj,
+    loginassets,login:logintitle,posadj,
+    loginassets,login:logintitle,child,true
+    loginassets,login:logintitle,displaymode,block
+    loginassets,login:logintitle,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 26px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> <LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.margin<COLN> 0px 0px 20px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    loginassets,login:logintitle,LOCK,false
+    loginassets,login:logintitle,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    loginassets,login:logintitle,extend,{"react":"<[CR]>"}
+loginassets,login:logintitle,REFRESH, 
+loginassets,login:lbwelcome,TARGET,login
+loginassets,login:lbwelcome,PARENTGROUP,login
+loginassets,login:lbwelcome,load,label|Welcome back. Please login to your account.|0|0|148|32|1342377216|32
+    loginassets,login:lbwelcome,group,false
+    loginassets,login:lbwelcome,groupid,0
+    loginassets,login:lbwelcome,groupby,0200
+    loginassets,login:lbwelcome,widgetlock,false
+    loginassets,login:lbwelcome,iswidget,true
+    loginassets,login:lbwelcome,iscollection,false
+    loginassets,login:lbwelcome,collectname,
+    loginassets,login:lbwelcome,widgetname,
+    loginassets,login:lbwelcome,placeholder,
+    loginassets,login:lbwelcome,addedby,
+    loginassets,login:lbwelcome,DOCK,FFFF
+    loginassets,login:lbwelcome,PICTURE,media/img_missing.png
+    loginassets,login:lbwelcome,SIZE,148<PIP>32
+    loginassets,login:lbwelcome,JSON,{}
+    loginassets,login:lbwelcome,TEXT,Welcome back. Please login to your account.
+    loginassets,login:lbwelcome,TOOLTIP,
+    loginassets,login:lbwelcome,ENABLED,true
+    loginassets,login:lbwelcome,VISIBLE,true
+    loginassets,login:lbwelcome,ZORDER,0
+    loginassets,login:lbwelcome,FORECOLOR,&h000000
+    loginassets,login:lbwelcome,BACKCOLOR,transparent
+    loginassets,login:lbwelcome,FONTNAME,inherit
+    loginassets,login:lbwelcome,FONTSIZE,12px
+    loginassets,login:lbwelcome,FONTBOLD,false
+    loginassets,login:lbwelcome,FONTITALIC,false
+    loginassets,login:lbwelcome,FONTUNDERLINE,false
+    loginassets,login:lbwelcome,FONTSTRIKETHRU,false
+    loginassets,login:lbwelcome,INFO,
+    loginassets,login:lbwelcome,PAGECOUNT,0
+    loginassets,login:lbwelcome,DATABIND,
+    loginassets,login:lbwelcome,BINDMAPPING,
+    loginassets,login:lbwelcome,drag.x,1
+    loginassets,login:lbwelcome,drag.y,1
+    loginassets,login:lbwelcome,xdragrange,-1<SEMI> -1
+    loginassets,login:lbwelcome,ydragrange,-1<SEMI> -1
+    loginassets,login:lbwelcome,size.x,1
+    loginassets,login:lbwelcome,size.y,1
+    loginassets,login:lbwelcome,negadj,
+    loginassets,login:lbwelcome,posadj,
+    loginassets,login:lbwelcome,child,true
+    loginassets,login:lbwelcome,displaymode,block
+    loginassets,login:lbwelcome,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 12px<LF>max-width<COLN> 50%<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> <LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.margin<COLN> 0px 0px 25px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    loginassets,login:lbwelcome,LOCK,false
+    loginassets,login:lbwelcome,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    loginassets,login:lbwelcome,extend,{"react":"<[CR]>"}
+loginassets,login:lbwelcome,REFRESH, 
+loginassets,login:lbemail,TARGET,login
+loginassets,login:lbemail,PARENTGROUP,login
+loginassets,login:lbemail,load,label|Login or Email|0|0|302|21|1342377216|32
+    loginassets,login:lbemail,group,false
+    loginassets,login:lbemail,groupid,0
+    loginassets,login:lbemail,groupby,0200
+    loginassets,login:lbemail,widgetlock,false
+    loginassets,login:lbemail,iswidget,true
+    loginassets,login:lbemail,iscollection,false
+    loginassets,login:lbemail,collectname,
+    loginassets,login:lbemail,widgetname,
+    loginassets,login:lbemail,placeholder,
+    loginassets,login:lbemail,addedby,
+    loginassets,login:lbemail,DOCK,FFFF
+    loginassets,login:lbemail,PICTURE,media/img_missing.png
+    loginassets,login:lbemail,SIZE,302<PIP>21
+    loginassets,login:lbemail,JSON,{}
+    loginassets,login:lbemail,TEXT,Login or Email
+    loginassets,login:lbemail,TOOLTIP,
+    loginassets,login:lbemail,ENABLED,true
+    loginassets,login:lbemail,VISIBLE,true
+    loginassets,login:lbemail,ZORDER,0
+    loginassets,login:lbemail,FORECOLOR,&h000000
+    loginassets,login:lbemail,BACKCOLOR,transparent
+    loginassets,login:lbemail,FONTNAME,inherit
+    loginassets,login:lbemail,FONTSIZE,12px
+    loginassets,login:lbemail,FONTBOLD,false
+    loginassets,login:lbemail,FONTITALIC,false
+    loginassets,login:lbemail,FONTUNDERLINE,false
+    loginassets,login:lbemail,FONTSTRIKETHRU,false
+    loginassets,login:lbemail,INFO,
+    loginassets,login:lbemail,PAGECOUNT,0
+    loginassets,login:lbemail,DATABIND,
+    loginassets,login:lbemail,BINDMAPPING,
+    loginassets,login:lbemail,drag.x,1
+    loginassets,login:lbemail,drag.y,1
+    loginassets,login:lbemail,xdragrange,-1<SEMI> -1
+    loginassets,login:lbemail,ydragrange,-1<SEMI> -1
+    loginassets,login:lbemail,size.x,1
+    loginassets,login:lbemail,size.y,1
+    loginassets,login:lbemail,negadj,
+    loginassets,login:lbemail,posadj,
+    loginassets,login:lbemail,child,true
+    loginassets,login:lbemail,displaymode,block
+    loginassets,login:lbemail,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 12px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> <LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    loginassets,login:lbemail,LOCK,false
+    loginassets,login:lbemail,events,
+    loginassets,login:lbemail,extend,{}
+loginassets,login:lbemail,REFRESH, 
+loginassets,login:login,TARGET,login
+loginassets,login:login,PARENTGROUP,login
+loginassets,login:login,load,textbox||0|0|105|31|1342374016|131072
+    loginassets,login:login,group,false
+    loginassets,login:login,groupid,0
+    loginassets,login:login,groupby,0200
+    loginassets,login:login,widgetlock,false
+    loginassets,login:login,iswidget,true
+    loginassets,login:login,iscollection,false
+    loginassets,login:login,collectname,
+    loginassets,login:login,widgetname,
+    loginassets,login:login,placeholder,enter value..
+    loginassets,login:login,addedby,
+    loginassets,login:login,DOCK,FFFF
+    loginassets,login:login,PICTURE,media/img_missing.png
+    loginassets,login:login,SIZE,105<PIP>31
+    loginassets,login:login,JSON,{}
+    loginassets,login:login,TEXT,
+    loginassets,login:login,TOOLTIP,
+    loginassets,login:login,ENABLED,true
+    loginassets,login:login,VISIBLE,true
+    loginassets,login:login,ZORDER,0
+    loginassets,login:login,FORECOLOR,&h000000
+    loginassets,login:login,BACKCOLOR,&hf0f0f0
+    loginassets,login:login,FONTNAME,inherit
+    loginassets,login:login,FONTSIZE,14px
+    loginassets,login:login,FONTBOLD,false
+    loginassets,login:login,FONTITALIC,false
+    loginassets,login:login,FONTUNDERLINE,false
+    loginassets,login:login,FONTSTRIKETHRU,false
+    loginassets,login:login,INFO,
+    loginassets,login:login,PAGECOUNT,0
+    loginassets,login:login,DATABIND,
+    loginassets,login:login,BINDMAPPING,
+    loginassets,login:login,drag.x,1
+    loginassets,login:login,drag.y,1
+    loginassets,login:login,xdragrange,-1<SEMI> -1
+    loginassets,login:login,ydragrange,-1<SEMI> -1
+    loginassets,login:login,size.x,1
+    loginassets,login:login,size.y,1
+    loginassets,login:login,negadj,
+    loginassets,login:login,posadj,
+    loginassets,login:login,child,true
+    loginassets,login:login,displaymode,block
+    loginassets,login:login,TAG,~bind<COLN> true<LF>bindkey<COLN> login(value)<LF>category<COLN> <LF>class<COLN> <LF>datalist<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>placeholder<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-textbox<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>db-key<COLN> false<LF>db-name<COLN> login<LF>db-type<COLN> text<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0.5px solid rgba(104<COMMA>154<COMMA>219<COMMA>0.80)<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>outline<COLN> none<LF>visibility<COLN> visible<LF>background-color<COLN> #f0f0f0<LF>border-radius<COLN> 2px<LF>box-sizing<COLN> border-box<LF>font-size<COLN> 14px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> <LF>div.display<COLN> block<LF>div.margin<COLN> 0px 0px 20px 0px<LF>div.padding<COLN> 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    loginassets,login:login,LOCK,false
+    loginassets,login:login,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>enterkey<COLN> <CR>gotfocus<COLN> <CR>keydown<COLN> login.events.loginKeyDown<CR>keypress<COLN> <CR>keyup<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> login.events.validate<CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    loginassets,login:login,extend,{"react":"<LF>"}
+loginassets,login:login,REFRESH, 
+loginassets,login:lbpassword,TARGET,login
+loginassets,login:lbpassword,PARENTGROUP,login
+loginassets,login:lbpassword,load,label|Password|0|0|105|21|1342377216|32
+    loginassets,login:lbpassword,group,false
+    loginassets,login:lbpassword,groupid,0
+    loginassets,login:lbpassword,groupby,0200
+    loginassets,login:lbpassword,widgetlock,false
+    loginassets,login:lbpassword,iswidget,true
+    loginassets,login:lbpassword,iscollection,false
+    loginassets,login:lbpassword,collectname,
+    loginassets,login:lbpassword,widgetname,
+    loginassets,login:lbpassword,placeholder,
+    loginassets,login:lbpassword,addedby,
+    loginassets,login:lbpassword,DOCK,FFFF
+    loginassets,login:lbpassword,PICTURE,media/img_missing.png
+    loginassets,login:lbpassword,SIZE,105<PIP>21
+    loginassets,login:lbpassword,JSON,{}
+    loginassets,login:lbpassword,TEXT,Password
+    loginassets,login:lbpassword,TOOLTIP,
+    loginassets,login:lbpassword,ENABLED,true
+    loginassets,login:lbpassword,VISIBLE,true
+    loginassets,login:lbpassword,ZORDER,0
+    loginassets,login:lbpassword,FORECOLOR,&h000000
+    loginassets,login:lbpassword,BACKCOLOR,transparent
+    loginassets,login:lbpassword,FONTNAME,inherit
+    loginassets,login:lbpassword,FONTSIZE,12px
+    loginassets,login:lbpassword,FONTBOLD,false
+    loginassets,login:lbpassword,FONTITALIC,false
+    loginassets,login:lbpassword,FONTUNDERLINE,false
+    loginassets,login:lbpassword,FONTSTRIKETHRU,false
+    loginassets,login:lbpassword,INFO,
+    loginassets,login:lbpassword,PAGECOUNT,0
+    loginassets,login:lbpassword,DATABIND,
+    loginassets,login:lbpassword,BINDMAPPING,
+    loginassets,login:lbpassword,drag.x,1
+    loginassets,login:lbpassword,drag.y,1
+    loginassets,login:lbpassword,xdragrange,-1<SEMI> -1
+    loginassets,login:lbpassword,ydragrange,-1<SEMI> -1
+    loginassets,login:lbpassword,size.x,1
+    loginassets,login:lbpassword,size.y,1
+    loginassets,login:lbpassword,negadj,
+    loginassets,login:lbpassword,posadj,
+    loginassets,login:lbpassword,child,true
+    loginassets,login:lbpassword,displaymode,block
+    loginassets,login:lbpassword,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 12px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> <LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    loginassets,login:lbpassword,LOCK,false
+    loginassets,login:lbpassword,events,
+    loginassets,login:lbpassword,extend,{}
+loginassets,login:lbpassword,REFRESH, 
+loginassets,login:password,TARGET,login
+loginassets,login:password,PARENTGROUP,login
+loginassets,login:password,load,textbox||0|0|303|31|1342374016|131072
+    loginassets,login:password,group,false
+    loginassets,login:password,groupid,0
+    loginassets,login:password,groupby,0200
+    loginassets,login:password,widgetlock,false
+    loginassets,login:password,iswidget,true
+    loginassets,login:password,iscollection,false
+    loginassets,login:password,collectname,
+    loginassets,login:password,widgetname,
+    loginassets,login:password,placeholder,enter value..
+    loginassets,login:password,addedby,
+    loginassets,login:password,DOCK,FFFF
+    loginassets,login:password,PICTURE,media/img_missing.png
+    loginassets,login:password,SIZE,303<PIP>31
+    loginassets,login:password,JSON,{}
+    loginassets,login:password,TEXT,
+    loginassets,login:password,TOOLTIP,
+    loginassets,login:password,ENABLED,true
+    loginassets,login:password,VISIBLE,true
+    loginassets,login:password,ZORDER,0
+    loginassets,login:password,FORECOLOR,&h000000
+    loginassets,login:password,BACKCOLOR,&hf0f0f0
+    loginassets,login:password,FONTNAME,inherit
+    loginassets,login:password,FONTSIZE,14px
+    loginassets,login:password,FONTBOLD,false
+    loginassets,login:password,FONTITALIC,false
+    loginassets,login:password,FONTUNDERLINE,false
+    loginassets,login:password,FONTSTRIKETHRU,false
+    loginassets,login:password,INFO,
+    loginassets,login:password,PAGECOUNT,0
+    loginassets,login:password,DATABIND,
+    loginassets,login:password,BINDMAPPING,
+    loginassets,login:password,drag.x,1
+    loginassets,login:password,drag.y,1
+    loginassets,login:password,xdragrange,-1<SEMI> -1
+    loginassets,login:password,ydragrange,-1<SEMI> -1
+    loginassets,login:password,size.x,1
+    loginassets,login:password,size.y,1
+    loginassets,login:password,negadj,
+    loginassets,login:password,posadj,
+    loginassets,login:password,child,true
+    loginassets,login:password,displaymode,block
+    loginassets,login:password,TAG,~bind<COLN> true<LF>bindkey<COLN> pass(value)<LF>category<COLN> <LF>class<COLN> <LF>datalist<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>placeholder<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-textbox<LF>title<COLN> <LF>type<COLN> password<LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>db-key<COLN> false<LF>db-name<COLN> password<LF>db-type<COLN> text<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0.5px solid rgba(104<COMMA>154<COMMA>219<COMMA>0.80)<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>outline<COLN> none<LF>visibility<COLN> visible<LF>background-color<COLN> #f0f0f0<LF>border-radius<COLN> 2px<LF>box-sizing<COLN> border-box<LF>font-size<COLN> 14px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> <LF>div.display<COLN> block<LF>div.margin<COLN> 0px 0px 0px 0px<LF>div.padding<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    loginassets,login:password,LOCK,false
+    loginassets,login:password,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>enterkey<COLN> <CR>gotfocus<COLN> <CR>keydown<COLN> login.events.passKeyDown<CR>keypress<COLN> <CR>keyup<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> login.events.validate<CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    loginassets,login:password,extend,{"react":"<LF>"}
+loginassets,login:password,REFRESH, 
+loginassets,login:lbreset,TARGET,login
+loginassets,login:lbreset,PARENTGROUP,login
+loginassets,login:lbreset,load,label|I have a reset code.|0|0|111|15|1342377216|32
+    loginassets,login:lbreset,group,false
+    loginassets,login:lbreset,groupid,0
+    loginassets,login:lbreset,groupby,0200
+    loginassets,login:lbreset,widgetlock,false
+    loginassets,login:lbreset,iswidget,true
+    loginassets,login:lbreset,iscollection,false
+    loginassets,login:lbreset,collectname,
+    loginassets,login:lbreset,widgetname,
+    loginassets,login:lbreset,placeholder,
+    loginassets,login:lbreset,addedby,
+    loginassets,login:lbreset,DOCK,FFFF
+    loginassets,login:lbreset,PICTURE,media/img_missing.png
+    loginassets,login:lbreset,SIZE,111<PIP>15
+    loginassets,login:lbreset,JSON,{}
+    loginassets,login:lbreset,TEXT,I have a reset code.
+    loginassets,login:lbreset,TOOLTIP,
+    loginassets,login:lbreset,ENABLED,true
+    loginassets,login:lbreset,VISIBLE,true
+    loginassets,login:lbreset,ZORDER,0
+    loginassets,login:lbreset,FORECOLOR,&h224488
+    loginassets,login:lbreset,BACKCOLOR,transparent
+    loginassets,login:lbreset,FONTNAME,inherit
+    loginassets,login:lbreset,FONTSIZE,11px
+    loginassets,login:lbreset,FONTBOLD,false
+    loginassets,login:lbreset,FONTITALIC,false
+    loginassets,login:lbreset,FONTUNDERLINE,false
+    loginassets,login:lbreset,FONTSTRIKETHRU,false
+    loginassets,login:lbreset,INFO,
+    loginassets,login:lbreset,PAGECOUNT,0
+    loginassets,login:lbreset,DATABIND,
+    loginassets,login:lbreset,BINDMAPPING,
+    loginassets,login:lbreset,drag.x,1
+    loginassets,login:lbreset,drag.y,1
+    loginassets,login:lbreset,xdragrange,-1<SEMI> -1
+    loginassets,login:lbreset,ydragrange,-1<SEMI> -1
+    loginassets,login:lbreset,size.x,1
+    loginassets,login:lbreset,size.y,1
+    loginassets,login:lbreset,negadj,
+    loginassets,login:lbreset,posadj,
+    loginassets,login:lbreset,child,true
+    loginassets,login:lbreset,displaymode,inline-block
+    loginassets,login:lbreset,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> !!!!<LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #224488<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 11px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> <LF>caption.display<COLN> table-cell<LF>caption.left<COLN> 0px<LF>caption.position<COLN> relative<LF>caption.text-align<COLN> left<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> inline-block<LF>div.margin<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> 40%
+    loginassets,login:lbreset,LOCK,false
+    loginassets,login:lbreset,events,change<COLN> <CR>click<COLN> login.events.resetClick<CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    loginassets,login:lbreset,extend,{"react":"<LF>"}
+loginassets,login:lbreset,REFRESH, 
+loginassets,login:lbforgot,TARGET,login
+loginassets,login:lbforgot,PARENTGROUP,login
+loginassets,login:lbforgot,load,label|Forgot password?|0|0|97|15|1342377472|32
+    loginassets,login:lbforgot,group,false
+    loginassets,login:lbforgot,groupid,0
+    loginassets,login:lbforgot,groupby,0200
+    loginassets,login:lbforgot,widgetlock,false
+    loginassets,login:lbforgot,iswidget,true
+    loginassets,login:lbforgot,iscollection,false
+    loginassets,login:lbforgot,collectname,
+    loginassets,login:lbforgot,widgetname,
+    loginassets,login:lbforgot,placeholder,
+    loginassets,login:lbforgot,addedby,
+    loginassets,login:lbforgot,DOCK,FFFF
+    loginassets,login:lbforgot,PICTURE,media/img_missing.png
+    loginassets,login:lbforgot,SIZE,97<PIP>15
+    loginassets,login:lbforgot,JSON,{}
+    loginassets,login:lbforgot,TEXT,Forgot password?
+    loginassets,login:lbforgot,TOOLTIP,
+    loginassets,login:lbforgot,ENABLED,true
+    loginassets,login:lbforgot,VISIBLE,true
+    loginassets,login:lbforgot,ZORDER,0
+    loginassets,login:lbforgot,FORECOLOR,&h224488
+    loginassets,login:lbforgot,BACKCOLOR,transparent
+    loginassets,login:lbforgot,FONTNAME,inherit
+    loginassets,login:lbforgot,FONTSIZE,11px
+    loginassets,login:lbforgot,FONTBOLD,false
+    loginassets,login:lbforgot,FONTITALIC,false
+    loginassets,login:lbforgot,FONTUNDERLINE,false
+    loginassets,login:lbforgot,FONTSTRIKETHRU,false
+    loginassets,login:lbforgot,INFO,
+    loginassets,login:lbforgot,PAGECOUNT,0
+    loginassets,login:lbforgot,DATABIND,
+    loginassets,login:lbforgot,BINDMAPPING,
+    loginassets,login:lbforgot,drag.x,1
+    loginassets,login:lbforgot,drag.y,1
+    loginassets,login:lbforgot,xdragrange,-1<SEMI> -1
+    loginassets,login:lbforgot,ydragrange,-1<SEMI> -1
+    loginassets,login:lbforgot,size.x,1
+    loginassets,login:lbforgot,size.y,1
+    loginassets,login:lbforgot,negadj,
+    loginassets,login:lbforgot,posadj,
+    loginassets,login:lbforgot,child,true
+    loginassets,login:lbforgot,displaymode,inline-block
+    loginassets,login:lbforgot,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> !!!!<LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #224488<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 11px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> <LF>caption.display<COLN> table-cell<LF>caption.left<COLN> 0px<LF>caption.position<COLN> relative<LF>caption.text-align<COLN> right<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> inline-block<LF>div.margin<COLN> 0px 0px 0px 20%<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN> 40%
+    loginassets,login:lbforgot,LOCK,false
+    loginassets,login:lbforgot,events,change<COLN> <CR>click<COLN> login.events.forgotClick<CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    loginassets,login:lbforgot,extend,{"react":"<LF>"}
+loginassets,login:lbforgot,REFRESH, 
+loginassets,login:lbregister,TARGET,login
+loginassets,login:lbregister,PARENTGROUP,login
+loginassets,login:lbregister,load,label|Register|0|0|303|15|1342377472|32
+    loginassets,login:lbregister,group,false
+    loginassets,login:lbregister,groupid,0
+    loginassets,login:lbregister,groupby,0200
+    loginassets,login:lbregister,widgetlock,false
+    loginassets,login:lbregister,iswidget,true
+    loginassets,login:lbregister,iscollection,false
+    loginassets,login:lbregister,collectname,
+    loginassets,login:lbregister,widgetname,
+    loginassets,login:lbregister,placeholder,
+    loginassets,login:lbregister,addedby,
+    loginassets,login:lbregister,DOCK,FFFF
+    loginassets,login:lbregister,PICTURE,media/img_missing.png
+    loginassets,login:lbregister,SIZE,303<PIP>15
+    loginassets,login:lbregister,JSON,{}
+    loginassets,login:lbregister,TEXT,Register
+    loginassets,login:lbregister,TOOLTIP,
+    loginassets,login:lbregister,ENABLED,true
+    loginassets,login:lbregister,VISIBLE,true
+    loginassets,login:lbregister,ZORDER,0
+    loginassets,login:lbregister,FORECOLOR,&h224488
+    loginassets,login:lbregister,BACKCOLOR,transparent
+    loginassets,login:lbregister,FONTNAME,inherit
+    loginassets,login:lbregister,FONTSIZE,11px
+    loginassets,login:lbregister,FONTBOLD,false
+    loginassets,login:lbregister,FONTITALIC,false
+    loginassets,login:lbregister,FONTUNDERLINE,false
+    loginassets,login:lbregister,FONTSTRIKETHRU,false
+    loginassets,login:lbregister,INFO,
+    loginassets,login:lbregister,PAGECOUNT,0
+    loginassets,login:lbregister,DATABIND,
+    loginassets,login:lbregister,BINDMAPPING,
+    loginassets,login:lbregister,drag.x,1
+    loginassets,login:lbregister,drag.y,1
+    loginassets,login:lbregister,xdragrange,-1<SEMI> -1
+    loginassets,login:lbregister,ydragrange,-1<SEMI> -1
+    loginassets,login:lbregister,size.x,1
+    loginassets,login:lbregister,size.y,1
+    loginassets,login:lbregister,negadj,
+    loginassets,login:lbregister,posadj,
+    loginassets,login:lbregister,child,true
+    loginassets,login:lbregister,displaymode,block
+    loginassets,login:lbregister,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #224488<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 11px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> <LF>caption.display<COLN> table-cell<LF>caption.left<COLN> 0px<LF>caption.position<COLN> relative<LF>caption.text-align<COLN> right<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.margin<COLN> 0px 0px 20px 60%<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    loginassets,login:lbregister,LOCK,false
+    loginassets,login:lbregister,events,change<COLN> <CR>click<COLN> login.events.registerClick<CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    loginassets,login:lbregister,extend,{"react":"<LF>"}
+loginassets,login:lbregister,REFRESH, 
+loginassets,login:btnlogin,TARGET,login
+loginassets,login:btnlogin,PARENTGROUP,login
+loginassets,login:btnlogin,load,button|Login|0|0|100|35|1342394112|32
+    loginassets,login:btnlogin,group,false
+    loginassets,login:btnlogin,groupid,0
+    loginassets,login:btnlogin,groupby,0200
+    loginassets,login:btnlogin,widgetlock,false
+    loginassets,login:btnlogin,iswidget,true
+    loginassets,login:btnlogin,iscollection,false
+    loginassets,login:btnlogin,collectname,
+    loginassets,login:btnlogin,widgetname,
+    loginassets,login:btnlogin,placeholder,
+    loginassets,login:btnlogin,addedby,
+    loginassets,login:btnlogin,DOCK,FFFF
+    loginassets,login:btnlogin,PICTURE,media/img_missing.png
+    loginassets,login:btnlogin,SIZE,100<PIP>35
+    loginassets,login:btnlogin,JSON,{}
+    loginassets,login:btnlogin,TEXT,Login
+    loginassets,login:btnlogin,TOOLTIP,
+    loginassets,login:btnlogin,ENABLED,false
+    loginassets,login:btnlogin,VISIBLE,true
+    loginassets,login:btnlogin,ZORDER,0
+    loginassets,login:btnlogin,FORECOLOR,&h000000
+    loginassets,login:btnlogin,BACKCOLOR,rgba(104<COMMA>154<COMMA>219<COMMA>0.80)
+    loginassets,login:btnlogin,FONTNAME,inherit
+    loginassets,login:btnlogin,FONTSIZE,13px
+    loginassets,login:btnlogin,FONTBOLD,false
+    loginassets,login:btnlogin,FONTITALIC,false
+    loginassets,login:btnlogin,FONTUNDERLINE,false
+    loginassets,login:btnlogin,FONTSTRIKETHRU,false
+    loginassets,login:btnlogin,INFO,
+    loginassets,login:btnlogin,PAGECOUNT,0
+    loginassets,login:btnlogin,DATABIND,
+    loginassets,login:btnlogin,BINDMAPPING,
+    loginassets,login:btnlogin,drag.x,1
+    loginassets,login:btnlogin,drag.y,1
+    loginassets,login:btnlogin,xdragrange,-1<SEMI> -1
+    loginassets,login:btnlogin,ydragrange,-1<SEMI> -1
+    loginassets,login:btnlogin,size.x,1
+    loginassets,login:btnlogin,size.y,1
+    loginassets,login:btnlogin,negadj,
+    loginassets,login:btnlogin,posadj,
+    loginassets,login:btnlogin,child,true
+    loginassets,login:btnlogin,displaymode,inline-block
+    loginassets,login:btnlogin,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-button<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 1px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>padding<COLN> 2px 7.5px<LF>visibility<COLN> visible<LF>background-color<COLN> rgba(104<COMMA>154<COMMA>219<COMMA>0.80)<LF>border-radius<COLN> 3px<LF>font-size<COLN> 13px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> <LF>caption.position<COLN> absolute<LF>caption.text-align<COLN> center<LF>caption.top<COLN> calc(50% - 0.6em)<LF>caption.width<COLN> calc(100% - 15px)<LF>div.display<COLN> inline-block<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    loginassets,login:btnlogin,LOCK,false
+    loginassets,login:btnlogin,events,click<COLN> login.events.loginClick<CR>dblclick<COLN> <CR>gotfocus<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    loginassets,login:btnlogin,extend,{"react":"<LF>"}
+loginassets,login:btnlogin,REFRESH, 
+loginassets,login:btnsignup,TARGET,login
+loginassets,login:btnsignup,PARENTGROUP,login
+loginassets,login:btnsignup,load,button|Sign Up|0|0|100|35|1342394112|32
+    loginassets,login:btnsignup,group,false
+    loginassets,login:btnsignup,groupid,0
+    loginassets,login:btnsignup,groupby,0200
+    loginassets,login:btnsignup,widgetlock,false
+    loginassets,login:btnsignup,iswidget,true
+    loginassets,login:btnsignup,iscollection,false
+    loginassets,login:btnsignup,collectname,
+    loginassets,login:btnsignup,widgetname,
+    loginassets,login:btnsignup,placeholder,
+    loginassets,login:btnsignup,addedby,
+    loginassets,login:btnsignup,DOCK,FFFF
+    loginassets,login:btnsignup,PICTURE,media/img_missing.png
+    loginassets,login:btnsignup,SIZE,100<PIP>35
+    loginassets,login:btnsignup,JSON,{}
+    loginassets,login:btnsignup,TEXT,Sign Up
+    loginassets,login:btnsignup,TOOLTIP,
+    loginassets,login:btnsignup,ENABLED,true
+    loginassets,login:btnsignup,VISIBLE,true
+    loginassets,login:btnsignup,ZORDER,0
+    loginassets,login:btnsignup,FORECOLOR,&h000000
+    loginassets,login:btnsignup,BACKCOLOR,&hf0f0f0
+    loginassets,login:btnsignup,FONTNAME,inherit
+    loginassets,login:btnsignup,FONTSIZE,13px
+    loginassets,login:btnsignup,FONTBOLD,false
+    loginassets,login:btnsignup,FONTITALIC,false
+    loginassets,login:btnsignup,FONTUNDERLINE,false
+    loginassets,login:btnsignup,FONTSTRIKETHRU,false
+    loginassets,login:btnsignup,INFO,
+    loginassets,login:btnsignup,PAGECOUNT,0
+    loginassets,login:btnsignup,DATABIND,
+    loginassets,login:btnsignup,BINDMAPPING,
+    loginassets,login:btnsignup,drag.x,1
+    loginassets,login:btnsignup,drag.y,1
+    loginassets,login:btnsignup,xdragrange,-1<SEMI> -1
+    loginassets,login:btnsignup,ydragrange,-1<SEMI> -1
+    loginassets,login:btnsignup,size.x,1
+    loginassets,login:btnsignup,size.y,1
+    loginassets,login:btnsignup,negadj,
+    loginassets,login:btnsignup,posadj,
+    loginassets,login:btnsignup,child,true
+    loginassets,login:btnsignup,displaymode,inline-block
+    loginassets,login:btnsignup,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-button<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 1px solid rgba(104<COMMA>154<COMMA>219<COMMA>0.80)<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>padding<COLN> 2px 7.5px<LF>visibility<COLN> visible<LF>background-color<COLN> #f0f0f0<LF>border-radius<COLN> 3px<LF>font-size<COLN> 13px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> <LF>caption.position<COLN> absolute<LF>caption.text-align<COLN> center<LF>caption.top<COLN> calc(50% - 0.6em)<LF>caption.width<COLN> calc(100% - 15px)<LF>div.display<COLN> inline-block<LF>div.margin<COLN> 0px 0px 0px 10px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    loginassets,login:btnsignup,LOCK,false
+    loginassets,login:btnsignup,events,click<COLN> login.events.registerClick<CR>dblclick<COLN> <CR>gotfocus<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    loginassets,login:btnsignup,extend,{"react":"<LF>"}
+loginassets,login:btnsignup,REFRESH, 
+loginassets,register,TARGET,~
+loginassets,register,PARENTGROUP,~
+loginassets,register,load,frame||0|0|359|360|1342227719|32
+    loginassets,register,group,true
+    loginassets,register,groupid,0400
+    loginassets,register,groupby,9999999999
+    loginassets,register,widgetlock,false
+    loginassets,register,iswidget,true
+    loginassets,register,iscollection,false
+    loginassets,register,collectname,
+    loginassets,register,widgetname,
+    loginassets,register,placeholder,
+    loginassets,register,addedby,
+    loginassets,register,DOCK,FFFF
+    loginassets,register,PICTURE,media/img_missing.png
+    loginassets,register,SIZE,359<PIP>360
+    loginassets,register,JSON,{}
+    loginassets,register,TEXT,
+    loginassets,register,TOOLTIP,
+    loginassets,register,ENABLED,true
+    loginassets,register,VISIBLE,true
+    loginassets,register,ZORDER,0
+    loginassets,register,FORECOLOR,&h000000
+    loginassets,register,BACKCOLOR,transparent
+    loginassets,register,FONTNAME,inherit
+    loginassets,register,FONTSIZE,14px
+    loginassets,register,FONTBOLD,false
+    loginassets,register,FONTITALIC,false
+    loginassets,register,FONTUNDERLINE,false
+    loginassets,register,FONTSTRIKETHRU,false
+    loginassets,register,INFO,
+    loginassets,register,PAGECOUNT,0
+    loginassets,register,DATABIND,
+    loginassets,register,BINDMAPPING,
+    loginassets,register,drag.x,1
+    loginassets,register,drag.y,1
+    loginassets,register,xdragrange,-1<SEMI> -1
+    loginassets,register,ydragrange,-1<SEMI> -1
+    loginassets,register,size.x,1
+    loginassets,register,size.y,1
+    loginassets,register,negadj,
+    loginassets,register,posadj,
+    loginassets,register,child,false
+    loginassets,register,displaymode,block
+    loginassets,register,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> !!!!<LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>top-margin<COLN> calc(50% - 175px)<LF>~border<COLN> 0px #bbb dotted<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> block<LF>float<COLN> <LF>height<COLN> <LF>margin<COLN> 0px 0px 0px 0px<LF>opacity<COLN> <LF>padding<COLN> 16px 16px 16px 16px<LF>position<COLN> relative<LF>visibility<COLN> visible<LF>width<COLN> auto<LF>background-color<COLN> transparent<LF>box-sizing<COLN> border-box<LF>font-size<COLN> 14px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle
+    loginassets,register,LOCK,false
+    loginassets,register,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    loginassets,register,extend,{"react":"<LF>"}
+loginassets,register,REFRESH, 
+loginassets,register:lbtitle,TARGET,register
+loginassets,register:lbtitle,PARENTGROUP,register
+loginassets,register:lbtitle,load,label|Create Your Account|0|0|105|21|1342377216|32
+    loginassets,register:lbtitle,group,false
+    loginassets,register:lbtitle,groupid,0
+    loginassets,register:lbtitle,groupby,0400
+    loginassets,register:lbtitle,widgetlock,false
+    loginassets,register:lbtitle,iswidget,true
+    loginassets,register:lbtitle,iscollection,false
+    loginassets,register:lbtitle,collectname,
+    loginassets,register:lbtitle,widgetname,
+    loginassets,register:lbtitle,placeholder,
+    loginassets,register:lbtitle,addedby,
+    loginassets,register:lbtitle,DOCK,FFFF
+    loginassets,register:lbtitle,PICTURE,media/img_missing.png
+    loginassets,register:lbtitle,SIZE,105<PIP>21
+    loginassets,register:lbtitle,JSON,{}
+    loginassets,register:lbtitle,TEXT,Create Your Account
+    loginassets,register:lbtitle,TOOLTIP,
+    loginassets,register:lbtitle,ENABLED,true
+    loginassets,register:lbtitle,VISIBLE,true
+    loginassets,register:lbtitle,ZORDER,0
+    loginassets,register:lbtitle,FORECOLOR,&h000000
+    loginassets,register:lbtitle,BACKCOLOR,transparent
+    loginassets,register:lbtitle,FONTNAME,inherit
+    loginassets,register:lbtitle,FONTSIZE,24px
+    loginassets,register:lbtitle,FONTBOLD,false
+    loginassets,register:lbtitle,FONTITALIC,false
+    loginassets,register:lbtitle,FONTUNDERLINE,false
+    loginassets,register:lbtitle,FONTSTRIKETHRU,false
+    loginassets,register:lbtitle,INFO,
+    loginassets,register:lbtitle,PAGECOUNT,0
+    loginassets,register:lbtitle,DATABIND,
+    loginassets,register:lbtitle,BINDMAPPING,
+    loginassets,register:lbtitle,drag.x,1
+    loginassets,register:lbtitle,drag.y,1
+    loginassets,register:lbtitle,xdragrange,-1<SEMI> -1
+    loginassets,register:lbtitle,ydragrange,-1<SEMI> -1
+    loginassets,register:lbtitle,size.x,1
+    loginassets,register:lbtitle,size.y,1
+    loginassets,register:lbtitle,negadj,
+    loginassets,register:lbtitle,posadj,
+    loginassets,register:lbtitle,child,true
+    loginassets,register:lbtitle,displaymode,block
+    loginassets,register:lbtitle,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 24px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> <LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.margin<COLN> 0px 0px 25px 0px<LF>div.padding<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    loginassets,register:lbtitle,LOCK,false
+    loginassets,register:lbtitle,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    loginassets,register:lbtitle,extend,{"react":"<[CR]>"}
+loginassets,register:lbtitle,REFRESH, 
+loginassets,register:lbusername,TARGET,register
+loginassets,register:lbusername,PARENTGROUP,register
+loginassets,register:lbusername,load,label|Username<COLN>|0|0|105|21|1342377216|32
+    loginassets,register:lbusername,group,false
+    loginassets,register:lbusername,groupid,0
+    loginassets,register:lbusername,groupby,0400
+    loginassets,register:lbusername,widgetlock,false
+    loginassets,register:lbusername,iswidget,true
+    loginassets,register:lbusername,iscollection,false
+    loginassets,register:lbusername,collectname,
+    loginassets,register:lbusername,widgetname,
+    loginassets,register:lbusername,placeholder,
+    loginassets,register:lbusername,addedby,
+    loginassets,register:lbusername,DOCK,FFFF
+    loginassets,register:lbusername,PICTURE,media/img_missing.png
+    loginassets,register:lbusername,SIZE,105<PIP>21
+    loginassets,register:lbusername,JSON,{}
+    loginassets,register:lbusername,TEXT,Username<COLN>
+    loginassets,register:lbusername,TOOLTIP,
+    loginassets,register:lbusername,ENABLED,true
+    loginassets,register:lbusername,VISIBLE,true
+    loginassets,register:lbusername,ZORDER,0
+    loginassets,register:lbusername,FORECOLOR,&h000000
+    loginassets,register:lbusername,BACKCOLOR,transparent
+    loginassets,register:lbusername,FONTNAME,inherit
+    loginassets,register:lbusername,FONTSIZE,12px
+    loginassets,register:lbusername,FONTBOLD,false
+    loginassets,register:lbusername,FONTITALIC,false
+    loginassets,register:lbusername,FONTUNDERLINE,false
+    loginassets,register:lbusername,FONTSTRIKETHRU,false
+    loginassets,register:lbusername,INFO,
+    loginassets,register:lbusername,PAGECOUNT,0
+    loginassets,register:lbusername,DATABIND,
+    loginassets,register:lbusername,BINDMAPPING,
+    loginassets,register:lbusername,drag.x,1
+    loginassets,register:lbusername,drag.y,1
+    loginassets,register:lbusername,xdragrange,-1<SEMI> -1
+    loginassets,register:lbusername,ydragrange,-1<SEMI> -1
+    loginassets,register:lbusername,size.x,1
+    loginassets,register:lbusername,size.y,1
+    loginassets,register:lbusername,negadj,
+    loginassets,register:lbusername,posadj,
+    loginassets,register:lbusername,child,true
+    loginassets,register:lbusername,displaymode,block
+    loginassets,register:lbusername,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 12px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> <LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    loginassets,register:lbusername,LOCK,false
+    loginassets,register:lbusername,events,
+    loginassets,register:lbusername,extend,{}
+loginassets,register:lbusername,REFRESH, 
+loginassets,register:login,TARGET,register
+loginassets,register:login,PARENTGROUP,register
+loginassets,register:login,load,textbox||0|0|105|31|1342374016|131072
+    loginassets,register:login,group,false
+    loginassets,register:login,groupid,0
+    loginassets,register:login,groupby,0400
+    loginassets,register:login,widgetlock,false
+    loginassets,register:login,iswidget,true
+    loginassets,register:login,iscollection,false
+    loginassets,register:login,collectname,
+    loginassets,register:login,widgetname,
+    loginassets,register:login,placeholder,enter value..
+    loginassets,register:login,addedby,
+    loginassets,register:login,DOCK,FFFF
+    loginassets,register:login,PICTURE,media/img_missing.png
+    loginassets,register:login,SIZE,105<PIP>31
+    loginassets,register:login,JSON,{}
+    loginassets,register:login,TEXT,
+    loginassets,register:login,TOOLTIP,
+    loginassets,register:login,ENABLED,true
+    loginassets,register:login,VISIBLE,true
+    loginassets,register:login,ZORDER,0
+    loginassets,register:login,FORECOLOR,&h000000
+    loginassets,register:login,BACKCOLOR,rgba(120<COMMA> 150<COMMA> 180<COMMA> 0.25)
+    loginassets,register:login,FONTNAME,inherit
+    loginassets,register:login,FONTSIZE,inherit
+    loginassets,register:login,FONTBOLD,false
+    loginassets,register:login,FONTITALIC,false
+    loginassets,register:login,FONTUNDERLINE,false
+    loginassets,register:login,FONTSTRIKETHRU,false
+    loginassets,register:login,INFO,
+    loginassets,register:login,PAGECOUNT,0
+    loginassets,register:login,DATABIND,
+    loginassets,register:login,BINDMAPPING,
+    loginassets,register:login,drag.x,1
+    loginassets,register:login,drag.y,1
+    loginassets,register:login,xdragrange,-1<SEMI> -1
+    loginassets,register:login,ydragrange,-1<SEMI> -1
+    loginassets,register:login,size.x,1
+    loginassets,register:login,size.y,1
+    loginassets,register:login,negadj,
+    loginassets,register:login,posadj,
+    loginassets,register:login,child,true
+    loginassets,register:login,displaymode,block
+    loginassets,register:login,TAG,~bind<COLN> true<LF>bindkey<COLN> login(value)<LF>category<COLN> <LF>class<COLN> <LF>datalist<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>placeholder<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-textbox<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>db-key<COLN> false<LF>db-name<COLN> login<LF>db-type<COLN> text<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0.5px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>outline<COLN> none<LF>visibility<COLN> visible<LF>background-color<COLN> rgba(120<COMMA> 150<COMMA> 180<COMMA> 0.25)<LF>border-radius<COLN> 2px<LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> <LF>div.display<COLN> block<LF>div.margin<COLN> 0px 0px 10px 0px<LF>div.padding<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    loginassets,register:login,LOCK,false
+    loginassets,register:login,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>enterkey<COLN> <CR>gotfocus<COLN> <CR>keydown<COLN> register.events.loginKeyDown<CR>keypress<COLN> <CR>keyup<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> register.events.validate<CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    loginassets,register:login,extend,{"react":"<LF>"}
+loginassets,register:login,REFRESH, 
+loginassets,register:lbemail,TARGET,register
+loginassets,register:lbemail,PARENTGROUP,register
+loginassets,register:lbemail,load,label|Email<COLN>|0|0|105|21|1342377216|32
+    loginassets,register:lbemail,group,false
+    loginassets,register:lbemail,groupid,0
+    loginassets,register:lbemail,groupby,0400
+    loginassets,register:lbemail,widgetlock,false
+    loginassets,register:lbemail,iswidget,true
+    loginassets,register:lbemail,iscollection,false
+    loginassets,register:lbemail,collectname,
+    loginassets,register:lbemail,widgetname,
+    loginassets,register:lbemail,placeholder,
+    loginassets,register:lbemail,addedby,
+    loginassets,register:lbemail,DOCK,FFFF
+    loginassets,register:lbemail,PICTURE,media/img_missing.png
+    loginassets,register:lbemail,SIZE,105<PIP>21
+    loginassets,register:lbemail,JSON,{}
+    loginassets,register:lbemail,TEXT,Email<COLN>
+    loginassets,register:lbemail,TOOLTIP,
+    loginassets,register:lbemail,ENABLED,true
+    loginassets,register:lbemail,VISIBLE,true
+    loginassets,register:lbemail,ZORDER,0
+    loginassets,register:lbemail,FORECOLOR,&h000000
+    loginassets,register:lbemail,BACKCOLOR,transparent
+    loginassets,register:lbemail,FONTNAME,inherit
+    loginassets,register:lbemail,FONTSIZE,12px
+    loginassets,register:lbemail,FONTBOLD,false
+    loginassets,register:lbemail,FONTITALIC,false
+    loginassets,register:lbemail,FONTUNDERLINE,false
+    loginassets,register:lbemail,FONTSTRIKETHRU,false
+    loginassets,register:lbemail,INFO,
+    loginassets,register:lbemail,PAGECOUNT,0
+    loginassets,register:lbemail,DATABIND,
+    loginassets,register:lbemail,BINDMAPPING,
+    loginassets,register:lbemail,drag.x,1
+    loginassets,register:lbemail,drag.y,1
+    loginassets,register:lbemail,xdragrange,-1<SEMI> -1
+    loginassets,register:lbemail,ydragrange,-1<SEMI> -1
+    loginassets,register:lbemail,size.x,1
+    loginassets,register:lbemail,size.y,1
+    loginassets,register:lbemail,negadj,
+    loginassets,register:lbemail,posadj,
+    loginassets,register:lbemail,child,true
+    loginassets,register:lbemail,displaymode,block
+    loginassets,register:lbemail,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 12px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> <LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    loginassets,register:lbemail,LOCK,false
+    loginassets,register:lbemail,events,
+    loginassets,register:lbemail,extend,{}
+loginassets,register:lbemail,REFRESH, 
+loginassets,register:email,TARGET,register
+loginassets,register:email,PARENTGROUP,register
+loginassets,register:email,load,textbox||0|0|105|31|1342374016|131072
+    loginassets,register:email,group,false
+    loginassets,register:email,groupid,0
+    loginassets,register:email,groupby,0400
+    loginassets,register:email,widgetlock,false
+    loginassets,register:email,iswidget,true
+    loginassets,register:email,iscollection,false
+    loginassets,register:email,collectname,
+    loginassets,register:email,widgetname,
+    loginassets,register:email,placeholder,enter value..
+    loginassets,register:email,addedby,
+    loginassets,register:email,DOCK,FFFF
+    loginassets,register:email,PICTURE,media/img_missing.png
+    loginassets,register:email,SIZE,105<PIP>31
+    loginassets,register:email,JSON,{}
+    loginassets,register:email,TEXT,
+    loginassets,register:email,TOOLTIP,
+    loginassets,register:email,ENABLED,true
+    loginassets,register:email,VISIBLE,true
+    loginassets,register:email,ZORDER,0
+    loginassets,register:email,FORECOLOR,&h000000
+    loginassets,register:email,BACKCOLOR,rgba(120<COMMA> 150<COMMA> 180<COMMA> 0.25)
+    loginassets,register:email,FONTNAME,inherit
+    loginassets,register:email,FONTSIZE,inherit
+    loginassets,register:email,FONTBOLD,false
+    loginassets,register:email,FONTITALIC,false
+    loginassets,register:email,FONTUNDERLINE,false
+    loginassets,register:email,FONTSTRIKETHRU,false
+    loginassets,register:email,INFO,
+    loginassets,register:email,PAGECOUNT,0
+    loginassets,register:email,DATABIND,
+    loginassets,register:email,BINDMAPPING,
+    loginassets,register:email,drag.x,1
+    loginassets,register:email,drag.y,1
+    loginassets,register:email,xdragrange,-1<SEMI> -1
+    loginassets,register:email,ydragrange,-1<SEMI> -1
+    loginassets,register:email,size.x,1
+    loginassets,register:email,size.y,1
+    loginassets,register:email,negadj,
+    loginassets,register:email,posadj,
+    loginassets,register:email,child,true
+    loginassets,register:email,displaymode,block
+    loginassets,register:email,TAG,~bind<COLN> true<LF>bindkey<COLN> email(value)<LF>category<COLN> <LF>class<COLN> <LF>datalist<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>placeholder<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-textbox<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>db-key<COLN> false<LF>db-name<COLN> email<LF>db-type<COLN> text<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0.5px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>outline<COLN> none<LF>visibility<COLN> visible<LF>background-color<COLN> rgba(120<COMMA> 150<COMMA> 180<COMMA> 0.25)<LF>border-radius<COLN> 2px<LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> <LF>div.display<COLN> block<LF>div.margin<COLN> 0px 0px 10px 0px<LF>div.padding<COLN> 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    loginassets,register:email,LOCK,false
+    loginassets,register:email,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>enterkey<COLN> <CR>gotfocus<COLN> <CR>keydown<COLN> register.events.emailKeyDown<CR>keypress<COLN> <CR>keyup<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> register.events.validate<CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    loginassets,register:email,extend,{"react":"<LF>"}
+loginassets,register:email,REFRESH, 
+loginassets,register:lbpassword,TARGET,register
+loginassets,register:lbpassword,PARENTGROUP,register
+loginassets,register:lbpassword,load,label|Password<COLN>|0|0|311|21|1342377216|32
+    loginassets,register:lbpassword,group,false
+    loginassets,register:lbpassword,groupid,0
+    loginassets,register:lbpassword,groupby,0400
+    loginassets,register:lbpassword,widgetlock,false
+    loginassets,register:lbpassword,iswidget,true
+    loginassets,register:lbpassword,iscollection,false
+    loginassets,register:lbpassword,collectname,
+    loginassets,register:lbpassword,widgetname,
+    loginassets,register:lbpassword,placeholder,
+    loginassets,register:lbpassword,addedby,
+    loginassets,register:lbpassword,DOCK,FFFF
+    loginassets,register:lbpassword,PICTURE,media/img_missing.png
+    loginassets,register:lbpassword,SIZE,311<PIP>21
+    loginassets,register:lbpassword,JSON,{}
+    loginassets,register:lbpassword,TEXT,Password<COLN>
+    loginassets,register:lbpassword,TOOLTIP,
+    loginassets,register:lbpassword,ENABLED,true
+    loginassets,register:lbpassword,VISIBLE,true
+    loginassets,register:lbpassword,ZORDER,0
+    loginassets,register:lbpassword,FORECOLOR,&h000000
+    loginassets,register:lbpassword,BACKCOLOR,transparent
+    loginassets,register:lbpassword,FONTNAME,inherit
+    loginassets,register:lbpassword,FONTSIZE,12px
+    loginassets,register:lbpassword,FONTBOLD,false
+    loginassets,register:lbpassword,FONTITALIC,false
+    loginassets,register:lbpassword,FONTUNDERLINE,false
+    loginassets,register:lbpassword,FONTSTRIKETHRU,false
+    loginassets,register:lbpassword,INFO,
+    loginassets,register:lbpassword,PAGECOUNT,0
+    loginassets,register:lbpassword,DATABIND,
+    loginassets,register:lbpassword,BINDMAPPING,
+    loginassets,register:lbpassword,drag.x,1
+    loginassets,register:lbpassword,drag.y,1
+    loginassets,register:lbpassword,xdragrange,-1<SEMI> -1
+    loginassets,register:lbpassword,ydragrange,-1<SEMI> -1
+    loginassets,register:lbpassword,size.x,1
+    loginassets,register:lbpassword,size.y,1
+    loginassets,register:lbpassword,negadj,
+    loginassets,register:lbpassword,posadj,
+    loginassets,register:lbpassword,child,true
+    loginassets,register:lbpassword,displaymode,block
+    loginassets,register:lbpassword,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 12px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> <LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    loginassets,register:lbpassword,LOCK,false
+    loginassets,register:lbpassword,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    loginassets,register:lbpassword,extend,{"react":"<LF>"}
+loginassets,register:lbpassword,REFRESH, 
+loginassets,register:password,TARGET,register
+loginassets,register:password,PARENTGROUP,register
+loginassets,register:password,load,textbox||0|0|105|31|1342374016|131072
+    loginassets,register:password,group,false
+    loginassets,register:password,groupid,0
+    loginassets,register:password,groupby,0400
+    loginassets,register:password,widgetlock,false
+    loginassets,register:password,iswidget,true
+    loginassets,register:password,iscollection,false
+    loginassets,register:password,collectname,
+    loginassets,register:password,widgetname,
+    loginassets,register:password,placeholder,enter value..
+    loginassets,register:password,addedby,
+    loginassets,register:password,DOCK,FFFF
+    loginassets,register:password,PICTURE,media/img_missing.png
+    loginassets,register:password,SIZE,105<PIP>31
+    loginassets,register:password,JSON,{}
+    loginassets,register:password,TEXT,
+    loginassets,register:password,TOOLTIP,
+    loginassets,register:password,ENABLED,true
+    loginassets,register:password,VISIBLE,true
+    loginassets,register:password,ZORDER,0
+    loginassets,register:password,FORECOLOR,&h000000
+    loginassets,register:password,BACKCOLOR,rgba(120<COMMA> 150<COMMA> 180<COMMA> 0.25)
+    loginassets,register:password,FONTNAME,inherit
+    loginassets,register:password,FONTSIZE,inherit
+    loginassets,register:password,FONTBOLD,false
+    loginassets,register:password,FONTITALIC,false
+    loginassets,register:password,FONTUNDERLINE,false
+    loginassets,register:password,FONTSTRIKETHRU,false
+    loginassets,register:password,INFO,
+    loginassets,register:password,PAGECOUNT,0
+    loginassets,register:password,DATABIND,
+    loginassets,register:password,BINDMAPPING,
+    loginassets,register:password,drag.x,1
+    loginassets,register:password,drag.y,1
+    loginassets,register:password,xdragrange,-1<SEMI> -1
+    loginassets,register:password,ydragrange,-1<SEMI> -1
+    loginassets,register:password,size.x,1
+    loginassets,register:password,size.y,1
+    loginassets,register:password,negadj,
+    loginassets,register:password,posadj,
+    loginassets,register:password,child,true
+    loginassets,register:password,displaymode,block
+    loginassets,register:password,TAG,~bind<COLN> true<LF>bindkey<COLN> password(value)<LF>category<COLN> <LF>class<COLN> <LF>datalist<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>placeholder<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-textbox<LF>title<COLN> <LF>type<COLN> password<LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>db-key<COLN> false<LF>db-name<COLN> password<LF>db-type<COLN> text<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0.5px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>outline<COLN> none<LF>visibility<COLN> visible<LF>background-color<COLN> rgba(120<COMMA> 150<COMMA> 180<COMMA> 0.25)<LF>border-radius<COLN> 2px<LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> <LF>div.display<COLN> block<LF>div.margin<COLN> 0px 0px 10px 0px<LF>div.padding<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    loginassets,register:password,LOCK,false
+    loginassets,register:password,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>enterkey<COLN> <CR>gotfocus<COLN> <CR>keydown<COLN> register.events.passwordKeyDown<CR>keypress<COLN> <CR>keyup<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> register.events.validate<CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    loginassets,register:password,extend,{"react":"<LF>"}
+loginassets,register:password,REFRESH, 
+loginassets,register:lbconfirm,TARGET,register
+loginassets,register:lbconfirm,PARENTGROUP,register
+loginassets,register:lbconfirm,load,label|Confirm password<COLN>|0|0|311|18|1342377216|32
+    loginassets,register:lbconfirm,group,false
+    loginassets,register:lbconfirm,groupid,0
+    loginassets,register:lbconfirm,groupby,0400
+    loginassets,register:lbconfirm,widgetlock,false
+    loginassets,register:lbconfirm,iswidget,true
+    loginassets,register:lbconfirm,iscollection,false
+    loginassets,register:lbconfirm,collectname,
+    loginassets,register:lbconfirm,widgetname,
+    loginassets,register:lbconfirm,placeholder,
+    loginassets,register:lbconfirm,addedby,
+    loginassets,register:lbconfirm,DOCK,FFFF
+    loginassets,register:lbconfirm,PICTURE,media/img_missing.png
+    loginassets,register:lbconfirm,SIZE,311<PIP>18
+    loginassets,register:lbconfirm,JSON,{}
+    loginassets,register:lbconfirm,TEXT,Confirm password<COLN>
+    loginassets,register:lbconfirm,TOOLTIP,
+    loginassets,register:lbconfirm,ENABLED,true
+    loginassets,register:lbconfirm,VISIBLE,true
+    loginassets,register:lbconfirm,ZORDER,0
+    loginassets,register:lbconfirm,FORECOLOR,&h000000
+    loginassets,register:lbconfirm,BACKCOLOR,transparent
+    loginassets,register:lbconfirm,FONTNAME,inherit
+    loginassets,register:lbconfirm,FONTSIZE,12px
+    loginassets,register:lbconfirm,FONTBOLD,false
+    loginassets,register:lbconfirm,FONTITALIC,false
+    loginassets,register:lbconfirm,FONTUNDERLINE,false
+    loginassets,register:lbconfirm,FONTSTRIKETHRU,false
+    loginassets,register:lbconfirm,INFO,
+    loginassets,register:lbconfirm,PAGECOUNT,0
+    loginassets,register:lbconfirm,DATABIND,
+    loginassets,register:lbconfirm,BINDMAPPING,
+    loginassets,register:lbconfirm,drag.x,1
+    loginassets,register:lbconfirm,drag.y,1
+    loginassets,register:lbconfirm,xdragrange,-1<SEMI> -1
+    loginassets,register:lbconfirm,ydragrange,-1<SEMI> -1
+    loginassets,register:lbconfirm,size.x,1
+    loginassets,register:lbconfirm,size.y,1
+    loginassets,register:lbconfirm,negadj,
+    loginassets,register:lbconfirm,posadj,
+    loginassets,register:lbconfirm,child,true
+    loginassets,register:lbconfirm,displaymode,block
+    loginassets,register:lbconfirm,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 12px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> <LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    loginassets,register:lbconfirm,LOCK,false
+    loginassets,register:lbconfirm,events,
+    loginassets,register:lbconfirm,extend,{}
+loginassets,register:lbconfirm,REFRESH, 
+loginassets,register:confirm,TARGET,register
+loginassets,register:confirm,PARENTGROUP,register
+loginassets,register:confirm,load,textbox||0|0|311|31|1342374016|131072
+    loginassets,register:confirm,group,false
+    loginassets,register:confirm,groupid,0
+    loginassets,register:confirm,groupby,0400
+    loginassets,register:confirm,widgetlock,false
+    loginassets,register:confirm,iswidget,true
+    loginassets,register:confirm,iscollection,false
+    loginassets,register:confirm,collectname,
+    loginassets,register:confirm,widgetname,
+    loginassets,register:confirm,placeholder,enter value..
+    loginassets,register:confirm,addedby,
+    loginassets,register:confirm,DOCK,FFFF
+    loginassets,register:confirm,PICTURE,media/img_missing.png
+    loginassets,register:confirm,SIZE,311<PIP>31
+    loginassets,register:confirm,JSON,{}
+    loginassets,register:confirm,TEXT,
+    loginassets,register:confirm,TOOLTIP,
+    loginassets,register:confirm,ENABLED,true
+    loginassets,register:confirm,VISIBLE,true
+    loginassets,register:confirm,ZORDER,0
+    loginassets,register:confirm,FORECOLOR,&h000000
+    loginassets,register:confirm,BACKCOLOR,rgba(120<COMMA> 150<COMMA> 180<COMMA> 0.25)
+    loginassets,register:confirm,FONTNAME,inherit
+    loginassets,register:confirm,FONTSIZE,inherit
+    loginassets,register:confirm,FONTBOLD,false
+    loginassets,register:confirm,FONTITALIC,false
+    loginassets,register:confirm,FONTUNDERLINE,false
+    loginassets,register:confirm,FONTSTRIKETHRU,false
+    loginassets,register:confirm,INFO,
+    loginassets,register:confirm,PAGECOUNT,0
+    loginassets,register:confirm,DATABIND,
+    loginassets,register:confirm,BINDMAPPING,
+    loginassets,register:confirm,drag.x,1
+    loginassets,register:confirm,drag.y,1
+    loginassets,register:confirm,xdragrange,-1<SEMI> -1
+    loginassets,register:confirm,ydragrange,-1<SEMI> -1
+    loginassets,register:confirm,size.x,1
+    loginassets,register:confirm,size.y,1
+    loginassets,register:confirm,negadj,
+    loginassets,register:confirm,posadj,
+    loginassets,register:confirm,child,true
+    loginassets,register:confirm,displaymode,block
+    loginassets,register:confirm,TAG,~bind<COLN> true<LF>bindkey<COLN> confirm(value)<LF>category<COLN> <LF>class<COLN> <LF>datalist<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>placeholder<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-textbox<LF>title<COLN> <LF>type<COLN> password<LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>db-key<COLN> false<LF>db-name<COLN> confirm<LF>db-type<COLN> text<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0.5px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>outline<COLN> none<LF>visibility<COLN> visible<LF>background-color<COLN> rgba(120<COMMA> 150<COMMA> 180<COMMA> 0.25)<LF>border-radius<COLN> 2px<LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> <LF>div.display<COLN> block<LF>div.margin<COLN> 0px 0px 10px 0px<LF>div.padding<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    loginassets,register:confirm,LOCK,false
+    loginassets,register:confirm,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>enterkey<COLN> <CR>gotfocus<COLN> <CR>keydown<COLN> register.events.confirmKeyDown<CR>keypress<COLN> <CR>keyup<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> register.events.validate<CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    loginassets,register:confirm,extend,{"react":"<LF>"}
+loginassets,register:confirm,REFRESH, 
+loginassets,register:btnclose,TARGET,register
+loginassets,register:btnclose,PARENTGROUP,register
+loginassets,register:btnclose,load,button|Cancel|0|0|79|35|1342394112|32
+    loginassets,register:btnclose,group,false
+    loginassets,register:btnclose,groupid,0
+    loginassets,register:btnclose,groupby,0400
+    loginassets,register:btnclose,widgetlock,false
+    loginassets,register:btnclose,iswidget,true
+    loginassets,register:btnclose,iscollection,false
+    loginassets,register:btnclose,collectname,
+    loginassets,register:btnclose,widgetname,
+    loginassets,register:btnclose,placeholder,
+    loginassets,register:btnclose,addedby,
+    loginassets,register:btnclose,DOCK,FFFF
+    loginassets,register:btnclose,PICTURE,media/img_missing.png
+    loginassets,register:btnclose,SIZE,79<PIP>35
+    loginassets,register:btnclose,JSON,{}
+    loginassets,register:btnclose,TEXT,Cancel
+    loginassets,register:btnclose,TOOLTIP,
+    loginassets,register:btnclose,ENABLED,true
+    loginassets,register:btnclose,VISIBLE,true
+    loginassets,register:btnclose,ZORDER,0
+    loginassets,register:btnclose,FORECOLOR,&hffffff
+    loginassets,register:btnclose,BACKCOLOR,&h68789d
+    loginassets,register:btnclose,FONTNAME,inherit
+    loginassets,register:btnclose,FONTSIZE,13px
+    loginassets,register:btnclose,FONTBOLD,false
+    loginassets,register:btnclose,FONTITALIC,false
+    loginassets,register:btnclose,FONTUNDERLINE,false
+    loginassets,register:btnclose,FONTSTRIKETHRU,false
+    loginassets,register:btnclose,INFO,
+    loginassets,register:btnclose,PAGECOUNT,0
+    loginassets,register:btnclose,DATABIND,
+    loginassets,register:btnclose,BINDMAPPING,
+    loginassets,register:btnclose,drag.x,1
+    loginassets,register:btnclose,drag.y,1
+    loginassets,register:btnclose,xdragrange,-1<SEMI> -1
+    loginassets,register:btnclose,ydragrange,-1<SEMI> -1
+    loginassets,register:btnclose,size.x,1
+    loginassets,register:btnclose,size.y,1
+    loginassets,register:btnclose,negadj,
+    loginassets,register:btnclose,posadj,
+    loginassets,register:btnclose,child,true
+    loginassets,register:btnclose,displaymode,inline-block
+    loginassets,register:btnclose,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-button<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 2px solid rgba(250<COMMA>250<COMMA>250<COMMA>0.80)<LF>color<COLN> #ffffff<LF>cursor<COLN> <LF>display<COLN> <LF>float<COLN> right<LF>opacity<COLN> <LF>padding<COLN> 2px 7.5px<LF>visibility<COLN> visible<LF>background-color<COLN> #68789d<LF>border-radius<COLN> 3px<LF>font-size<COLN> 13px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> <LF>caption.position<COLN> absolute<LF>caption.text-align<COLN> center<LF>caption.top<COLN> calc(50% - 0.6em)<LF>caption.width<COLN> calc(100% - 15px)<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.margin<COLN> 0px 0px 0px 10px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN>
+    loginassets,register:btnclose,LOCK,false
+    loginassets,register:btnclose,events,click<COLN> register.events.closeClick<CR>dblclick<COLN> <CR>gotfocus<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    loginassets,register:btnclose,extend,{"react":"<LF>"}
+loginassets,register:btnclose,REFRESH, 
+loginassets,register:btnregister,TARGET,register
+loginassets,register:btnregister,PARENTGROUP,register
+loginassets,register:btnregister,load,button|Register|0|0|115|35|1342394112|32
+    loginassets,register:btnregister,group,false
+    loginassets,register:btnregister,groupid,0
+    loginassets,register:btnregister,groupby,0400
+    loginassets,register:btnregister,widgetlock,false
+    loginassets,register:btnregister,iswidget,true
+    loginassets,register:btnregister,iscollection,false
+    loginassets,register:btnregister,collectname,
+    loginassets,register:btnregister,widgetname,
+    loginassets,register:btnregister,placeholder,
+    loginassets,register:btnregister,addedby,
+    loginassets,register:btnregister,DOCK,FFFF
+    loginassets,register:btnregister,PICTURE,media/img_missing.png
+    loginassets,register:btnregister,SIZE,115<PIP>35
+    loginassets,register:btnregister,JSON,{}
+    loginassets,register:btnregister,TEXT,Register
+    loginassets,register:btnregister,TOOLTIP,
+    loginassets,register:btnregister,ENABLED,false
+    loginassets,register:btnregister,VISIBLE,true
+    loginassets,register:btnregister,ZORDER,0
+    loginassets,register:btnregister,FORECOLOR,&hffffff
+    loginassets,register:btnregister,BACKCOLOR,&h68789d
+    loginassets,register:btnregister,FONTNAME,inherit
+    loginassets,register:btnregister,FONTSIZE,13px
+    loginassets,register:btnregister,FONTBOLD,false
+    loginassets,register:btnregister,FONTITALIC,false
+    loginassets,register:btnregister,FONTUNDERLINE,false
+    loginassets,register:btnregister,FONTSTRIKETHRU,false
+    loginassets,register:btnregister,INFO,
+    loginassets,register:btnregister,PAGECOUNT,0
+    loginassets,register:btnregister,DATABIND,
+    loginassets,register:btnregister,BINDMAPPING,
+    loginassets,register:btnregister,drag.x,1
+    loginassets,register:btnregister,drag.y,1
+    loginassets,register:btnregister,xdragrange,-1<SEMI> -1
+    loginassets,register:btnregister,ydragrange,-1<SEMI> -1
+    loginassets,register:btnregister,size.x,1
+    loginassets,register:btnregister,size.y,1
+    loginassets,register:btnregister,negadj,
+    loginassets,register:btnregister,posadj,
+    loginassets,register:btnregister,child,true
+    loginassets,register:btnregister,displaymode,inline-block
+    loginassets,register:btnregister,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-button<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 2px solid rgba(250<COMMA>250<COMMA>250<COMMA>0.80)<LF>color<COLN> #ffffff<LF>cursor<COLN> <LF>display<COLN> <LF>float<COLN> right<LF>opacity<COLN> <LF>padding<COLN> 2px 7.5px<LF>visibility<COLN> visible<LF>background-color<COLN> #68789d<LF>border-radius<COLN> 3px<LF>font-size<COLN> 13px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> <LF>caption.position<COLN> absolute<LF>caption.text-align<COLN> center<LF>caption.top<COLN> calc(50% - 0.6em)<LF>caption.width<COLN> calc(100% - 15px)<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.margin<COLN> 0px 0px 0px 10px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN>
+    loginassets,register:btnregister,LOCK,false
+    loginassets,register:btnregister,events,click<COLN> register.events.registerClick<CR>dblclick<COLN> <CR>gotfocus<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    loginassets,register:btnregister,extend,{"react":"<LF>"}
+loginassets,register:btnregister,REFRESH, 
+loginassets,reset,TARGET,~
+loginassets,reset,PARENTGROUP,~
+loginassets,reset,load,frame||0|0|333|363|1342177287|32
+    loginassets,reset,group,true
+    loginassets,reset,groupid,0600
+    loginassets,reset,groupby,9999999999
+    loginassets,reset,widgetlock,false
+    loginassets,reset,iswidget,true
+    loginassets,reset,iscollection,false
+    loginassets,reset,collectname,
+    loginassets,reset,widgetname,
+    loginassets,reset,placeholder,
+    loginassets,reset,addedby,
+    loginassets,reset,DOCK,FFFF
+    loginassets,reset,PICTURE,media/img_missing.png
+    loginassets,reset,SIZE,333<PIP>363
+    loginassets,reset,JSON,{}
+    loginassets,reset,TEXT,
+    loginassets,reset,TOOLTIP,
+    loginassets,reset,ENABLED,true
+    loginassets,reset,VISIBLE,true
+    loginassets,reset,ZORDER,0
+    loginassets,reset,FORECOLOR,&h000000
+    loginassets,reset,BACKCOLOR,transparent
+    loginassets,reset,FONTNAME,inherit
+    loginassets,reset,FONTSIZE,14px
+    loginassets,reset,FONTBOLD,false
+    loginassets,reset,FONTITALIC,false
+    loginassets,reset,FONTUNDERLINE,false
+    loginassets,reset,FONTSTRIKETHRU,false
+    loginassets,reset,INFO,
+    loginassets,reset,PAGECOUNT,0
+    loginassets,reset,DATABIND,
+    loginassets,reset,BINDMAPPING,
+    loginassets,reset,drag.x,1
+    loginassets,reset,drag.y,1
+    loginassets,reset,xdragrange,-1<SEMI> -1
+    loginassets,reset,ydragrange,-1<SEMI> -1
+    loginassets,reset,size.x,1
+    loginassets,reset,size.y,1
+    loginassets,reset,negadj,
+    loginassets,reset,posadj,
+    loginassets,reset,child,false
+    loginassets,reset,displaymode,block
+    loginassets,reset,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>top-margin<COLN> calc(50% - 180px)<LF>~border<COLN> 0px #bbb dotted<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> block<LF>height<COLN> <LF>opacity<COLN> <LF>padding<COLN> 18px 18px 18px 18px<LF>position<COLN> relative<LF>visibility<COLN> visible<LF>width<COLN> auto<LF>background-color<COLN> transparent<LF>box-sizing<COLN> border-box<LF>font-size<COLN> 14px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle
+    loginassets,reset,LOCK,false
+    loginassets,reset,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    loginassets,reset,extend,{"react":"<LF>"}
+loginassets,reset,REFRESH, 
+loginassets,reset:lbtitle,TARGET,reset
+loginassets,reset:lbtitle,PARENTGROUP,reset
+loginassets,reset:lbtitle,load,label|Change Password|0|0|105|24|1342377216|32
+    loginassets,reset:lbtitle,group,false
+    loginassets,reset:lbtitle,groupid,0
+    loginassets,reset:lbtitle,groupby,0600
+    loginassets,reset:lbtitle,widgetlock,false
+    loginassets,reset:lbtitle,iswidget,true
+    loginassets,reset:lbtitle,iscollection,false
+    loginassets,reset:lbtitle,collectname,
+    loginassets,reset:lbtitle,widgetname,
+    loginassets,reset:lbtitle,placeholder,
+    loginassets,reset:lbtitle,addedby,
+    loginassets,reset:lbtitle,DOCK,FFFF
+    loginassets,reset:lbtitle,PICTURE,media/img_missing.png
+    loginassets,reset:lbtitle,SIZE,105<PIP>24
+    loginassets,reset:lbtitle,JSON,{}
+    loginassets,reset:lbtitle,TEXT,Change Password
+    loginassets,reset:lbtitle,TOOLTIP,
+    loginassets,reset:lbtitle,ENABLED,true
+    loginassets,reset:lbtitle,VISIBLE,true
+    loginassets,reset:lbtitle,ZORDER,0
+    loginassets,reset:lbtitle,FORECOLOR,&h000000
+    loginassets,reset:lbtitle,BACKCOLOR,transparent
+    loginassets,reset:lbtitle,FONTNAME,inherit
+    loginassets,reset:lbtitle,FONTSIZE,24px
+    loginassets,reset:lbtitle,FONTBOLD,false
+    loginassets,reset:lbtitle,FONTITALIC,false
+    loginassets,reset:lbtitle,FONTUNDERLINE,false
+    loginassets,reset:lbtitle,FONTSTRIKETHRU,false
+    loginassets,reset:lbtitle,INFO,
+    loginassets,reset:lbtitle,PAGECOUNT,0
+    loginassets,reset:lbtitle,DATABIND,
+    loginassets,reset:lbtitle,BINDMAPPING,
+    loginassets,reset:lbtitle,drag.x,1
+    loginassets,reset:lbtitle,drag.y,1
+    loginassets,reset:lbtitle,xdragrange,-1<SEMI> -1
+    loginassets,reset:lbtitle,ydragrange,-1<SEMI> -1
+    loginassets,reset:lbtitle,size.x,1
+    loginassets,reset:lbtitle,size.y,1
+    loginassets,reset:lbtitle,negadj,
+    loginassets,reset:lbtitle,posadj,
+    loginassets,reset:lbtitle,child,true
+    loginassets,reset:lbtitle,displaymode,block
+    loginassets,reset:lbtitle,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 24px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> <LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.margin<COLN> 0px 0px 25px 0px<LF>div.padding<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    loginassets,reset:lbtitle,LOCK,false
+    loginassets,reset:lbtitle,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    loginassets,reset:lbtitle,extend,{"react":"<[CR]>"}
+loginassets,reset:lbtitle,REFRESH, 
+loginassets,reset:lbemail,TARGET,reset
+loginassets,reset:lbemail,PARENTGROUP,reset
+loginassets,reset:lbemail,load,label|Email<COLN>|0|0|105|21|1342377216|32
+    loginassets,reset:lbemail,group,false
+    loginassets,reset:lbemail,groupid,0
+    loginassets,reset:lbemail,groupby,0600
+    loginassets,reset:lbemail,widgetlock,false
+    loginassets,reset:lbemail,iswidget,true
+    loginassets,reset:lbemail,iscollection,false
+    loginassets,reset:lbemail,collectname,
+    loginassets,reset:lbemail,widgetname,
+    loginassets,reset:lbemail,placeholder,
+    loginassets,reset:lbemail,addedby,
+    loginassets,reset:lbemail,DOCK,FFFF
+    loginassets,reset:lbemail,PICTURE,media/img_missing.png
+    loginassets,reset:lbemail,SIZE,105<PIP>21
+    loginassets,reset:lbemail,JSON,{}
+    loginassets,reset:lbemail,TEXT,Email<COLN>
+    loginassets,reset:lbemail,TOOLTIP,
+    loginassets,reset:lbemail,ENABLED,true
+    loginassets,reset:lbemail,VISIBLE,true
+    loginassets,reset:lbemail,ZORDER,0
+    loginassets,reset:lbemail,FORECOLOR,&h000000
+    loginassets,reset:lbemail,BACKCOLOR,transparent
+    loginassets,reset:lbemail,FONTNAME,inherit
+    loginassets,reset:lbemail,FONTSIZE,12px
+    loginassets,reset:lbemail,FONTBOLD,false
+    loginassets,reset:lbemail,FONTITALIC,false
+    loginassets,reset:lbemail,FONTUNDERLINE,false
+    loginassets,reset:lbemail,FONTSTRIKETHRU,false
+    loginassets,reset:lbemail,INFO,
+    loginassets,reset:lbemail,PAGECOUNT,0
+    loginassets,reset:lbemail,DATABIND,
+    loginassets,reset:lbemail,BINDMAPPING,
+    loginassets,reset:lbemail,drag.x,1
+    loginassets,reset:lbemail,drag.y,1
+    loginassets,reset:lbemail,xdragrange,-1<SEMI> -1
+    loginassets,reset:lbemail,ydragrange,-1<SEMI> -1
+    loginassets,reset:lbemail,size.x,1
+    loginassets,reset:lbemail,size.y,1
+    loginassets,reset:lbemail,negadj,
+    loginassets,reset:lbemail,posadj,
+    loginassets,reset:lbemail,child,true
+    loginassets,reset:lbemail,displaymode,block
+    loginassets,reset:lbemail,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 12px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> <LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    loginassets,reset:lbemail,LOCK,false
+    loginassets,reset:lbemail,events,
+    loginassets,reset:lbemail,extend,{}
+loginassets,reset:lbemail,REFRESH, 
+loginassets,reset:email,TARGET,reset
+loginassets,reset:email,PARENTGROUP,reset
+loginassets,reset:email,load,textbox||0|0|311|31|1342374016|131072
+    loginassets,reset:email,group,false
+    loginassets,reset:email,groupid,0
+    loginassets,reset:email,groupby,0600
+    loginassets,reset:email,widgetlock,false
+    loginassets,reset:email,iswidget,true
+    loginassets,reset:email,iscollection,false
+    loginassets,reset:email,collectname,
+    loginassets,reset:email,widgetname,
+    loginassets,reset:email,placeholder,enter value..
+    loginassets,reset:email,addedby,
+    loginassets,reset:email,DOCK,FFFF
+    loginassets,reset:email,PICTURE,media/img_missing.png
+    loginassets,reset:email,SIZE,311<PIP>31
+    loginassets,reset:email,JSON,{}
+    loginassets,reset:email,TEXT,
+    loginassets,reset:email,TOOLTIP,
+    loginassets,reset:email,ENABLED,true
+    loginassets,reset:email,VISIBLE,true
+    loginassets,reset:email,ZORDER,0
+    loginassets,reset:email,FORECOLOR,&h000000
+    loginassets,reset:email,BACKCOLOR,rgba(120<COMMA> 150<COMMA> 180<COMMA> 0.25)
+    loginassets,reset:email,FONTNAME,inherit
+    loginassets,reset:email,FONTSIZE,inherit
+    loginassets,reset:email,FONTBOLD,false
+    loginassets,reset:email,FONTITALIC,false
+    loginassets,reset:email,FONTUNDERLINE,false
+    loginassets,reset:email,FONTSTRIKETHRU,false
+    loginassets,reset:email,INFO,
+    loginassets,reset:email,PAGECOUNT,0
+    loginassets,reset:email,DATABIND,
+    loginassets,reset:email,BINDMAPPING,
+    loginassets,reset:email,drag.x,1
+    loginassets,reset:email,drag.y,1
+    loginassets,reset:email,xdragrange,-1<SEMI> -1
+    loginassets,reset:email,ydragrange,-1<SEMI> -1
+    loginassets,reset:email,size.x,1
+    loginassets,reset:email,size.y,1
+    loginassets,reset:email,negadj,
+    loginassets,reset:email,posadj,
+    loginassets,reset:email,child,true
+    loginassets,reset:email,displaymode,block
+    loginassets,reset:email,TAG,~bind<COLN> true<LF>bindkey<COLN> email(value)<LF>category<COLN> <LF>class<COLN> <LF>datalist<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>placeholder<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-textbox<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>db-key<COLN> false<LF>db-name<COLN> email<LF>db-type<COLN> text<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0.5px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>outline<COLN> none<LF>visibility<COLN> visible<LF>background-color<COLN> rgba(120<COMMA> 150<COMMA> 180<COMMA> 0.25)<LF>border-radius<COLN> 2px<LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> <LF>div.display<COLN> block<LF>div.margin<COLN> 0px 0px 10px 0px<LF>div.padding<COLN> 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    loginassets,reset:email,LOCK,false
+    loginassets,reset:email,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>enterkey<COLN> <CR>gotfocus<COLN> <CR>keydown<COLN> register.events.emailKeyDown<CR>keypress<COLN> <CR>keyup<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> register.events.validate<CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    loginassets,reset:email,extend,{"react":"<LF>"}
+loginassets,reset:email,REFRESH, 
+loginassets,reset:lbpassword,TARGET,reset
+loginassets,reset:lbpassword,PARENTGROUP,reset
+loginassets,reset:lbpassword,load,label|New Password<COLN>|0|0|311|21|1342377216|32
+    loginassets,reset:lbpassword,group,false
+    loginassets,reset:lbpassword,groupid,0
+    loginassets,reset:lbpassword,groupby,0600
+    loginassets,reset:lbpassword,widgetlock,false
+    loginassets,reset:lbpassword,iswidget,true
+    loginassets,reset:lbpassword,iscollection,false
+    loginassets,reset:lbpassword,collectname,
+    loginassets,reset:lbpassword,widgetname,
+    loginassets,reset:lbpassword,placeholder,
+    loginassets,reset:lbpassword,addedby,
+    loginassets,reset:lbpassword,DOCK,FFFF
+    loginassets,reset:lbpassword,PICTURE,media/img_missing.png
+    loginassets,reset:lbpassword,SIZE,311<PIP>21
+    loginassets,reset:lbpassword,JSON,{}
+    loginassets,reset:lbpassword,TEXT,New Password<COLN>
+    loginassets,reset:lbpassword,TOOLTIP,
+    loginassets,reset:lbpassword,ENABLED,true
+    loginassets,reset:lbpassword,VISIBLE,true
+    loginassets,reset:lbpassword,ZORDER,0
+    loginassets,reset:lbpassword,FORECOLOR,&h000000
+    loginassets,reset:lbpassword,BACKCOLOR,transparent
+    loginassets,reset:lbpassword,FONTNAME,inherit
+    loginassets,reset:lbpassword,FONTSIZE,12px
+    loginassets,reset:lbpassword,FONTBOLD,false
+    loginassets,reset:lbpassword,FONTITALIC,false
+    loginassets,reset:lbpassword,FONTUNDERLINE,false
+    loginassets,reset:lbpassword,FONTSTRIKETHRU,false
+    loginassets,reset:lbpassword,INFO,
+    loginassets,reset:lbpassword,PAGECOUNT,0
+    loginassets,reset:lbpassword,DATABIND,
+    loginassets,reset:lbpassword,BINDMAPPING,
+    loginassets,reset:lbpassword,drag.x,1
+    loginassets,reset:lbpassword,drag.y,1
+    loginassets,reset:lbpassword,xdragrange,-1<SEMI> -1
+    loginassets,reset:lbpassword,ydragrange,-1<SEMI> -1
+    loginassets,reset:lbpassword,size.x,1
+    loginassets,reset:lbpassword,size.y,1
+    loginassets,reset:lbpassword,negadj,
+    loginassets,reset:lbpassword,posadj,
+    loginassets,reset:lbpassword,child,true
+    loginassets,reset:lbpassword,displaymode,block
+    loginassets,reset:lbpassword,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 12px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> <LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    loginassets,reset:lbpassword,LOCK,false
+    loginassets,reset:lbpassword,events,
+    loginassets,reset:lbpassword,extend,{}
+loginassets,reset:lbpassword,REFRESH, 
+loginassets,reset:newpw,TARGET,reset
+loginassets,reset:newpw,PARENTGROUP,reset
+loginassets,reset:newpw,load,textbox||0|0|105|31|1342374016|131072
+    loginassets,reset:newpw,group,false
+    loginassets,reset:newpw,groupid,0
+    loginassets,reset:newpw,groupby,0600
+    loginassets,reset:newpw,widgetlock,false
+    loginassets,reset:newpw,iswidget,true
+    loginassets,reset:newpw,iscollection,false
+    loginassets,reset:newpw,collectname,
+    loginassets,reset:newpw,widgetname,
+    loginassets,reset:newpw,placeholder,enter value..
+    loginassets,reset:newpw,addedby,
+    loginassets,reset:newpw,DOCK,FFFF
+    loginassets,reset:newpw,PICTURE,media/img_missing.png
+    loginassets,reset:newpw,SIZE,105<PIP>31
+    loginassets,reset:newpw,JSON,{}
+    loginassets,reset:newpw,TEXT,
+    loginassets,reset:newpw,TOOLTIP,
+    loginassets,reset:newpw,ENABLED,true
+    loginassets,reset:newpw,VISIBLE,true
+    loginassets,reset:newpw,ZORDER,0
+    loginassets,reset:newpw,FORECOLOR,&h000000
+    loginassets,reset:newpw,BACKCOLOR,rgba(120<COMMA> 150<COMMA> 180<COMMA> 0.25)
+    loginassets,reset:newpw,FONTNAME,inherit
+    loginassets,reset:newpw,FONTSIZE,inherit
+    loginassets,reset:newpw,FONTBOLD,false
+    loginassets,reset:newpw,FONTITALIC,false
+    loginassets,reset:newpw,FONTUNDERLINE,false
+    loginassets,reset:newpw,FONTSTRIKETHRU,false
+    loginassets,reset:newpw,INFO,
+    loginassets,reset:newpw,PAGECOUNT,0
+    loginassets,reset:newpw,DATABIND,
+    loginassets,reset:newpw,BINDMAPPING,
+    loginassets,reset:newpw,drag.x,1
+    loginassets,reset:newpw,drag.y,1
+    loginassets,reset:newpw,xdragrange,-1<SEMI> -1
+    loginassets,reset:newpw,ydragrange,-1<SEMI> -1
+    loginassets,reset:newpw,size.x,1
+    loginassets,reset:newpw,size.y,1
+    loginassets,reset:newpw,negadj,
+    loginassets,reset:newpw,posadj,
+    loginassets,reset:newpw,child,true
+    loginassets,reset:newpw,displaymode,block
+    loginassets,reset:newpw,TAG,~bind<COLN> true<LF>bindkey<COLN> newpw(value)<LF>category<COLN> <LF>class<COLN> <LF>datalist<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>placeholder<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-textbox<LF>title<COLN> <LF>type<COLN> password<LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>db-key<COLN> false<LF>db-name<COLN> newpw<LF>db-type<COLN> text<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0.5px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>outline<COLN> none<LF>visibility<COLN> visible<LF>background-color<COLN> rgba(120<COMMA> 150<COMMA> 180<COMMA> 0.25)<LF>border-radius<COLN> 2px<LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> <LF>div.display<COLN> block<LF>div.margin<COLN> 0px 0px 10px 0px<LF>div.padding<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    loginassets,reset:newpw,LOCK,false
+    loginassets,reset:newpw,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>enterkey<COLN> <CR>gotfocus<COLN> <CR>keydown<COLN> reset.events.newPwKeyDown<CR>keypress<COLN> <CR>keyup<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> reset.events.validate<CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    loginassets,reset:newpw,extend,{"react":"<LF>"}
+loginassets,reset:newpw,REFRESH, 
+loginassets,reset:lbconfirm,TARGET,reset
+loginassets,reset:lbconfirm,PARENTGROUP,reset
+loginassets,reset:lbconfirm,load,label|Confirm password<COLN>|0|0|105|21|1342377216|32
+    loginassets,reset:lbconfirm,group,false
+    loginassets,reset:lbconfirm,groupid,0
+    loginassets,reset:lbconfirm,groupby,0600
+    loginassets,reset:lbconfirm,widgetlock,false
+    loginassets,reset:lbconfirm,iswidget,true
+    loginassets,reset:lbconfirm,iscollection,false
+    loginassets,reset:lbconfirm,collectname,
+    loginassets,reset:lbconfirm,widgetname,
+    loginassets,reset:lbconfirm,placeholder,
+    loginassets,reset:lbconfirm,addedby,
+    loginassets,reset:lbconfirm,DOCK,FFFF
+    loginassets,reset:lbconfirm,PICTURE,media/img_missing.png
+    loginassets,reset:lbconfirm,SIZE,105<PIP>21
+    loginassets,reset:lbconfirm,JSON,{}
+    loginassets,reset:lbconfirm,TEXT,Confirm password<COLN>
+    loginassets,reset:lbconfirm,TOOLTIP,
+    loginassets,reset:lbconfirm,ENABLED,true
+    loginassets,reset:lbconfirm,VISIBLE,true
+    loginassets,reset:lbconfirm,ZORDER,0
+    loginassets,reset:lbconfirm,FORECOLOR,&h000000
+    loginassets,reset:lbconfirm,BACKCOLOR,transparent
+    loginassets,reset:lbconfirm,FONTNAME,inherit
+    loginassets,reset:lbconfirm,FONTSIZE,12px
+    loginassets,reset:lbconfirm,FONTBOLD,false
+    loginassets,reset:lbconfirm,FONTITALIC,false
+    loginassets,reset:lbconfirm,FONTUNDERLINE,false
+    loginassets,reset:lbconfirm,FONTSTRIKETHRU,false
+    loginassets,reset:lbconfirm,INFO,
+    loginassets,reset:lbconfirm,PAGECOUNT,0
+    loginassets,reset:lbconfirm,DATABIND,
+    loginassets,reset:lbconfirm,BINDMAPPING,
+    loginassets,reset:lbconfirm,drag.x,1
+    loginassets,reset:lbconfirm,drag.y,1
+    loginassets,reset:lbconfirm,xdragrange,-1<SEMI> -1
+    loginassets,reset:lbconfirm,ydragrange,-1<SEMI> -1
+    loginassets,reset:lbconfirm,size.x,1
+    loginassets,reset:lbconfirm,size.y,1
+    loginassets,reset:lbconfirm,negadj,
+    loginassets,reset:lbconfirm,posadj,
+    loginassets,reset:lbconfirm,child,true
+    loginassets,reset:lbconfirm,displaymode,block
+    loginassets,reset:lbconfirm,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 12px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> <LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    loginassets,reset:lbconfirm,LOCK,false
+    loginassets,reset:lbconfirm,events,
+    loginassets,reset:lbconfirm,extend,{}
+loginassets,reset:lbconfirm,REFRESH, 
+loginassets,reset:confirm,TARGET,reset
+loginassets,reset:confirm,PARENTGROUP,reset
+loginassets,reset:confirm,load,textbox||0|0|105|31|1342374016|131072
+    loginassets,reset:confirm,group,false
+    loginassets,reset:confirm,groupid,0
+    loginassets,reset:confirm,groupby,0600
+    loginassets,reset:confirm,widgetlock,false
+    loginassets,reset:confirm,iswidget,true
+    loginassets,reset:confirm,iscollection,false
+    loginassets,reset:confirm,collectname,
+    loginassets,reset:confirm,widgetname,
+    loginassets,reset:confirm,placeholder,enter value..
+    loginassets,reset:confirm,addedby,
+    loginassets,reset:confirm,DOCK,FFFF
+    loginassets,reset:confirm,PICTURE,media/img_missing.png
+    loginassets,reset:confirm,SIZE,105<PIP>31
+    loginassets,reset:confirm,JSON,{}
+    loginassets,reset:confirm,TEXT,
+    loginassets,reset:confirm,TOOLTIP,
+    loginassets,reset:confirm,ENABLED,true
+    loginassets,reset:confirm,VISIBLE,true
+    loginassets,reset:confirm,ZORDER,0
+    loginassets,reset:confirm,FORECOLOR,&h000000
+    loginassets,reset:confirm,BACKCOLOR,rgba(120<COMMA> 150<COMMA> 180<COMMA> 0.25)
+    loginassets,reset:confirm,FONTNAME,inherit
+    loginassets,reset:confirm,FONTSIZE,inherit
+    loginassets,reset:confirm,FONTBOLD,false
+    loginassets,reset:confirm,FONTITALIC,false
+    loginassets,reset:confirm,FONTUNDERLINE,false
+    loginassets,reset:confirm,FONTSTRIKETHRU,false
+    loginassets,reset:confirm,INFO,
+    loginassets,reset:confirm,PAGECOUNT,0
+    loginassets,reset:confirm,DATABIND,
+    loginassets,reset:confirm,BINDMAPPING,
+    loginassets,reset:confirm,drag.x,1
+    loginassets,reset:confirm,drag.y,1
+    loginassets,reset:confirm,xdragrange,-1<SEMI> -1
+    loginassets,reset:confirm,ydragrange,-1<SEMI> -1
+    loginassets,reset:confirm,size.x,1
+    loginassets,reset:confirm,size.y,1
+    loginassets,reset:confirm,negadj,
+    loginassets,reset:confirm,posadj,
+    loginassets,reset:confirm,child,true
+    loginassets,reset:confirm,displaymode,block
+    loginassets,reset:confirm,TAG,~bind<COLN> true<LF>bindkey<COLN> confirm(value)<LF>category<COLN> <LF>class<COLN> <LF>datalist<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>placeholder<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-textbox<LF>title<COLN> <LF>type<COLN> password<LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>db-key<COLN> false<LF>db-name<COLN> confirm<LF>db-type<COLN> text<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0.5px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>outline<COLN> none<LF>visibility<COLN> visible<LF>background-color<COLN> rgba(120<COMMA> 150<COMMA> 180<COMMA> 0.25)<LF>border-radius<COLN> 2px<LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> <LF>div.display<COLN> block<LF>div.margin<COLN> 0px 0px 10px 0px<LF>div.padding<COLN> 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    loginassets,reset:confirm,LOCK,false
+    loginassets,reset:confirm,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>enterkey<COLN> <CR>gotfocus<COLN> <CR>keydown<COLN> reset.events.confirmKeyDown<CR>keypress<COLN> <CR>keyup<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> reset.events.validate<CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    loginassets,reset:confirm,extend,{"react":"<LF>"}
+loginassets,reset:confirm,REFRESH, 
+loginassets,reset:lbcode,TARGET,reset
+loginassets,reset:lbcode,PARENTGROUP,reset
+loginassets,reset:lbcode,load,label|Authorization Token<COLN>|0|0|105|21|1342377216|32
+    loginassets,reset:lbcode,group,false
+    loginassets,reset:lbcode,groupid,0
+    loginassets,reset:lbcode,groupby,0600
+    loginassets,reset:lbcode,widgetlock,false
+    loginassets,reset:lbcode,iswidget,true
+    loginassets,reset:lbcode,iscollection,false
+    loginassets,reset:lbcode,collectname,
+    loginassets,reset:lbcode,widgetname,
+    loginassets,reset:lbcode,placeholder,
+    loginassets,reset:lbcode,addedby,
+    loginassets,reset:lbcode,DOCK,FFFF
+    loginassets,reset:lbcode,PICTURE,media/img_missing.png
+    loginassets,reset:lbcode,SIZE,105<PIP>21
+    loginassets,reset:lbcode,JSON,{}
+    loginassets,reset:lbcode,TEXT,Authorization Token<COLN>
+    loginassets,reset:lbcode,TOOLTIP,
+    loginassets,reset:lbcode,ENABLED,true
+    loginassets,reset:lbcode,VISIBLE,true
+    loginassets,reset:lbcode,ZORDER,0
+    loginassets,reset:lbcode,FORECOLOR,&h000000
+    loginassets,reset:lbcode,BACKCOLOR,transparent
+    loginassets,reset:lbcode,FONTNAME,inherit
+    loginassets,reset:lbcode,FONTSIZE,12px
+    loginassets,reset:lbcode,FONTBOLD,false
+    loginassets,reset:lbcode,FONTITALIC,false
+    loginassets,reset:lbcode,FONTUNDERLINE,false
+    loginassets,reset:lbcode,FONTSTRIKETHRU,false
+    loginassets,reset:lbcode,INFO,
+    loginassets,reset:lbcode,PAGECOUNT,0
+    loginassets,reset:lbcode,DATABIND,
+    loginassets,reset:lbcode,BINDMAPPING,
+    loginassets,reset:lbcode,drag.x,1
+    loginassets,reset:lbcode,drag.y,1
+    loginassets,reset:lbcode,xdragrange,-1<SEMI> -1
+    loginassets,reset:lbcode,ydragrange,-1<SEMI> -1
+    loginassets,reset:lbcode,size.x,1
+    loginassets,reset:lbcode,size.y,1
+    loginassets,reset:lbcode,negadj,
+    loginassets,reset:lbcode,posadj,
+    loginassets,reset:lbcode,child,true
+    loginassets,reset:lbcode,displaymode,block
+    loginassets,reset:lbcode,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 12px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> <LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    loginassets,reset:lbcode,LOCK,false
+    loginassets,reset:lbcode,events,
+    loginassets,reset:lbcode,extend,{}
+loginassets,reset:lbcode,REFRESH, 
+loginassets,reset:token,TARGET,reset
+loginassets,reset:token,PARENTGROUP,reset
+loginassets,reset:token,load,textbox||0|0|105|31|1342374016|131072
+    loginassets,reset:token,group,false
+    loginassets,reset:token,groupid,0
+    loginassets,reset:token,groupby,0600
+    loginassets,reset:token,widgetlock,false
+    loginassets,reset:token,iswidget,true
+    loginassets,reset:token,iscollection,false
+    loginassets,reset:token,collectname,
+    loginassets,reset:token,widgetname,
+    loginassets,reset:token,placeholder,enter value..
+    loginassets,reset:token,addedby,
+    loginassets,reset:token,DOCK,FFFF
+    loginassets,reset:token,PICTURE,media/img_missing.png
+    loginassets,reset:token,SIZE,105<PIP>31
+    loginassets,reset:token,JSON,{}
+    loginassets,reset:token,TEXT,
+    loginassets,reset:token,TOOLTIP,
+    loginassets,reset:token,ENABLED,true
+    loginassets,reset:token,VISIBLE,true
+    loginassets,reset:token,ZORDER,0
+    loginassets,reset:token,FORECOLOR,&h000000
+    loginassets,reset:token,BACKCOLOR,rgba(120<COMMA> 150<COMMA> 180<COMMA> 0.25)
+    loginassets,reset:token,FONTNAME,inherit
+    loginassets,reset:token,FONTSIZE,inherit
+    loginassets,reset:token,FONTBOLD,false
+    loginassets,reset:token,FONTITALIC,false
+    loginassets,reset:token,FONTUNDERLINE,false
+    loginassets,reset:token,FONTSTRIKETHRU,false
+    loginassets,reset:token,INFO,
+    loginassets,reset:token,PAGECOUNT,0
+    loginassets,reset:token,DATABIND,
+    loginassets,reset:token,BINDMAPPING,
+    loginassets,reset:token,drag.x,1
+    loginassets,reset:token,drag.y,1
+    loginassets,reset:token,xdragrange,-1<SEMI> -1
+    loginassets,reset:token,ydragrange,-1<SEMI> -1
+    loginassets,reset:token,size.x,1
+    loginassets,reset:token,size.y,1
+    loginassets,reset:token,negadj,
+    loginassets,reset:token,posadj,
+    loginassets,reset:token,child,true
+    loginassets,reset:token,displaymode,block
+    loginassets,reset:token,TAG,~bind<COLN> true<LF>bindkey<COLN> token(value)<LF>category<COLN> <LF>class<COLN> <LF>datalist<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>placeholder<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-textbox<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>db-key<COLN> false<LF>db-name<COLN> token<LF>db-type<COLN> text<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0.5px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>outline<COLN> none<LF>visibility<COLN> visible<LF>background-color<COLN> rgba(120<COMMA> 150<COMMA> 180<COMMA> 0.25)<LF>border-radius<COLN> 2px<LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> <LF>div.display<COLN> block<LF>div.margin<COLN> 0px 0px 10px 0px<LF>div.padding<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    loginassets,reset:token,LOCK,false
+    loginassets,reset:token,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>enterkey<COLN> <CR>gotfocus<COLN> <CR>keydown<COLN> reset.events.tokenKeyDown<CR>keypress<COLN> <CR>keyup<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> reset.events.validate<CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    loginassets,reset:token,extend,{"react":"<LF>"}
+loginassets,reset:token,REFRESH, 
+loginassets,reset:btnclose,TARGET,reset
+loginassets,reset:btnclose,PARENTGROUP,reset
+loginassets,reset:btnclose,load,button|Cancel|0|0|79|35|1342394112|32
+    loginassets,reset:btnclose,group,false
+    loginassets,reset:btnclose,groupid,0
+    loginassets,reset:btnclose,groupby,0600
+    loginassets,reset:btnclose,widgetlock,false
+    loginassets,reset:btnclose,iswidget,true
+    loginassets,reset:btnclose,iscollection,false
+    loginassets,reset:btnclose,collectname,
+    loginassets,reset:btnclose,widgetname,
+    loginassets,reset:btnclose,placeholder,
+    loginassets,reset:btnclose,addedby,
+    loginassets,reset:btnclose,DOCK,FFFF
+    loginassets,reset:btnclose,PICTURE,media/img_missing.png
+    loginassets,reset:btnclose,SIZE,79<PIP>35
+    loginassets,reset:btnclose,JSON,{}
+    loginassets,reset:btnclose,TEXT,Cancel
+    loginassets,reset:btnclose,TOOLTIP,
+    loginassets,reset:btnclose,ENABLED,true
+    loginassets,reset:btnclose,VISIBLE,true
+    loginassets,reset:btnclose,ZORDER,0
+    loginassets,reset:btnclose,FORECOLOR,&hffffff
+    loginassets,reset:btnclose,BACKCOLOR,&h68789d
+    loginassets,reset:btnclose,FONTNAME,inherit
+    loginassets,reset:btnclose,FONTSIZE,13px
+    loginassets,reset:btnclose,FONTBOLD,false
+    loginassets,reset:btnclose,FONTITALIC,false
+    loginassets,reset:btnclose,FONTUNDERLINE,false
+    loginassets,reset:btnclose,FONTSTRIKETHRU,false
+    loginassets,reset:btnclose,INFO,
+    loginassets,reset:btnclose,PAGECOUNT,0
+    loginassets,reset:btnclose,DATABIND,
+    loginassets,reset:btnclose,BINDMAPPING,
+    loginassets,reset:btnclose,drag.x,1
+    loginassets,reset:btnclose,drag.y,1
+    loginassets,reset:btnclose,xdragrange,-1<SEMI> -1
+    loginassets,reset:btnclose,ydragrange,-1<SEMI> -1
+    loginassets,reset:btnclose,size.x,1
+    loginassets,reset:btnclose,size.y,1
+    loginassets,reset:btnclose,negadj,
+    loginassets,reset:btnclose,posadj,
+    loginassets,reset:btnclose,child,true
+    loginassets,reset:btnclose,displaymode,inline-block
+    loginassets,reset:btnclose,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-button<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 2px solid rgba(250<COMMA>250<COMMA>250<COMMA>0.80)<LF>color<COLN> #ffffff<LF>cursor<COLN> <LF>display<COLN> <LF>float<COLN> right<LF>opacity<COLN> <LF>padding<COLN> 2px 7.5px<LF>visibility<COLN> visible<LF>background-color<COLN> #68789d<LF>border-radius<COLN> 3px<LF>font-size<COLN> 13px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> <LF>caption.position<COLN> absolute<LF>caption.text-align<COLN> center<LF>caption.top<COLN> calc(50% - 0.6em)<LF>caption.width<COLN> calc(100% - 15px)<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.margin<COLN> 0px 0px 0px 10px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN>
+    loginassets,reset:btnclose,LOCK,false
+    loginassets,reset:btnclose,events,click<COLN> reset.events.closeClick<CR>dblclick<COLN> <CR>gotfocus<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    loginassets,reset:btnclose,extend,{"react":"<LF>"}
+loginassets,reset:btnclose,REFRESH, 
+loginassets,reset:btnupdate,TARGET,reset
+loginassets,reset:btnupdate,PARENTGROUP,reset
+loginassets,reset:btnupdate,load,button|Update Password|0|0|147|35|1342394112|32
+    loginassets,reset:btnupdate,group,false
+    loginassets,reset:btnupdate,groupid,0
+    loginassets,reset:btnupdate,groupby,0600
+    loginassets,reset:btnupdate,widgetlock,false
+    loginassets,reset:btnupdate,iswidget,true
+    loginassets,reset:btnupdate,iscollection,false
+    loginassets,reset:btnupdate,collectname,
+    loginassets,reset:btnupdate,widgetname,
+    loginassets,reset:btnupdate,placeholder,
+    loginassets,reset:btnupdate,addedby,
+    loginassets,reset:btnupdate,DOCK,FFFF
+    loginassets,reset:btnupdate,PICTURE,media/img_missing.png
+    loginassets,reset:btnupdate,SIZE,147<PIP>35
+    loginassets,reset:btnupdate,JSON,{}
+    loginassets,reset:btnupdate,TEXT,Update Password
+    loginassets,reset:btnupdate,TOOLTIP,
+    loginassets,reset:btnupdate,ENABLED,false
+    loginassets,reset:btnupdate,VISIBLE,true
+    loginassets,reset:btnupdate,ZORDER,0
+    loginassets,reset:btnupdate,FORECOLOR,&hffffff
+    loginassets,reset:btnupdate,BACKCOLOR,&h68789d
+    loginassets,reset:btnupdate,FONTNAME,inherit
+    loginassets,reset:btnupdate,FONTSIZE,13px
+    loginassets,reset:btnupdate,FONTBOLD,false
+    loginassets,reset:btnupdate,FONTITALIC,false
+    loginassets,reset:btnupdate,FONTUNDERLINE,false
+    loginassets,reset:btnupdate,FONTSTRIKETHRU,false
+    loginassets,reset:btnupdate,INFO,
+    loginassets,reset:btnupdate,PAGECOUNT,0
+    loginassets,reset:btnupdate,DATABIND,
+    loginassets,reset:btnupdate,BINDMAPPING,
+    loginassets,reset:btnupdate,drag.x,1
+    loginassets,reset:btnupdate,drag.y,1
+    loginassets,reset:btnupdate,xdragrange,-1<SEMI> -1
+    loginassets,reset:btnupdate,ydragrange,-1<SEMI> -1
+    loginassets,reset:btnupdate,size.x,1
+    loginassets,reset:btnupdate,size.y,1
+    loginassets,reset:btnupdate,negadj,
+    loginassets,reset:btnupdate,posadj,
+    loginassets,reset:btnupdate,child,true
+    loginassets,reset:btnupdate,displaymode,inline-block
+    loginassets,reset:btnupdate,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-button<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 2px solid rgba(250<COMMA>250<COMMA>250<COMMA>0.80)<LF>color<COLN> #ffffff<LF>cursor<COLN> <LF>display<COLN> <LF>float<COLN> right<LF>opacity<COLN> <LF>padding<COLN> 2px 7.5px<LF>visibility<COLN> visible<LF>background-color<COLN> #68789d<LF>border-radius<COLN> 3px<LF>font-size<COLN> 13px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> <LF>caption.position<COLN> absolute<LF>caption.text-align<COLN> center<LF>caption.top<COLN> calc(50% - 0.6em)<LF>caption.width<COLN> calc(100% - 15px)<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.margin<COLN> 0px 0px 0px 10px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN>
+    loginassets,reset:btnupdate,LOCK,false
+    loginassets,reset:btnupdate,events,click<COLN> reset.events.resetClick<CR>dblclick<COLN> <CR>gotfocus<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    loginassets,reset:btnupdate,extend,{"react":"<[CR]>"}
+loginassets,reset:btnupdate,REFRESH, 
+loginassets,forgot,TARGET,~
+loginassets,forgot,PARENTGROUP,~
+loginassets,forgot,load,frame||0|0|335|38|1342227719|32
+    loginassets,forgot,group,true
+    loginassets,forgot,groupid,0800
+    loginassets,forgot,groupby,9999999999
+    loginassets,forgot,widgetlock,false
+    loginassets,forgot,iswidget,true
+    loginassets,forgot,iscollection,false
+    loginassets,forgot,collectname,
+    loginassets,forgot,widgetname,
+    loginassets,forgot,placeholder,
+    loginassets,forgot,addedby,
+    loginassets,forgot,DOCK,FFFF
+    loginassets,forgot,PICTURE,media/img_missing.png
+    loginassets,forgot,SIZE,335<PIP>38
+    loginassets,forgot,JSON,{}
+    loginassets,forgot,TEXT,
+    loginassets,forgot,TOOLTIP,
+    loginassets,forgot,ENABLED,true
+    loginassets,forgot,VISIBLE,true
+    loginassets,forgot,ZORDER,0
+    loginassets,forgot,FORECOLOR,&h000000
+    loginassets,forgot,BACKCOLOR,transparent
+    loginassets,forgot,FONTNAME,inherit
+    loginassets,forgot,FONTSIZE,14px
+    loginassets,forgot,FONTBOLD,false
+    loginassets,forgot,FONTITALIC,false
+    loginassets,forgot,FONTUNDERLINE,false
+    loginassets,forgot,FONTSTRIKETHRU,false
+    loginassets,forgot,INFO,
+    loginassets,forgot,PAGECOUNT,0
+    loginassets,forgot,DATABIND,
+    loginassets,forgot,BINDMAPPING,
+    loginassets,forgot,drag.x,1
+    loginassets,forgot,drag.y,1
+    loginassets,forgot,xdragrange,-1<SEMI> -1
+    loginassets,forgot,ydragrange,-1<SEMI> -1
+    loginassets,forgot,size.x,1
+    loginassets,forgot,size.y,1
+    loginassets,forgot,negadj,
+    loginassets,forgot,posadj,
+    loginassets,forgot,child,false
+    loginassets,forgot,displaymode,block
+    loginassets,forgot,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> !!!!<LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>top-margin<COLN> calc(50% - 131px)<LF>~border<COLN> 0px #bbb dotted<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> block<LF>height<COLN> auto<LF>opacity<COLN> <LF>padding<COLN> 18px 18px 18px 18px<LF>position<COLN> relative<LF>visibility<COLN> visible<LF>width<COLN> auto<LF>background-color<COLN> transparent<LF>box-sizing<COLN> border-box<LF>font-size<COLN> 14px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle
+    loginassets,forgot,LOCK,false
+    loginassets,forgot,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    loginassets,forgot,extend,{"react":"<LF>"}
+loginassets,forgot,REFRESH, 
+loginassets,forgot:lbtitle,TARGET,forgot
+loginassets,forgot:lbtitle,PARENTGROUP,forgot
+loginassets,forgot:lbtitle,load,label|Forgot Password?|0|0|105|21|1342377216|32
+    loginassets,forgot:lbtitle,group,false
+    loginassets,forgot:lbtitle,groupid,0
+    loginassets,forgot:lbtitle,groupby,0800
+    loginassets,forgot:lbtitle,widgetlock,false
+    loginassets,forgot:lbtitle,iswidget,true
+    loginassets,forgot:lbtitle,iscollection,false
+    loginassets,forgot:lbtitle,collectname,
+    loginassets,forgot:lbtitle,widgetname,
+    loginassets,forgot:lbtitle,placeholder,
+    loginassets,forgot:lbtitle,addedby,
+    loginassets,forgot:lbtitle,DOCK,FFFF
+    loginassets,forgot:lbtitle,PICTURE,media/img_missing.png
+    loginassets,forgot:lbtitle,SIZE,105<PIP>21
+    loginassets,forgot:lbtitle,JSON,{}
+    loginassets,forgot:lbtitle,TEXT,Forgot Password?
+    loginassets,forgot:lbtitle,TOOLTIP,
+    loginassets,forgot:lbtitle,ENABLED,true
+    loginassets,forgot:lbtitle,VISIBLE,true
+    loginassets,forgot:lbtitle,ZORDER,0
+    loginassets,forgot:lbtitle,FORECOLOR,&h000000
+    loginassets,forgot:lbtitle,BACKCOLOR,transparent
+    loginassets,forgot:lbtitle,FONTNAME,inherit
+    loginassets,forgot:lbtitle,FONTSIZE,24px
+    loginassets,forgot:lbtitle,FONTBOLD,false
+    loginassets,forgot:lbtitle,FONTITALIC,false
+    loginassets,forgot:lbtitle,FONTUNDERLINE,false
+    loginassets,forgot:lbtitle,FONTSTRIKETHRU,false
+    loginassets,forgot:lbtitle,INFO,
+    loginassets,forgot:lbtitle,PAGECOUNT,0
+    loginassets,forgot:lbtitle,DATABIND,
+    loginassets,forgot:lbtitle,BINDMAPPING,
+    loginassets,forgot:lbtitle,drag.x,1
+    loginassets,forgot:lbtitle,drag.y,1
+    loginassets,forgot:lbtitle,xdragrange,-1<SEMI> -1
+    loginassets,forgot:lbtitle,ydragrange,-1<SEMI> -1
+    loginassets,forgot:lbtitle,size.x,1
+    loginassets,forgot:lbtitle,size.y,1
+    loginassets,forgot:lbtitle,negadj,
+    loginassets,forgot:lbtitle,posadj,
+    loginassets,forgot:lbtitle,child,true
+    loginassets,forgot:lbtitle,displaymode,block
+    loginassets,forgot:lbtitle,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 24px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> <LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.margin<COLN> 0px 0px 20px 0px<LF>div.padding<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    loginassets,forgot:lbtitle,LOCK,false
+    loginassets,forgot:lbtitle,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    loginassets,forgot:lbtitle,extend,{"react":"<[CR]>"}
+loginassets,forgot:lbtitle,REFRESH, 
+loginassets,forgot:lbusername,TARGET,forgot
+loginassets,forgot:lbusername,PARENTGROUP,forgot
+loginassets,forgot:lbusername,load,label|Username<COLN>|0|0|105|21|1342377216|32
+    loginassets,forgot:lbusername,group,false
+    loginassets,forgot:lbusername,groupid,0
+    loginassets,forgot:lbusername,groupby,0800
+    loginassets,forgot:lbusername,widgetlock,false
+    loginassets,forgot:lbusername,iswidget,true
+    loginassets,forgot:lbusername,iscollection,false
+    loginassets,forgot:lbusername,collectname,
+    loginassets,forgot:lbusername,widgetname,
+    loginassets,forgot:lbusername,placeholder,
+    loginassets,forgot:lbusername,addedby,
+    loginassets,forgot:lbusername,DOCK,FFFF
+    loginassets,forgot:lbusername,PICTURE,media/img_missing.png
+    loginassets,forgot:lbusername,SIZE,105<PIP>21
+    loginassets,forgot:lbusername,JSON,{}
+    loginassets,forgot:lbusername,TEXT,Username<COLN>
+    loginassets,forgot:lbusername,TOOLTIP,
+    loginassets,forgot:lbusername,ENABLED,true
+    loginassets,forgot:lbusername,VISIBLE,true
+    loginassets,forgot:lbusername,ZORDER,0
+    loginassets,forgot:lbusername,FORECOLOR,&h000000
+    loginassets,forgot:lbusername,BACKCOLOR,transparent
+    loginassets,forgot:lbusername,FONTNAME,inherit
+    loginassets,forgot:lbusername,FONTSIZE,12px
+    loginassets,forgot:lbusername,FONTBOLD,false
+    loginassets,forgot:lbusername,FONTITALIC,false
+    loginassets,forgot:lbusername,FONTUNDERLINE,false
+    loginassets,forgot:lbusername,FONTSTRIKETHRU,false
+    loginassets,forgot:lbusername,INFO,
+    loginassets,forgot:lbusername,PAGECOUNT,0
+    loginassets,forgot:lbusername,DATABIND,
+    loginassets,forgot:lbusername,BINDMAPPING,
+    loginassets,forgot:lbusername,drag.x,1
+    loginassets,forgot:lbusername,drag.y,1
+    loginassets,forgot:lbusername,xdragrange,-1<SEMI> -1
+    loginassets,forgot:lbusername,ydragrange,-1<SEMI> -1
+    loginassets,forgot:lbusername,size.x,1
+    loginassets,forgot:lbusername,size.y,1
+    loginassets,forgot:lbusername,negadj,
+    loginassets,forgot:lbusername,posadj,
+    loginassets,forgot:lbusername,child,true
+    loginassets,forgot:lbusername,displaymode,block
+    loginassets,forgot:lbusername,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 12px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> <LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    loginassets,forgot:lbusername,LOCK,false
+    loginassets,forgot:lbusername,events,
+    loginassets,forgot:lbusername,extend,{}
+loginassets,forgot:lbusername,REFRESH, 
+loginassets,forgot:login,TARGET,forgot
+loginassets,forgot:login,PARENTGROUP,forgot
+loginassets,forgot:login,load,textbox||0|0|105|31|1342374016|131072
+    loginassets,forgot:login,group,false
+    loginassets,forgot:login,groupid,0
+    loginassets,forgot:login,groupby,0800
+    loginassets,forgot:login,widgetlock,false
+    loginassets,forgot:login,iswidget,true
+    loginassets,forgot:login,iscollection,false
+    loginassets,forgot:login,collectname,
+    loginassets,forgot:login,widgetname,
+    loginassets,forgot:login,placeholder,enter value..
+    loginassets,forgot:login,addedby,
+    loginassets,forgot:login,DOCK,FFFF
+    loginassets,forgot:login,PICTURE,media/img_missing.png
+    loginassets,forgot:login,SIZE,105<PIP>31
+    loginassets,forgot:login,JSON,{}
+    loginassets,forgot:login,TEXT,
+    loginassets,forgot:login,TOOLTIP,
+    loginassets,forgot:login,ENABLED,true
+    loginassets,forgot:login,VISIBLE,true
+    loginassets,forgot:login,ZORDER,0
+    loginassets,forgot:login,FORECOLOR,&h000000
+    loginassets,forgot:login,BACKCOLOR,rgba(120<COMMA> 150<COMMA> 180<COMMA> 0.25)
+    loginassets,forgot:login,FONTNAME,inherit
+    loginassets,forgot:login,FONTSIZE,inherit
+    loginassets,forgot:login,FONTBOLD,false
+    loginassets,forgot:login,FONTITALIC,false
+    loginassets,forgot:login,FONTUNDERLINE,false
+    loginassets,forgot:login,FONTSTRIKETHRU,false
+    loginassets,forgot:login,INFO,
+    loginassets,forgot:login,PAGECOUNT,0
+    loginassets,forgot:login,DATABIND,
+    loginassets,forgot:login,BINDMAPPING,
+    loginassets,forgot:login,drag.x,1
+    loginassets,forgot:login,drag.y,1
+    loginassets,forgot:login,xdragrange,-1<SEMI> -1
+    loginassets,forgot:login,ydragrange,-1<SEMI> -1
+    loginassets,forgot:login,size.x,1
+    loginassets,forgot:login,size.y,1
+    loginassets,forgot:login,negadj,
+    loginassets,forgot:login,posadj,
+    loginassets,forgot:login,child,true
+    loginassets,forgot:login,displaymode,block
+    loginassets,forgot:login,TAG,~bind<COLN> true<LF>bindkey<COLN> login(value)<LF>category<COLN> <LF>class<COLN> <LF>datalist<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>hotkey<COLN> <LF>placeholder<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-textbox<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>db-key<COLN> false<LF>db-name<COLN> login<LF>db-type<COLN> text<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0.5px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>outline<COLN> none<LF>visibility<COLN> visible<LF>background-color<COLN> rgba(120<COMMA> 150<COMMA> 180<COMMA> 0.25)<LF>border-radius<COLN> 2px<LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> <LF>div.display<COLN> block<LF>div.padding<COLN> 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    loginassets,forgot:login,LOCK,false
+    loginassets,forgot:login,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>enterkey<COLN> <CR>gotfocus<COLN> <CR>keydown<COLN> forgot.events.loginKeyDown<CR>keypress<COLN> <CR>keyup<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> forgot.events.loginBlur<CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    loginassets,forgot:login,extend,{"react":"<LF>"}
+loginassets,forgot:login,REFRESH, 
+loginassets,forgot:label,TARGET,forgot
+loginassets,forgot:label,PARENTGROUP,forgot
+loginassets,forgot:label,load,label|- or -|0|0|105|21|1342377728|32
+    loginassets,forgot:label,group,false
+    loginassets,forgot:label,groupid,0
+    loginassets,forgot:label,groupby,0800
+    loginassets,forgot:label,widgetlock,false
+    loginassets,forgot:label,iswidget,true
+    loginassets,forgot:label,iscollection,false
+    loginassets,forgot:label,collectname,
+    loginassets,forgot:label,widgetname,
+    loginassets,forgot:label,placeholder,
+    loginassets,forgot:label,addedby,
+    loginassets,forgot:label,DOCK,FFFF
+    loginassets,forgot:label,PICTURE,media/img_missing.png
+    loginassets,forgot:label,SIZE,105<PIP>21
+    loginassets,forgot:label,JSON,{}
+    loginassets,forgot:label,TEXT,- or -
+    loginassets,forgot:label,TOOLTIP,
+    loginassets,forgot:label,ENABLED,true
+    loginassets,forgot:label,VISIBLE,true
+    loginassets,forgot:label,ZORDER,0
+    loginassets,forgot:label,FORECOLOR,&h000000
+    loginassets,forgot:label,BACKCOLOR,transparent
+    loginassets,forgot:label,FONTNAME,inherit
+    loginassets,forgot:label,FONTSIZE,inherit
+    loginassets,forgot:label,FONTBOLD,false
+    loginassets,forgot:label,FONTITALIC,false
+    loginassets,forgot:label,FONTUNDERLINE,false
+    loginassets,forgot:label,FONTSTRIKETHRU,false
+    loginassets,forgot:label,INFO,
+    loginassets,forgot:label,PAGECOUNT,0
+    loginassets,forgot:label,DATABIND,
+    loginassets,forgot:label,BINDMAPPING,
+    loginassets,forgot:label,drag.x,1
+    loginassets,forgot:label,drag.y,1
+    loginassets,forgot:label,xdragrange,-1<SEMI> -1
+    loginassets,forgot:label,ydragrange,-1<SEMI> -1
+    loginassets,forgot:label,size.x,1
+    loginassets,forgot:label,size.y,1
+    loginassets,forgot:label,negadj,
+    loginassets,forgot:label,posadj,
+    loginassets,forgot:label,child,true
+    loginassets,forgot:label,displaymode,block
+    loginassets,forgot:label,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> <LF>caption.display<COLN> table-cell<LF>caption.left<COLN> 0px<LF>caption.position<COLN> relative<LF>caption.text-align<COLN> center<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.margin<COLN> 10px 0px 5px 0px<LF>div.padding<COLN> 0px 0px 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    loginassets,forgot:label,LOCK,false
+    loginassets,forgot:label,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    loginassets,forgot:label,extend,{"react":"<[CR]>"}
+loginassets,forgot:label,REFRESH, 
+loginassets,forgot:lbemail,TARGET,forgot
+loginassets,forgot:lbemail,PARENTGROUP,forgot
+loginassets,forgot:lbemail,load,label|Email<COLN>|0|0|105|21|1342377216|32
+    loginassets,forgot:lbemail,group,false
+    loginassets,forgot:lbemail,groupid,0
+    loginassets,forgot:lbemail,groupby,0800
+    loginassets,forgot:lbemail,widgetlock,false
+    loginassets,forgot:lbemail,iswidget,true
+    loginassets,forgot:lbemail,iscollection,false
+    loginassets,forgot:lbemail,collectname,
+    loginassets,forgot:lbemail,widgetname,
+    loginassets,forgot:lbemail,placeholder,
+    loginassets,forgot:lbemail,addedby,
+    loginassets,forgot:lbemail,DOCK,FFFF
+    loginassets,forgot:lbemail,PICTURE,media/img_missing.png
+    loginassets,forgot:lbemail,SIZE,105<PIP>21
+    loginassets,forgot:lbemail,JSON,{}
+    loginassets,forgot:lbemail,TEXT,Email<COLN>
+    loginassets,forgot:lbemail,TOOLTIP,
+    loginassets,forgot:lbemail,ENABLED,true
+    loginassets,forgot:lbemail,VISIBLE,true
+    loginassets,forgot:lbemail,ZORDER,0
+    loginassets,forgot:lbemail,FORECOLOR,&h000000
+    loginassets,forgot:lbemail,BACKCOLOR,transparent
+    loginassets,forgot:lbemail,FONTNAME,inherit
+    loginassets,forgot:lbemail,FONTSIZE,12px
+    loginassets,forgot:lbemail,FONTBOLD,false
+    loginassets,forgot:lbemail,FONTITALIC,false
+    loginassets,forgot:lbemail,FONTUNDERLINE,false
+    loginassets,forgot:lbemail,FONTSTRIKETHRU,false
+    loginassets,forgot:lbemail,INFO,
+    loginassets,forgot:lbemail,PAGECOUNT,0
+    loginassets,forgot:lbemail,DATABIND,
+    loginassets,forgot:lbemail,BINDMAPPING,
+    loginassets,forgot:lbemail,drag.x,1
+    loginassets,forgot:lbemail,drag.y,1
+    loginassets,forgot:lbemail,xdragrange,-1<SEMI> -1
+    loginassets,forgot:lbemail,ydragrange,-1<SEMI> -1
+    loginassets,forgot:lbemail,size.x,1
+    loginassets,forgot:lbemail,size.y,1
+    loginassets,forgot:lbemail,negadj,
+    loginassets,forgot:lbemail,posadj,
+    loginassets,forgot:lbemail,child,true
+    loginassets,forgot:lbemail,displaymode,block
+    loginassets,forgot:lbemail,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> TRANSPARENT<LF>font-size<COLN> 12px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> <LF>caption.display<COLN> table-cell<LF>caption.position<COLN> relative<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    loginassets,forgot:lbemail,LOCK,false
+    loginassets,forgot:lbemail,events,
+    loginassets,forgot:lbemail,extend,{}
+loginassets,forgot:lbemail,REFRESH, 
+loginassets,forgot:email,TARGET,forgot
+loginassets,forgot:email,PARENTGROUP,forgot
+loginassets,forgot:email,load,textbox||0|0|311|31|1342374016|131072
+    loginassets,forgot:email,group,false
+    loginassets,forgot:email,groupid,0
+    loginassets,forgot:email,groupby,0800
+    loginassets,forgot:email,widgetlock,false
+    loginassets,forgot:email,iswidget,true
+    loginassets,forgot:email,iscollection,false
+    loginassets,forgot:email,collectname,
+    loginassets,forgot:email,widgetname,
+    loginassets,forgot:email,placeholder,enter value..
+    loginassets,forgot:email,addedby,
+    loginassets,forgot:email,DOCK,FFFF
+    loginassets,forgot:email,PICTURE,media/img_missing.png
+    loginassets,forgot:email,SIZE,311<PIP>31
+    loginassets,forgot:email,JSON,{}
+    loginassets,forgot:email,TEXT,
+    loginassets,forgot:email,TOOLTIP,
+    loginassets,forgot:email,ENABLED,true
+    loginassets,forgot:email,VISIBLE,true
+    loginassets,forgot:email,ZORDER,0
+    loginassets,forgot:email,FORECOLOR,&h000000
+    loginassets,forgot:email,BACKCOLOR,rgba(120<COMMA> 150<COMMA> 180<COMMA> 0.25)
+    loginassets,forgot:email,FONTNAME,inherit
+    loginassets,forgot:email,FONTSIZE,inherit
+    loginassets,forgot:email,FONTBOLD,false
+    loginassets,forgot:email,FONTITALIC,false
+    loginassets,forgot:email,FONTUNDERLINE,false
+    loginassets,forgot:email,FONTSTRIKETHRU,false
+    loginassets,forgot:email,INFO,
+    loginassets,forgot:email,PAGECOUNT,0
+    loginassets,forgot:email,DATABIND,
+    loginassets,forgot:email,BINDMAPPING,
+    loginassets,forgot:email,drag.x,1
+    loginassets,forgot:email,drag.y,1
+    loginassets,forgot:email,xdragrange,-1<SEMI> -1
+    loginassets,forgot:email,ydragrange,-1<SEMI> -1
+    loginassets,forgot:email,size.x,1
+    loginassets,forgot:email,size.y,1
+    loginassets,forgot:email,negadj,
+    loginassets,forgot:email,posadj,
+    loginassets,forgot:email,child,true
+    loginassets,forgot:email,displaymode,block
+    loginassets,forgot:email,TAG,~bind<COLN> true<LF>bindkey<COLN> email(value)<LF>category<COLN> <LF>class<COLN> <LF>datalist<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>placeholder<COLN> <LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-textbox<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>db-key<COLN> false<LF>db-name<COLN> email<LF>db-type<COLN> text<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0.5px solid #bbb<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> <LF>opacity<COLN> <LF>outline<COLN> none<LF>visibility<COLN> visible<LF>background-color<COLN> rgba(120<COMMA> 150<COMMA> 180<COMMA> 0.25)<LF>border-radius<COLN> 2px<LF>box-sizing<COLN> border-box<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> <LF>div.display<COLN> block<LF>div.margin<COLN> 0px 0px 10px 0px<LF>div.padding<COLN> 0px 0px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative
+    loginassets,forgot:email,LOCK,false
+    loginassets,forgot:email,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>enterkey<COLN> <CR>gotfocus<COLN> <CR>keydown<COLN> forgot.events.emailKeyDown<CR>keypress<COLN> <CR>keyup<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> forgot.events.emailBlur<CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    loginassets,forgot:email,extend,{"react":"<LF>"}
+loginassets,forgot:email,REFRESH, 
+loginassets,forgot:btnclose,TARGET,forgot
+loginassets,forgot:btnclose,PARENTGROUP,forgot
+loginassets,forgot:btnclose,load,button|Cancel|0|0|82|35|1342394112|32
+    loginassets,forgot:btnclose,group,false
+    loginassets,forgot:btnclose,groupid,0
+    loginassets,forgot:btnclose,groupby,0800
+    loginassets,forgot:btnclose,widgetlock,false
+    loginassets,forgot:btnclose,iswidget,true
+    loginassets,forgot:btnclose,iscollection,false
+    loginassets,forgot:btnclose,collectname,
+    loginassets,forgot:btnclose,widgetname,
+    loginassets,forgot:btnclose,placeholder,
+    loginassets,forgot:btnclose,addedby,
+    loginassets,forgot:btnclose,DOCK,FFFF
+    loginassets,forgot:btnclose,PICTURE,media/img_missing.png
+    loginassets,forgot:btnclose,SIZE,82<PIP>35
+    loginassets,forgot:btnclose,JSON,{}
+    loginassets,forgot:btnclose,TEXT,Cancel
+    loginassets,forgot:btnclose,TOOLTIP,
+    loginassets,forgot:btnclose,ENABLED,true
+    loginassets,forgot:btnclose,VISIBLE,true
+    loginassets,forgot:btnclose,ZORDER,0
+    loginassets,forgot:btnclose,FORECOLOR,&hffffff
+    loginassets,forgot:btnclose,BACKCOLOR,&h68789d
+    loginassets,forgot:btnclose,FONTNAME,inherit
+    loginassets,forgot:btnclose,FONTSIZE,13px
+    loginassets,forgot:btnclose,FONTBOLD,false
+    loginassets,forgot:btnclose,FONTITALIC,false
+    loginassets,forgot:btnclose,FONTUNDERLINE,false
+    loginassets,forgot:btnclose,FONTSTRIKETHRU,false
+    loginassets,forgot:btnclose,INFO,
+    loginassets,forgot:btnclose,PAGECOUNT,0
+    loginassets,forgot:btnclose,DATABIND,
+    loginassets,forgot:btnclose,BINDMAPPING,
+    loginassets,forgot:btnclose,drag.x,1
+    loginassets,forgot:btnclose,drag.y,1
+    loginassets,forgot:btnclose,xdragrange,-1<SEMI> -1
+    loginassets,forgot:btnclose,ydragrange,-1<SEMI> -1
+    loginassets,forgot:btnclose,size.x,1
+    loginassets,forgot:btnclose,size.y,1
+    loginassets,forgot:btnclose,negadj,
+    loginassets,forgot:btnclose,posadj,
+    loginassets,forgot:btnclose,child,true
+    loginassets,forgot:btnclose,displaymode,inline-block
+    loginassets,forgot:btnclose,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-button<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 2px solid rgba(250<COMMA>250<COMMA>250<COMMA>0.80)<LF>color<COLN> #ffffff<LF>cursor<COLN> <LF>display<COLN> <LF>float<COLN> right<LF>opacity<COLN> <LF>padding<COLN> 2px 7.5px<LF>visibility<COLN> visible<LF>background-color<COLN> #68789d<LF>border-radius<COLN> 3px<LF>font-size<COLN> 13px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> <LF>caption.position<COLN> absolute<LF>caption.text-align<COLN> center<LF>caption.top<COLN> calc(50% - 0.6em)<LF>caption.width<COLN> calc(100% - 15px)<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.margin<COLN> 0px 0px 0px 10px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN>
+    loginassets,forgot:btnclose,LOCK,false
+    loginassets,forgot:btnclose,events,click<COLN> forgot.events.closeClick<CR>dblclick<COLN> <CR>gotfocus<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    loginassets,forgot:btnclose,extend,{"react":"<LF>"}
+loginassets,forgot:btnclose,REFRESH, 
+loginassets,forgot:btnreset,TARGET,forgot
+loginassets,forgot:btnreset,PARENTGROUP,forgot
+loginassets,forgot:btnreset,load,button|Reset Password|0|0|147|35|1342394112|32
+    loginassets,forgot:btnreset,group,false
+    loginassets,forgot:btnreset,groupid,0
+    loginassets,forgot:btnreset,groupby,0800
+    loginassets,forgot:btnreset,widgetlock,false
+    loginassets,forgot:btnreset,iswidget,true
+    loginassets,forgot:btnreset,iscollection,false
+    loginassets,forgot:btnreset,collectname,
+    loginassets,forgot:btnreset,widgetname,
+    loginassets,forgot:btnreset,placeholder,
+    loginassets,forgot:btnreset,addedby,
+    loginassets,forgot:btnreset,DOCK,FFFF
+    loginassets,forgot:btnreset,PICTURE,media/img_missing.png
+    loginassets,forgot:btnreset,SIZE,147<PIP>35
+    loginassets,forgot:btnreset,JSON,{}
+    loginassets,forgot:btnreset,TEXT,Reset Password
+    loginassets,forgot:btnreset,TOOLTIP,
+    loginassets,forgot:btnreset,ENABLED,true
+    loginassets,forgot:btnreset,VISIBLE,true
+    loginassets,forgot:btnreset,ZORDER,0
+    loginassets,forgot:btnreset,FORECOLOR,&hffffff
+    loginassets,forgot:btnreset,BACKCOLOR,&h68789d
+    loginassets,forgot:btnreset,FONTNAME,inherit
+    loginassets,forgot:btnreset,FONTSIZE,13px
+    loginassets,forgot:btnreset,FONTBOLD,false
+    loginassets,forgot:btnreset,FONTITALIC,false
+    loginassets,forgot:btnreset,FONTUNDERLINE,false
+    loginassets,forgot:btnreset,FONTSTRIKETHRU,false
+    loginassets,forgot:btnreset,INFO,
+    loginassets,forgot:btnreset,PAGECOUNT,0
+    loginassets,forgot:btnreset,DATABIND,
+    loginassets,forgot:btnreset,BINDMAPPING,
+    loginassets,forgot:btnreset,drag.x,1
+    loginassets,forgot:btnreset,drag.y,1
+    loginassets,forgot:btnreset,xdragrange,-1<SEMI> -1
+    loginassets,forgot:btnreset,ydragrange,-1<SEMI> -1
+    loginassets,forgot:btnreset,size.x,1
+    loginassets,forgot:btnreset,size.y,1
+    loginassets,forgot:btnreset,negadj,
+    loginassets,forgot:btnreset,posadj,
+    loginassets,forgot:btnreset,child,true
+    loginassets,forgot:btnreset,displaymode,inline-block
+    loginassets,forgot:btnreset,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-button<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> <LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 2px solid rgba(250<COMMA>250<COMMA>250<COMMA>0.80)<LF>color<COLN> #ffffff<LF>cursor<COLN> <LF>display<COLN> <LF>float<COLN> right<LF>opacity<COLN> <LF>padding<COLN> 2px 7.5px<LF>visibility<COLN> visible<LF>background-color<COLN> #68789d<LF>border-radius<COLN> 3px<LF>font-size<COLN> 13px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> <LF>vertical-align<COLN> <LF>caption.position<COLN> absolute<LF>caption.text-align<COLN> center<LF>caption.top<COLN> calc(50% - 0.6em)<LF>caption.width<COLN> calc(100% - 15px)<LF>div.display<COLN> inline-block<LF>div.height<COLN> <LF>div.margin<COLN> 0px 0px 0px 10px<LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.width<COLN>
+    loginassets,forgot:btnreset,LOCK,false
+    loginassets,forgot:btnreset,events,click<COLN> forgot.events.resetClick<CR>dblclick<COLN> <CR>gotfocus<COLN> <CR>longpress<COLN> <CR>lostfocus<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    loginassets,forgot:btnreset,extend,{"react":"<LF>"}
+loginassets,forgot:btnreset,REFRESH, 
+loginassets,nodata,TARGET,~
+loginassets,nodata,PARENTGROUP,~
+loginassets,nodata,load,frame||0|0|392|140|1342177287|32
+    loginassets,nodata,group,true
+    loginassets,nodata,groupid,0100
+    loginassets,nodata,groupby,9999999999
+    loginassets,nodata,widgetlock,false
+    loginassets,nodata,iswidget,true
+    loginassets,nodata,iscollection,false
+    loginassets,nodata,collectname,
+    loginassets,nodata,widgetname,
+    loginassets,nodata,placeholder,
+    loginassets,nodata,addedby,
+    loginassets,nodata,DOCK,FFFF
+    loginassets,nodata,PICTURE,media/img_missing.png
+    loginassets,nodata,SIZE,392<PIP>140
+    loginassets,nodata,JSON,{}
+    loginassets,nodata,TEXT,
+    loginassets,nodata,TOOLTIP,
+    loginassets,nodata,ENABLED,true
+    loginassets,nodata,VISIBLE,true
+    loginassets,nodata,ZORDER,0
+    loginassets,nodata,FORECOLOR,&h000000
+    loginassets,nodata,BACKCOLOR,transparent
+    loginassets,nodata,FONTNAME,inherit
+    loginassets,nodata,FONTSIZE,14px
+    loginassets,nodata,FONTBOLD,false
+    loginassets,nodata,FONTITALIC,false
+    loginassets,nodata,FONTUNDERLINE,false
+    loginassets,nodata,FONTSTRIKETHRU,false
+    loginassets,nodata,INFO,
+    loginassets,nodata,PAGECOUNT,0
+    loginassets,nodata,DATABIND,
+    loginassets,nodata,BINDMAPPING,
+    loginassets,nodata,drag.x,1
+    loginassets,nodata,drag.y,1
+    loginassets,nodata,xdragrange,-1<SEMI> -1
+    loginassets,nodata,ydragrange,-1<SEMI> -1
+    loginassets,nodata,size.x,1
+    loginassets,nodata,size.y,1
+    loginassets,nodata,negadj,
+    loginassets,nodata,posadj,
+    loginassets,nodata,child,false
+    loginassets,nodata,displaymode,block
+    loginassets,nodata,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>~border<COLN> 0px #bbb dotted<LF>color<COLN> #000000<LF>cursor<COLN> <LF>display<COLN> block<LF>height<COLN> <LF>opacity<COLN> <LF>position<COLN> relative<LF>visibility<COLN> visible<LF>width<COLN> auto<LF>background-color<COLN> transparent<LF>box-sizing<COLN> border-box<LF>font-size<COLN> 14px<LF>pointer-events<COLN> inherit<LF>text-align<COLN> left<LF>vertical-align<COLN> middle
+    loginassets,nodata,LOCK,false
+    loginassets,nodata,events,click<COLN> <CR>dblclick<COLN> <CR>dragging<COLN> <CR>dragover<COLN> <CR>dragstart<COLN> <CR>drop<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    loginassets,nodata,extend,{"react":"<LF>"}
+loginassets,nodata,REFRESH, 
+loginassets,nodata:label,TARGET,nodata
+loginassets,nodata:label,PARENTGROUP,nodata
+loginassets,nodata:label,load,label|No content to display.|0|0|105|21|1342377728|32
+    loginassets,nodata:label,group,false
+    loginassets,nodata:label,groupid,0
+    loginassets,nodata:label,groupby,0100
+    loginassets,nodata:label,widgetlock,false
+    loginassets,nodata:label,iswidget,true
+    loginassets,nodata:label,iscollection,false
+    loginassets,nodata:label,collectname,
+    loginassets,nodata:label,widgetname,
+    loginassets,nodata:label,placeholder,
+    loginassets,nodata:label,addedby,
+    loginassets,nodata:label,DOCK,FFFF
+    loginassets,nodata:label,PICTURE,media/img_missing.png
+    loginassets,nodata:label,SIZE,105<PIP>21
+    loginassets,nodata:label,JSON,{}
+    loginassets,nodata:label,TEXT,No content to display.
+    loginassets,nodata:label,TOOLTIP,
+    loginassets,nodata:label,ENABLED,true
+    loginassets,nodata:label,VISIBLE,true
+    loginassets,nodata:label,ZORDER,0
+    loginassets,nodata:label,FORECOLOR,&h999999
+    loginassets,nodata:label,BACKCOLOR,transparent
+    loginassets,nodata:label,FONTNAME,inherit
+    loginassets,nodata:label,FONTSIZE,14px
+    loginassets,nodata:label,FONTBOLD,false
+    loginassets,nodata:label,FONTITALIC,true
+    loginassets,nodata:label,FONTUNDERLINE,false
+    loginassets,nodata:label,FONTSTRIKETHRU,false
+    loginassets,nodata:label,INFO,
+    loginassets,nodata:label,PAGECOUNT,0
+    loginassets,nodata:label,DATABIND,
+    loginassets,nodata:label,BINDMAPPING,
+    loginassets,nodata:label,drag.x,1
+    loginassets,nodata:label,drag.y,1
+    loginassets,nodata:label,xdragrange,-1<SEMI> -1
+    loginassets,nodata:label,ydragrange,-1<SEMI> -1
+    loginassets,nodata:label,size.x,1
+    loginassets,nodata:label,size.y,1
+    loginassets,nodata:label,negadj,
+    loginassets,nodata:label,posadj,
+    loginassets,nodata:label,child,true
+    loginassets,nodata:label,displaymode,block
+    loginassets,nodata:label,TAG,~bind<COLN> false<LF>bindkey<COLN> <LF>category<COLN> <LF>class<COLN> <LF>donottheme<COLN> false<LF>dragable<COLN> false<LF>prevent<COLN> <LF>record<COLN> <LF>scaletype<COLN> false<LF>sizeable<COLN> false<LF>theme<COLN> nimble-label<LF>title<COLN> <LF>watch<COLN> false<LF>xdragrange<COLN> -1; -1<LF>ydragrange<COLN> -1; -1<LF>dlock-height<COLN> <LF>dlock-left<COLN> <LF>dlock-pos<COLN> !!!!<LF>dlock-size<COLN> <LF>dlock-top<COLN> <LF>dlock-width<COLN> !!!!<LF>lock-height<COLN> <LF>lock-left<COLN> <LF>lock-pos<COLN> <LF>lock-size<COLN> <LF>lock-top<COLN> <LF>lock-width<COLN> <LF>scale-cpl<COLN> 25<LF>~border<COLN> 0px solid #bbb<LF>color<COLN> #999999<LF>cursor<COLN> <LF>display<COLN> table<LF>opacity<COLN> <LF>padding<COLN> 0px 0px<LF>visibility<COLN> visible<LF>background-color<COLN> transparent<LF>font-size<COLN> 14px<LF>font-style<COLN> italic<LF>text-align<COLN> left<LF>vertical-align<COLN> middle<LF>caption.display<COLN> table-cell<LF>caption.left<COLN> 0px<LF>caption.position<COLN> relative<LF>caption.text-align<COLN> center<LF>caption.vertical-align<COLN> middle<LF>caption.width<COLN> auto<LF>div.display<COLN> block<LF>div.height<COLN> <LF>div.pointer-events<COLN> inherit<LF>div.position<COLN> relative<LF>div.top<COLN> calc(50% - 16px)<LF>div.width<COLN> auto
+    loginassets,nodata:label,LOCK,false
+    loginassets,nodata:label,events,change<COLN> <CR>click<COLN> <CR>dblclick<COLN> <CR>longpress<COLN> <CR>menu<COLN> <CR>mousedown<COLN> <CR>mouseenter<COLN> <CR>mousemove<COLN> <CR>mouseout<COLN> <CR>mouseup<COLN> <CR>mousewheel<COLN> <CR>touchend<COLN> <CR>touchmove<COLN> <CR>touchstart<COLN>
+    loginassets,nodata:label,extend,{"react":"<LF>"}
+loginassets,nodata:label,REFRESH, 
+loginassets,,SETVIEW,
+loginassets,,HIDE,
+loginassets,,REFRESH,true
